@@ -15,6 +15,9 @@
 
 ### Windows
 
+#### Xd
+`Shift + Scroll` Scroll horizontally
+
 #### Zoom
 `Ctrl + Alt + Shift + H` &rarr; Hide
 
