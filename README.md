@@ -1,4 +1,5 @@
 # Notes
+* Remember to frequently use `git fetch` and `git pull`
 
 ## Emails
 
