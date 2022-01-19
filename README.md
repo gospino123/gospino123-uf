@@ -145,6 +145,12 @@ Future task               :         des3, after des2, 5d
 Future task2               :         des4, after des3, 5d
 ```
 
+### Hueso
+
+#### Row
+| M &rarr; L | B | M &rarr; T | B | M &rarr; L |
+| :---: | :---: | :---: | :---: | :---: |
+| 1 to 4 | 1 | 1 to 2 | 1 | 1 to 4 |
 
 <!-- 
 ### Run
