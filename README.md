@@ -16,9 +16,9 @@
 ### General
 | Windows | Web Browser | Xd | Zoom |
 | :---: | :---: | :---: | :---: |
-| `Win + Alt + R` Screen Record | `Ctrl + Shift + T` Recover Tab | `Shift + Scroll` Scroll Horizontally | `Ctrl + Alt + Shift + H` Hide Bar (for remote IT help) |
-| `Win + Shift + S` Screen Capture | | | `Alt + A` Microphone Toggle |
-| | | | `Alt + S` Share Screen Prompt |
+| Screen Record<br> `Win + Alt + R` | Recover Tab<br> `Ctrl + Shift + T` | Scroll Horizontally<br> `Shift + Scroll` | Hide Bar (for remote IT help)<br> `Ctrl + Alt + Shift + H` |
+| Screen Capture<br> `Win + Shift + S` | | | Microphone Toggle<br> `Alt + A` |
+| | | | Share Screen Prompt<br> `Alt + S` |
 
 ### Web Development
 
