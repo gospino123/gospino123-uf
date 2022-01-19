@@ -18,17 +18,17 @@
 `npm run start` (em?)
 
 ### Node
-`npm install cmder` $rarr; Install Cmder
+`npm install cmder` &rarr; Install Cmder
 
 ### Windows
-* `Win + Alt + R` $rarr; Screen Record
-* `Win + Shift + S` $rarr; Screen Capture
+* `Win + Alt + R` &rarr; Screen Record
+* `Win + Shift + S` &rarr; Screen Capture
 
 #### Web Browser
-`Ctrl + Shift + T` $rarr; Recover Tab
+`Ctrl + Shift + T` &rarr; Recover Tab
 
 #### Xd
-`Shift + Scroll` $rarr; Scroll horizontally
+`Shift + Scroll` &rarr; Scroll horizontally
 
 #### Zoom
 `Ctrl + Alt + Shift + H` &rarr; Hide
