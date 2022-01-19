@@ -1,5 +1,4 @@
 # Notes
-* Remember to frequently use `git fetch` and `git pull`
 
 ## Current Websites
 * [Admissions](https://admissions.ufl.edu)
@@ -8,39 +7,45 @@
 * [Registrar](https://registrar.ufl.edu/)
 * [Veterans Affairs](https://veterans.ufl.edu/)
 
+<!--
 ## Emails
+-->
 
 ## Useful Shortcuts
 
-### Bash
-`npm run dev` (admissions)
+### General
 
-`npm run start` (em?)
-
-### Node
-`npm install cmder` &rarr; Install Cmder
-
-### Windows
+#### Windows
 * `Win + Alt + R` &rarr; Screen Record
 * `Win + Shift + S` &rarr; Screen Capture
 
-#### Web Browser
+##### Web Browser
 `Ctrl + Shift + T` &rarr; Recover Tab
 
-#### Xd
+##### Xd
 `Shift + Scroll` &rarr; Scroll horizontally
 
-#### Zoom
+##### Zoom
 `Ctrl + Alt + Shift + H` &rarr; Hide
 
 `Alt + A` &rarr; Microphone Toggle
 
 `Alt + S` &rarr; Share Screen Prompt
 
-#### VSCode
+### Web Development
+
+#### Bash
+`npm run dev` (admissions)
+
+`npm run start` (em?)
+
+#### Node
+`npm install cmder` &rarr; Install Cmder
+
+##### VSCode
 From Command Prompt, `code .` opens current folder in code
 
-#### Git
+##### Git
 
 ## Terminology
 
@@ -81,6 +86,8 @@ flowchart LR
 ## In Progress
 
 ### Workflow
+
+* Remember to frequently use `git fetch` and `git pull`
 
 <!-- HIDDEN UF WORKFLOW TEMPLATE
 #### mermaid
@@ -138,9 +145,12 @@ Future task               :         des3, after des2, 5d
 Future task2               :         des4, after des3, 5d
 ```
 
-### Run 
+
+<!-- 
+### Run
 
 #### Naming Conventions
 - camelCase for vars
 - underscores for images
 - dashes for filenames
+-->
