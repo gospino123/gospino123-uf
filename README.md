@@ -1,6 +1,13 @@
 # Notes
 * Remember to frequently use `git fetch` and `git pull`
 
+## Current Websites
+* [Admissions](https://admissions.ufl.edu)
+* [Admissions Blog](https://admissions.ufl.edu/blog/)
+* [Enrollment Management](https://em.ufl.edu)
+* [Registrar](https://registrar.ufl.edu/)
+* [Veterans Affairs](https://veterans.ufl.edu/)
+
 ## Emails
 
 ## Useful Shortcuts
@@ -11,13 +18,17 @@
 `npm run start` (em?)
 
 ### Node
-`npm install cmder`
-
+`npm install cmder` $rarr; Install Cmder
 
 ### Windows
+* `Win + Alt + R` $rarr; Screen Record
+* `Win + Shift + S` $rarr; Screen Capture
+
+#### Web Browser
+`Ctrl + Shift + T` $rarr; Recover Tab
 
 #### Xd
-`Shift + Scroll` Scroll horizontally
+`Shift + Scroll` $rarr; Scroll horizontally
 
 #### Zoom
 `Ctrl + Alt + Shift + H` &rarr; Hide
@@ -53,7 +64,7 @@ flowchart LR
 
 #### Incident Triage
 
-|   | High Impact | Medium Impact | Low Impact |
+|   | Low Impact | Medium Impact | High Impact |
 | :---: |  :---: | :---: | :---: |
 | High Urgency | 1 | 2 | 3 |
 | Medium Urgency | 2 | 3 | 4 |
