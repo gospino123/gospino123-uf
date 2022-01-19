@@ -14,23 +14,11 @@
 ## Useful Shortcuts
 
 ### General
-
-#### Windows
-* `Win + Alt + R` &rarr; Screen Record
-* `Win + Shift + S` &rarr; Screen Capture
-
-##### Web Browser
-`Ctrl + Shift + T` &rarr; Recover Tab
-
-##### Xd
-`Shift + Scroll` &rarr; Scroll horizontally
-
-##### Zoom
-`Ctrl + Alt + Shift + H` &rarr; Hide
-
-`Alt + A` &rarr; Microphone Toggle
-
-`Alt + S` &rarr; Share Screen Prompt
+| Windows | Web Browser | Xd | Zoom |
+| :---: | :---: | :---: | :---: |
+| `Win + Alt + R` &rarr; Screen Record | `Ctrl + Shift + T` &rarr; Recover Tab | `Shift + Scroll` &rarr; Scroll Horizontally | `Ctrl + Alt + Shift + H` &rarr; Hide Bar (for remote IT help) |
+| `Win + Shift + S` &rarr; Screen Capture | | | `Alt + A` &rarr; Microphone Toggle |
+| | | | `Alt + S` &rarr; Share Screen Prompt |
 
 ### Web Development
 
