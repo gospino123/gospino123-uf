@@ -150,7 +150,7 @@ Future task2               :         des4, after des3, 5d
 -->
 
 #### Tips
-<details><summary>Sass Filing</summary>
+<details><summary><a href="https://itnext.io/structuring-your-sass-projects-c8d41fa55ed4">Sass Filing</a></summary>
     <pre>
         _base.scss
         _layout.scss
