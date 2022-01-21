@@ -148,3 +148,13 @@ Future task2               :         des4, after des3, 5d
 - underscores for images
 - dashes for filenames
 -->
+
+#### Tips
+<details><summary>Sass Filing</summary>
+    <pre>
+        _base.scss
+        _layout.scss
+        _components.scss
+        main.scss
+    </pre>
+</details>
