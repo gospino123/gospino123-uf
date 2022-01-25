@@ -38,7 +38,32 @@ From Command Prompt, `code .` opens current folder in code
 ## Terminology
 
 ### EM
-Yield: Period in which students get accepted and decide where they will go to Uni
+Yield: Period in which students get accepted and decide where they will go to university
+
+#### Designers
+_Example View_
+
+Orphan
+```
+    ~~~
+    ~~~
+~~~   
+ x
+```
+Widow
+```
+     x
+    ~~~
+~~~ ~~~
+~~~
+```
+Runt
+```
+     x
+~~~ ~~~
+~~~
+~~~
+```
 
 ### ITSM
 #### ITSM Workflow Process
