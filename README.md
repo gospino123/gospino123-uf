@@ -22,7 +22,7 @@
 
 ### Web Development
 
-#### Bash
+#### Bash (WIP)
 `npm run dev` (admissions)
 
 `npm run start` (em?)
@@ -33,7 +33,16 @@
 ##### VSCode
 From Command Prompt, `code .` opens current folder in code
 
-##### Git
+##### Git (WIP)
+
+##### Bookmarklets (WIP)
+<!--
+`javascript:alert($(window).height());` &rarr; Get current window height in a browser alert
+
+`javascript:alert($(window).width());` &rarr; Get current window width in a browser alert
+
+_Note: These cannot be copy/pasted into the URL and some pages may prevent the alert from appearing._
+-->
 
 ## Terminology
 
