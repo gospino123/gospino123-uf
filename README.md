@@ -93,9 +93,9 @@ flowchart LR
 
 |   | Low Impact | Medium Impact | High Impact |
 | :---: |  :---: | :---: | :---: |
-| High Urgency | 1 | 2 | 3 |
+| Low Urgency | 1 | 2 | 3 |
 | Medium Urgency | 2 | 3 | 4 |
-| Low Urgency | 3 | 4 | 5 |
+| High Urgency | 3 | 4 | 5 |
 
 *Impact: Number of users/items affected/influenced*
 *Urgency: Based on time until significant impact*
