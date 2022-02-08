@@ -9,6 +9,7 @@
 
 ## Helpful Links
 * [HTML URL Encoding Reference](https://www.w3schools.com/tags/ref_urlencode.ASP) _Helpful for use with API calls with input text_
+* [WebAIM Contrast Checker](https://open.spotify.com/track/2grjqo0Frpf2okIBiifQKs?si=003d98da1a004084) _Helpful for manual checks for color contrast issues_
 
 <!--
 ## Emails
