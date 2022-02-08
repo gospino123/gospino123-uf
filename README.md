@@ -7,6 +7,9 @@
 * [Registrar](https://registrar.ufl.edu/)
 * [Veterans Affairs](https://veterans.ufl.edu/)
 
+## Helpful Links
+* [HTML URL Encoding Reference](https://www.w3schools.com/tags/ref_urlencode.ASP) _Helpful for use with API calls with input text_
+
 <!--
 ## Emails
 -->
