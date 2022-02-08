@@ -38,6 +38,11 @@
 From Command Prompt, `code .` opens current folder in code
 
 ##### Git (WIP)
+* `git cherry-pick`
+  * `git cherry-pick commit-SHA` _Merges a particular commit_
+  * `git cherry-pick first-commit-SHA-in-range^..last-commit-SHA-in-range` _Merges a range of commits including the first in range_
+    * In `git cherry-pick A..B`, A should be older than B
+  * `git cherry-pick first-commit-SHA-in-range..last-commit-SHA-in-range` _Merges a range of commits **NOT** including the first in range_
 
 ##### Bookmarklets (WIP)
 <!--
