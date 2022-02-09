@@ -10,6 +10,7 @@
 ## Helpful Links
 * [HTML URL Encoding Reference](https://www.w3schools.com/tags/ref_urlencode.ASP) _Helpful for use with API calls with input text_
 * [WebAIM Contrast Checker](https://open.spotify.com/track/2grjqo0Frpf2okIBiifQKs?si=003d98da1a004084) _Helpful for manual checks for color contrast issues_
+<!-- [myAssets - External User Portal](https://myassets.fa.ufl.edu/ext/#/home) _Helpful for foreign travel requests, off-site certification for assets and online shopping_ -->
 
 <!--
 ## Emails
