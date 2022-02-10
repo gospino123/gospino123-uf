@@ -10,6 +10,7 @@
 ## Helpful Links
 * [HTML URL Encoding Reference](https://www.w3schools.com/tags/ref_urlencode.ASP) _Helpful for use with API calls with input text_
 * [WebAIM Contrast Checker](https://open.spotify.com/track/2grjqo0Frpf2okIBiifQKs?si=003d98da1a004084) _Helpful for manual checks for color contrast issues_
+* [Font Size Change in Browser for Users](https://www.computerhope.com/issues/ch000779.htm#:~:text=Press%20and%20hold%20the%20Ctrl,and%20decrease%20the%20font%20size.) _Helpful to see how people use resizing to view content better_
 <!-- [myAssets - External User Portal](https://myassets.fa.ufl.edu/ext/#/home) _Helpful for foreign travel requests, off-site certification for assets and online shopping_ -->
 
 <!--
