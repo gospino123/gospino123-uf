@@ -14,9 +14,9 @@
 * [Squoosh](https://squoosh.app/) _Helpful for making image files smaller so they load faster (not necessary if using Image Optimizer on macOS)_
 <!-- [myAssets - External User Portal](https://myassets.fa.ufl.edu/ext/#/home) _Helpful for foreign travel requests, off-site certification for assets and online shopping_ -->
 <!-- * [13 Days of Accessibility](http://a11ycalendar.kaseybon.com/) _Helpful for gradually learning_ -->
-[Lorem Picsum](https://picsum.photos/) _Helpful for populating with random image with specified measurements_
+* [Lorem Picsum](https://picsum.photos/) _Helpful for populating with random image with specified measurements_
 <!-- [Apple Typography](https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/typography/) _Helpful for accessibility with research-backed data_ -->
-[Git Stash Explained](https://www.freecodecamp.org/news/git-stash-explained/)
+* [Git Stash Explained](https://www.freecodecamp.org/news/git-stash-explained/)
 
 <!--
 ## Emails
