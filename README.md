@@ -24,6 +24,7 @@
 * [HTML URL Encoding Reference](https://www.w3schools.com/tags/ref_urlencode.ASP)<br> _For use with API calls with input text_
 * [Squoosh](https://squoosh.app/)<br> _For making image files smaller so they load faster (not necessary if using Image Optimizer on macOS)_
 * [Lorem Picsum](https://picsum.photos/)<br> _For populating with random image with specified measurements_
+* [Image Optimization Perspective](https://www.jimdo.com/blog/optimize-website-images-for-better-design-seo/) _For perspective on image optimization_
 * [Git Stash Explained](https://www.freecodecamp.org/news/git-stash-explained/)
 </details>
  
