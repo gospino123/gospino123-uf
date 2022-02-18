@@ -1,26 +1,47 @@
 # Notes
 
-## Current Websites
-* [Admissions](https://admissions.ufl.edu)
-* [Admissions Blog](https://admissions.ufl.edu/blog/)
-* [Enrollment Management](https://em.ufl.edu)
-* [Registrar](https://registrar.ufl.edu/)
-* [Veterans Affairs](https://veterans.ufl.edu/)
+## Websites
+<details><summary>Main Websites</summary>
+ 
+ * [Admissions](https://admissions.ufl.edu)
+ * [Admissions Blog](https://admissions.ufl.edu/blog/)
+ * [Enrollment Management](https://em.ufl.edu)
+ * [Registrar](https://registrar.ufl.edu/)
+ * [Veterans Affairs](https://veterans.ufl.edu/)
+</details>
+
 
 ## Helpful Links
-* [HTML URL Encoding Reference](https://www.w3schools.com/tags/ref_urlencode.ASP) _Helpful for use with API calls with input text_
-* [WebAIM Contrast Checker](https://open.spotify.com/track/2grjqo0Frpf2okIBiifQKs?si=003d98da1a004084) _Helpful for manual checks for color contrast issues_
-* [Font Size Change in Browser for Users](https://www.computerhope.com/issues/ch000779.htm#:~:text=Press%20and%20hold%20the%20Ctrl,and%20decrease%20the%20font%20size.) _Helpful to see how people use resizing to view content better_
-* [Squoosh](https://squoosh.app/) _Helpful for making image files smaller so they load faster (not necessary if using Image Optimizer on macOS)_
-<!-- [myAssets - External User Portal](https://myassets.fa.ufl.edu/ext/#/home) _Helpful for foreign travel requests, off-site certification for assets and online shopping_ -->
-<!-- * [13 Days of Accessibility](http://a11ycalendar.kaseybon.com/) _Helpful for gradually learning_ -->
-* [Lorem Picsum](https://picsum.photos/) _Helpful for populating with random image with specified measurements_
-<!-- [Apple Typography](https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/typography/) _Helpful for accessibility with research-backed data_ -->
+
+<details><summary>Web Accessibility</summary>
+ 
+* [WebAIM Contrast Checker](https://open.spotify.com/track/2grjqo0Frpf2okIBiifQKs?si=003d98da1a004084)<br> _For manual checks for color contrast issues_
+* [Font Size Change in Browser for Users](https://www.computerhope.com/issues/ch000779.htm#:~:text=Press%20and%20hold%20the%20Ctrl,and%20decrease%20the%20font%20size.)<br> _To see how people use resizing to view content better_
+</details>
+
+<details><summary>Design/Development</summary>
+ 
+* [HTML URL Encoding Reference](https://www.w3schools.com/tags/ref_urlencode.ASP)<br> _For use with API calls with input text_
+* [Squoosh](https://squoosh.app/)<br> _For making image files smaller so they load faster (not necessary if using Image Optimizer on macOS)_
+* [Lorem Picsum](https://picsum.photos/)<br> _For populating with random image with specified measurements_
 * [Git Stash Explained](https://www.freecodecamp.org/news/git-stash-explained/)
+</details>
+ 
+<!-- [myAssets - External User Portal](https://myassets.fa.ufl.edu/ext/#/home)<br> _For foreign travel requests, off-site certification for assets and online shopping_ -->
+<!-- * [13 Days of Accessibility](http://a11ycalendar.kaseybon.com/)<br> _For gradually learning accessibility standards_ -->
+<!-- [Apple Typography](https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/typography/)<br> _For accessibility with research-backed data_ -->
 
 <!--
 ## Emails
 -->
+
+## Personal Naming Conventions Preferences
+- **_camelCase_** for variables
+    - camelCaseExample
+- **_underscores_** for images
+    - underscore_example
+- **_dashes_** for filenames/folders
+    - filename-or-folder-example
 
 ## Useful Shortcuts
 
@@ -33,10 +54,10 @@
 
 ### Web Development
 
-#### Bash (WIP)
-`npm run dev` (admissions)
-
-`npm run start` (em?)
+<details><summary>Bash (WIP)</summary>
+ <code>npm run dev</code> <span>(admissions)</span>
+ <code>npm run start</code> <span>(em?)</span>
+</details>
 
 #### Node
 `npm install cmder` &rarr; Install Cmder
@@ -193,15 +214,6 @@ Future task2              :         des4, after des3, 5d
 | M &rarr; L | B | M &rarr; T | B | M &rarr; L |
 | :---: | :---: | :---: | :---: | :---: |
 | 1 to 4 | 1 | 1 to 2 | 1 | 1 to 4 |
-
-<!-- 
-### Run
-
-#### Naming Conventions
-- camelCase for vars
-- underscores for images
-- dashes for filenames
--->
 
 #### Tips
 <details><summary>Very Basic Sass Filing and <a href="https://itnext.io/structuring-your-sass-projects-c8d41fa55ed4">Article on Sass Filing</a> with more complex suggestions</summary>
