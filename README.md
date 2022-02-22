@@ -79,6 +79,8 @@ From Command Prompt, `code .` opens current folder in code
 
 ##### Bookmarklets (WIP)
 <!--
+[Source for some window size functions](https://www.rapidtables.com/web/tools/window-size.html)
+
 `javascript:alert($(window).height());` &rarr; Get current window height in a browser alert
 
 `javascript:alert($(window).width());` &rarr; Get current window width in a browser alert
