@@ -76,6 +76,7 @@ From Command Prompt, `code .` opens current folder in code
   * `git cherry-pick first-commit-SHA-in-range^..last-commit-SHA-in-range` _Merges a range of commits including the first in range_
     * In `git cherry-pick A..B`, A should be older than B
   * `git cherry-pick first-commit-SHA-in-range..last-commit-SHA-in-range` _Merges a range of commits **NOT** including the first in range_
+  * [Git Stash Explained](https://www.freecodecamp.org/news/git-stash-explained/)
 
 ##### Dev Tools
 * `[].forEach.call($$("*"),function(a){a.style.outline="1px solid #"+(~~(Math.random()*(1<<24))).toString(16)})` _Input in console: Helpful for checking element padding_
