@@ -82,6 +82,9 @@ From Command Prompt, `code .` opens current folder in code
 * `[].forEach.call($$("*"),function(a){a.style.outline="1px solid #"+(~~(Math.random()*(1<<24))).toString(16)})` _Input in console: Helpful for checking element padding_
 
 ##### Bookmarklets (WIP)
+
+* [Get window inner width](javascript: void(0); alert(innerWidth);)
+* [Get window inner height](javascript: void(0); alert(innerHeight);)
 <!--
 [Source for some window size functions](https://www.rapidtables.com/web/tools/window-size.html)
 
