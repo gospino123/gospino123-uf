@@ -83,7 +83,7 @@ From Command Prompt, `code .` opens current folder in code
 ```mermaid
 flowchart LR
  A([Master/Main]) ==> B[Main Commit];
- A -.-> D[Feature Commit #1];
+ A -. Create branch to start Feature .-> D[Feature Commit #1];
  B ==> C{{Main Tip}};
  D -.-> E[Feature Commit #2];
  E -.-> F{{Feature Tip}};
