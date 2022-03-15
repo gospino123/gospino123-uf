@@ -26,6 +26,8 @@
 * [Lorem Picsum](https://picsum.photos/)<br> _For populating with random image with specified measurements_
 * [Image Optimization Perspective](https://www.jimdo.com/blog/optimize-website-images-for-better-design-seo/)
 * [Git Stash Explained](https://www.freecodecamp.org/news/git-stash-explained/)
+* [Campaign URL Builder](https://ga-dev-tools.web.app/campaign-url-builder/)
+* [QR Code Generator](https://www.qrcode-monkey.com/)
 </details>
  
 <!-- [myAssets - External User Portal](https://myassets.fa.ufl.edu/ext/#/home)<br> _For foreign travel requests, off-site certification for assets and online shopping_ -->
