@@ -138,6 +138,8 @@ Runt
 ~~~
 ~~~
 ```
+#### Web Developers
+Signifiers/Affordances: Indicators that show users how to interact with new objects/situations.
 
 ### ITSM
 #### ITSM Workflow Process
