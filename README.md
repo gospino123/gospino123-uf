@@ -140,6 +140,8 @@ Runt
 ```
 #### Web Developers
 Signifiers/Affordances: Indicators that show users how to interact with new objects/situations.
+<!-- title: attribute of any HTML element but is most useful for interactive elements. They are usually defaulted as tooltips-->
+<!-- Tip: Add cursor: pointer; to actual a element and not just onto a state of a -->
 
 ### ITSM
 #### ITSM Workflow Process
