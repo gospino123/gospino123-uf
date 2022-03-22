@@ -78,7 +78,18 @@ From Command Prompt, `code .` opens current folder in code
   * `git cherry-pick first-commit-SHA-in-range^..last-commit-SHA-in-range` _Merges a range of commits including the first in range_
     * In `git cherry-pick A..B`, A should be older than B
   * `git cherry-pick first-commit-SHA-in-range..last-commit-SHA-in-range` _Merges a range of commits **NOT** including the first in range_
-  * [Git Stash Explained](https://www.freecodecamp.org/news/git-stash-explained/)
+
+* [Git Stash Explained](https://www.freecodecamp.org/news/git-stash-explained/)
+* Git Commit types (not strict):
+  * feat: The new feature you're adding to a particular application
+  * fix: A bug fix
+  * style: Feature and updates related to styling
+  * refactor: Refactoring a specific section of the codebase
+  * test: Everything related to testing
+  * docs: Everything related to documentation
+  * chore: Regular code maintenance.[ You can also use emojis to represent commit types]
+
+
 ###### Branching Procedures
 ```mermaid
 flowchart LR
