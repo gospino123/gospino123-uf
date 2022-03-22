@@ -88,6 +88,8 @@ From Command Prompt, `code .` opens current folder in code
   * test: Everything related to testing
   * docs: Everything related to documentation
   * chore: Regular code maintenance.[ You can also use emojis to represent commit types]
+* Git Commit Example: 
+  * `type(scope): subject` from [Art of Writing a Good Commit Message - Dev](https://dev.to/wordssaysalot/art-of-writing-a-good-commit-message-56o7)
 
 
 ###### Branching Procedures
