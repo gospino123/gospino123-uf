@@ -93,6 +93,8 @@ From Command Prompt, `code .` opens current folder in code
 * Git Commit Example: 
   * `type(scope): subject` from [Art of Writing a Good Commit Message - Dev](https://dev.to/wordssaysalot/art-of-writing-a-good-commit-message-56o7)
 
+  * Also, WIP: Work in progress, sort of an overarching miscellaneous
+
 
 ###### Branching Procedures
 ```mermaid
