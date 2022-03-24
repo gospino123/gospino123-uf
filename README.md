@@ -8,6 +8,7 @@
  * [Enrollment Management](https://em.ufl.edu)
  * [Registrar](https://registrar.ufl.edu/)
  * [Veterans Affairs](https://veterans.ufl.edu/)
+ 
 </details>
 
 
@@ -16,6 +17,7 @@
 <details><summary>Web Accessibility</summary>
  
 * [WebAIM Contrast Checker](https://open.spotify.com/track/2grjqo0Frpf2okIBiifQKs?si=003d98da1a004084)<br> _For manual checks for color contrast issues_
+* [Fixing Focus Outlines](https://stackoverflow.com/questions/57605812/why-a-tags-set-as-displayblock-have-irregular-focus-outline-shape)<br> _For correcting the blob shape on outlines_
 * [Font Size Change in Browser for Users](https://www.computerhope.com/issues/ch000779.htm#:~:text=Press%20and%20hold%20the%20Ctrl,and%20decrease%20the%20font%20size.)<br> _To see how people use resizing to view content better_
 </details>
 
