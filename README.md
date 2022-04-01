@@ -32,6 +32,7 @@
 * [QR Code Generator](https://www.qrcode-monkey.com/)
 * [Approximate Hex Color to Filter for SVGs](https://codepen.io/sosuke/pen/Pjoqqp)
 * [Styling svg use Content](https://tympanus.net/codrops/2015/07/16/styling-svg-use-content-css/)
+
 </details>
  
 <!-- [myAssets - External User Portal](https://myassets.fa.ufl.edu/ext/#/home)<br> _For foreign travel requests, off-site certification for assets and online shopping_ -->
@@ -41,6 +42,7 @@
 <!-- [Source for some window size functions](https://www.rapidtables.com/web/tools/window-size.html) _For getting window size and other useful utilities_ -->
 <!-- [Why to use noopener noreferrer for links opening in another tab](https://stackoverflow.com/questions/50709625/link-with-target-blank-and-rel-noopener-noreferrer-still-vulnerable)
  -->
+<!-- * [Standards for Various Technologies](https://spec.whatwg.org/) -->
 
 <!--
 ## Emails
