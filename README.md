@@ -32,7 +32,8 @@
 * [QR Code Generator](https://www.qrcode-monkey.com/)
 * [Approximate Hex Color to Filter for SVGs](https://codepen.io/sosuke/pen/Pjoqqp)
 * [Styling svg use Content](https://tympanus.net/codrops/2015/07/16/styling-svg-use-content-css/)
-* [Color generator](https://coolors.co)
+* [Color Palettee Generator](https://coolors.co)
+* [Expand Palette on One Color](https://mycolor.space/)
 
 </details>
  
