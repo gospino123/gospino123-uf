@@ -19,23 +19,28 @@
 * [WebAIM Contrast Checker](https://open.spotify.com/track/2grjqo0Frpf2okIBiifQKs?si=003d98da1a004084)<br> _For manual checks for color contrast issues_
 * [Fixing Focus Outlines](https://stackoverflow.com/questions/57605812/why-a-tags-set-as-displayblock-have-irregular-focus-outline-shape)<br> _For correcting the blob shape on outlines_
 * [Font Size Change in Browser for Users](https://www.computerhope.com/issues/ch000779.htm#:~:text=Press%20and%20hold%20the%20Ctrl,and%20decrease%20the%20font%20size.)<br> _To see how people use resizing to view content better_
+* [Color Blindness Filter Checker](https://www.toptal.com/designers/colorfilter/)<br> _Check ADA, CTA effectiveness and Gradient use_
 </details>
 
-<details><summary>Design/Development</summary>
+<details><summary>Design</summary>
+ 
+* [Image Optimization Perspective](https://www.jimdo.com/blog/optimize-website-images-for-better-design-seo/)<br> _Info on optimizing images for web_
+* [Color Palette Generator](https://coolors.co)<br> _Tool to randomize a color palette_
+* [Expand Palette on One Color](https://mycolor.space/)<br> _Tool to expand palette based on input_
+* [Color Mixer](https://colordesigner.io/color-mixer)<br> _Tool for mixing colors_
+</details>
+
+<details><summary>Development</summary>
  
 * [HTML URL Encoding Reference](https://www.w3schools.com/tags/ref_urlencode.ASP)<br> _For use with API calls with input text_
 * [Squoosh](https://squoosh.app/)<br> _For making image files smaller so they load faster (not necessary if using Image Optimizer on macOS)_
 * [Lorem Picsum](https://picsum.photos/)<br> _For populating with random image with specified measurements_
-* [Image Optimization Perspective](https://www.jimdo.com/blog/optimize-website-images-for-better-design-seo/)
-* [Git Stash Explained](https://www.freecodecamp.org/news/git-stash-explained/)
+* [Image Optimization Perspective](https://www.jimdo.com/blog/optimize-website-images-for-better-design-seo/)<br> _Info on optimizing images for web_
+* [Git Stash Explained](https://www.freecodecamp.org/news/git-stash-explained/)<br> _Quick code/example on stash use_ 
 * [Campaign URL Builder](https://ga-dev-tools.web.app/campaign-url-builder/)
 * [QR Code Generator](https://www.qrcode-monkey.com/)
-* [Approximate Hex Color to Filter for SVGs](https://codepen.io/sosuke/pen/Pjoqqp)
-* [Styling svg use Content](https://tympanus.net/codrops/2015/07/16/styling-svg-use-content-css/)
-* [Color Palettee Generator](https://coolors.co)
-* [Expand Palette on One Color](https://mycolor.space/)
-* [Color Blindness Filter Checker](https://www.toptal.com/designers/colorfilter/) Useful to check ADA, CTA effectiveness and Gradient use
-* [Color Mixer](https://colordesigner.io/color-mixer)
+* [Approximate Hex Color to Filter for SVGs](https://codepen.io/sosuke/pen/Pjoqqp)<br> _Inaccurate approximation for color to filter use on SVGs_
+* [Styling svg use Content](https://tympanus.net/codrops/2015/07/16/styling-svg-use-content-css/)<br> _Tips on using svg with css, specifically using svg use_
 
 </details>
  
