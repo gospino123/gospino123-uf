@@ -58,7 +58,7 @@
 ## Emails
 -->
 
-## Personal Naming Conventions Preferences
+## Personal Preferences for Naming Conventions
 - **_camelCase_** for variables
     - camelCaseExample
 - **_underscores_** for images
