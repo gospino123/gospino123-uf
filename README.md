@@ -83,6 +83,8 @@
  <code>npm run start</code> <span>(em?)</span>
 </details>
 
+<!-- Add mermaid of website creation life cycle (include Continuous Improvement) -->
+
 #### Node
 `npm install cmder` &rarr; Install Cmder
 
