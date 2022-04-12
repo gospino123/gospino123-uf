@@ -181,7 +181,7 @@ Signifiers/Affordances: Indicators that show users how to interact with new obje
 #### ITSM Workflow Process
 ```mermaid
 flowchart LR
-    A[Detect] --> B[Record];
+    A([Detect]) --> B[Record];
     B --> C{Classify};
     C -.-> D[Incident];
     D -.-> E[Investigate];
@@ -189,7 +189,7 @@ flowchart LR
     C -.-> F[Request];
     F -.-> G[Fulfill];
     G -.-> I[Resolve];
-    I --> J[Close];
+    I --> J([Close]);
 ```
 
 #### Incident Triage
