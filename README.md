@@ -100,13 +100,13 @@ From Command Prompt, `code .` opens current folder in code
 
 * [Git Stash Explained](https://www.freecodecamp.org/news/git-stash-explained/)
 * Git Commit types (not strict):
-  * feat: The new feature you're adding to a particular application
-  * fix: A bug fix
-  * style: Feature and updates related to styling
-  * refactor: Refactoring a specific section of the codebase
-  * test: Everything related to testing
-  * docs: Everything related to documentation
-  * chore: Regular code maintenance.[ You can also use emojis to represent commit types]
+  * **feat**: The new feature you're adding to a particular application
+  * **fix**: A bug fix
+  * **style**: Feature and updates related to styling
+  * **refactor**: Refactoring a specific section of the codebase
+  * **test**: Everything related to testing
+  * **docs**: Everything related to documentation
+  * **chore**: Regular code maintenance.[ You can also use emojis to represent commit types]
 * Git Commit Example: 
   * `type(scope): subject` from [Art of Writing a Good Commit Message - Dev](https://dev.to/wordssaysalot/art-of-writing-a-good-commit-message-56o7)
 
