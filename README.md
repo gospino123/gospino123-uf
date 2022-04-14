@@ -11,7 +11,7 @@
  
 </details>
 
-* [Emails](https://my.admissions.ufl.edu/manage/)
+* [Slate Emails](https://my.admissions.ufl.edu/manage/)
 
 ## Helpful Links
 
