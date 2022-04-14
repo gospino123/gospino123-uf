@@ -10,6 +10,7 @@
  * [Veterans Affairs](https://veterans.ufl.edu/)
  
 </details>
+
 * [Emails](https://my.admissions.ufl.edu/manage/)
 
 ## Helpful Links
