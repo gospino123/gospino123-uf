@@ -11,6 +11,8 @@
  
 </details>
 
+<hr style="border:1px solid gray"> </hr>
+
 * [Slate Emails](https://my.admissions.ufl.edu/manage/)
 
 ## Helpful Links
