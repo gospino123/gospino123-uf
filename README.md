@@ -51,6 +51,7 @@
 * [Fixing Focus Outlines](https://stackoverflow.com/questions/57605812/why-a-tags-set-as-displayblock-have-irregular-focus-outline-shape)<br> _For correcting the blob shape on outlines_
 
 * [Web Accessible Nav Types from W3](https://www.w3.org/TR/wai-aria-practices/examples/menubar/menubar-navigation.html)
+* [Web Accessible Website from Perkins School for the Blind](https://www.perkins.org/)
 
 </details>
  
