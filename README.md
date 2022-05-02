@@ -22,6 +22,7 @@
 * [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/)<br> _For manual checks for color contrast issues_
 * [Font Size Change in Browser for Users](https://www.computerhope.com/issues/ch000779.htm#:~:text=Press%20and%20hold%20the%20Ctrl,and%20decrease%20the%20font%20size.)<br> _To see how people use resizing to view content better_
 * [Color Blindness Filter Checker](https://www.toptal.com/designers/colorfilter/)<br> _Check ADA, CTA effectiveness and Gradient use_
+* [Parallax Effects](https://webflow.com/accessibility/checklist/task/avoid-parallax-effects)
 </details>
 
 <hr>
