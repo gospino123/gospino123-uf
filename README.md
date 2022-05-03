@@ -53,6 +53,7 @@
 * [Fixing Focus Outlines](https://stackoverflow.com/questions/57605812/why-a-tags-set-as-displayblock-have-irregular-focus-outline-shape)<br> _For correcting the blob shape on outlines_
 * [Favicons and OS Differences](https://sympli.io/blog/heres-everything-you-need-to-know-about-favicons-in-2020/)
 * [Favicon Cheat Sheet](https://gist.github.com/leommoore/6415005)
+* [Pug Beginners Guide](https://www.sitepoint.com/a-beginners-guide-to-pug/)
 
 * [Web Accessible Nav Types from W3](https://www.w3.org/TR/wai-aria-practices/examples/menubar/menubar-navigation.html)
 * [Web Accessible Website from Perkins School for the Blind](https://www.perkins.org/)
