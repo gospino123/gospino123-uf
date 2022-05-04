@@ -215,7 +215,7 @@ flowchart LR
 | Medium Urgency | 2 | 3 | 4 |
 | High Urgency | 3 | 4 | 5 |
 
-*Impact: Number of users/items affected/influenced*
+*Impact: Number of users/items affected/influenced*<br>
 *Urgency: Based on time until significant impact*
 
 ### T4\*
