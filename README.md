@@ -24,6 +24,8 @@
 * [Font Size Change in Browser for Users](https://www.computerhope.com/issues/ch000779.htm#:~:text=Press%20and%20hold%20the%20Ctrl,and%20decrease%20the%20font%20size.)<br> _To see how people use resizing to view content better_
 * [Color Blindness Filter Checker](https://www.toptal.com/designers/colorfilter/)<br> _Check ADA, CTA effectiveness and Gradient use_
 * [Parallax Effects](https://webflow.com/accessibility/checklist/task/avoid-parallax-effects)
+* [Cross Browser and Screenreaders](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/Accessibility#screenreader_testing)
+* [Connect to SEO](https://yoast.com/image-seo-alt-tag-and-title-tag-optimization/#:~:text=The%20alt%20and%20title%20attributes,with%20both%20SEO%20and%20accessibility.)
 </details>
 
 <hr>
