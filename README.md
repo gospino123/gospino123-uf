@@ -61,6 +61,9 @@
 * [Web Accessible Nav Types from W3](https://www.w3.org/TR/wai-aria-practices/examples/menubar/menubar-navigation.html)
 * [Web Accessible Website from Perkins School for the Blind](https://www.perkins.org/)
 
+### Mobile
+* [Mobile Display Issues with URL bar](https://www.reddit.com/r/Frontend/comments/d1czwl/fix_for_100vh_with_mobile_address_bar_visible/)
+ 
 </details>
  
 <!-- [myAssets - External User Portal](https://myassets.fa.ufl.edu/ext/#/home)<br> _For foreign travel requests, off-site certification for assets and online shopping_ -->
