@@ -64,6 +64,9 @@
 ### Mobile
 * [Mobile Display Issues with URL bar](https://www.reddit.com/r/Frontend/comments/d1czwl/fix_for_100vh_with_mobile_address_bar_visible/)
  
+### Possible Future Resources
+* [Input w RegEx and ReactJS](https://www.tutorialspoint.com/regex-in-reactjs)
+ 
 </details>
  
 <!-- [myAssets - External User Portal](https://myassets.fa.ufl.edu/ext/#/home)<br> _For foreign travel requests, off-site certification for assets and online shopping_ -->
