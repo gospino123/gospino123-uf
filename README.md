@@ -26,7 +26,7 @@
 * [Parallax Effects](https://webflow.com/accessibility/checklist/task/avoid-parallax-effects)
 * [Cross Browser and Screenreaders](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/Accessibility#screenreader_testing)
 * [Connect to SEO](https://yoast.com/image-seo-alt-tag-and-title-tag-optimization/#:~:text=The%20alt%20and%20title%20attributes,with%20both%20SEO%20and%20accessibility.)
-* [Training for Accessibility based on Job Filters](https://accessibility.uci.edu/information-technology/training.php)
+* [Training Ideas for Accessibility at UC based on Job Filters](https://accessibility.uci.edu/information-technology/training.php)
 </details>
 
 <hr>
