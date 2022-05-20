@@ -42,6 +42,7 @@
 * [Mobile First Design - Article by Adobe](https://xd.adobe.com/ideas/process/ui-design/what-is-mobile-first-design/)
 * [Difference Between Splash and Landing Pages](https://landingi.com/blog/splash-page-vs-landing-page-whats-the-difference/)
 * [Google UX Design Cert Review](https://www.reliablesoft.net/google-ux-design-certificate-review/)
+* [Offline Considerations and UX Design](https://web.dev/offline-ux-design-guidelines/)
 </details>
 
 <hr>
