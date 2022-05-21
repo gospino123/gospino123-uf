@@ -72,6 +72,8 @@
  
 ### Possible Future Resources
 * [Input w RegEx and ReactJS](https://www.tutorialspoint.com/regex-in-reactjs)
+* [SQLite Installation - Mac](https://www.dev2qa.com/how-to-install-sqlite3-on-mac/)
+* [SQLite Documentation/Download](https://www.sqlite.org/about.html)
 
 ### Google Analytics 
 * [Custom Reporting](https://www.socialmediaexaminer.com/how-to-create-custom-reports-in-google-analytics/)
