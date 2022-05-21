@@ -19,15 +19,15 @@
 
 <details><summary>Web Accessibility</summary>
  
-* [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/)<br> _For manual checks for color contrast issues_
+* [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/)<br> _Manual checks for color contrast issues_
 * [Chrome Color Contrast Analyzer](https://accessibility.oit.ncsu.edu/it-accessibility-at-nc-state/developers/tools/color-contrast-analyzer-for-chrome/)
-* [Font Size Change in Browser for Users](https://www.computerhope.com/issues/ch000779.htm#:~:text=Press%20and%20hold%20the%20Ctrl,and%20decrease%20the%20font%20size.)<br> _To see how people use resizing to view content better_
+* [Font Size Change in Browser for Users](https://www.computerhope.com/issues/ch000779.htm#:~:text=Press%20and%20hold%20the%20Ctrl,and%20decrease%20the%20font%20size.)<br> _See how people use resizing to view content better_
 * [Color Blindness Filter Checker](https://www.toptal.com/designers/colorfilter/)<br> _Check ADA, CTA effectiveness and Gradient use_
-* [Parallax Effects](https://webflow.com/accessibility/checklist/task/avoid-parallax-effects)
-* [Cross Browser and Screenreaders](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/Accessibility#screenreader_testing)
-* [Connect to SEO](https://yoast.com/image-seo-alt-tag-and-title-tag-optimization/#:~:text=The%20alt%20and%20title%20attributes,with%20both%20SEO%20and%20accessibility.)
-* [Training Ideas for Accessibility at UC based on Job Filters](https://accessibility.uci.edu/information-technology/training.php)
-* [Access UF Training Sessions](https://training.it.ufl.edu/)
+* [Parallax Effects and Accessibility](https://webflow.com/accessibility/checklist/task/avoid-parallax-effects)<br> _Read why not to use parallax and possible usable variants_
+* [Cross Browser Environments and Screenreaders](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/Accessibility#screenreader_testing)<br> _Considerations for accessibility-first development and screenreaders_
+* [Connection to SEO](https://yoast.com/image-seo-alt-tag-and-title-tag-optimization/#:~:text=The%20alt%20and%20title%20attributes,with%20both%20SEO%20and%20accessibility.)
+* [Training Ideas for Accessibility at UC based on Job Filters](https://accessibility.uci.edu/information-technology/training.php)<br> _Access categories based on job to preview directions of study_
+* [Access UF Training Sessions](https://training.it.ufl.edu/)<br> Consists of some accessibility training
 </details>
 
 <hr>
@@ -39,33 +39,33 @@
 * [Expand Palette on One Color](https://mycolor.space/)<br> _Tool to expand palette based on input_
 * [Color Mixer](https://colordesigner.io/color-mixer)<br> _Tool for mixing colors_
 * [Behance](https://www.behance.net/)<br> _Creative network for showcasing and discovering creative work_
-* [Mobile First Design - Article by Adobe](https://xd.adobe.com/ideas/process/ui-design/what-is-mobile-first-design/)
+* [Mobile First Design - Article by Adobe](https://xd.adobe.com/ideas/process/ui-design/what-is-mobile-first-design/)<br> Advantages and considerations for UI when building mobile-first
 * [Difference Between Splash and Landing Pages](https://landingi.com/blog/splash-page-vs-landing-page-whats-the-difference/)
-* [Google UX Design Cert Review](https://www.reliablesoft.net/google-ux-design-certificate-review/)
-* [Offline Considerations and UX Design](https://web.dev/offline-ux-design-guidelines/)
+* [Google UX Design Cert Review](https://www.reliablesoft.net/google-ux-design-certificate-review/)<br> Gives times for predicted amounts spent as well as summaries
+* [Offline Considerations and UX Design](https://web.dev/offline-ux-design-guidelines/)<br> Perspective on web navigation for individuals with limited connectivity
 </details>
 
 <hr>
 
 <details><summary>Development</summary>
  
-* [HTML URL Encoding Reference](https://www.w3schools.com/tags/ref_urlencode.ASP)<br> _For use with API calls with input text_
-* [Squoosh](https://squoosh.app/)<br> _For making image files smaller so they load faster (not necessary if using Image Optimizer on macOS)_
-* [Lorem Picsum](https://picsum.photos/)<br> _For populating with random image with specified measurements_
+* [HTML URL Encoding Reference](https://www.w3schools.com/tags/ref_urlencode.ASP)<br> _Possible for API calls with input text_
+* [Squoosh](https://squoosh.app/)<br> _Make image files smaller so they load faster (not necessary if using Image Optimizer on macOS)_
+* [Lorem Picsum](https://picsum.photos/)<br> _Populate with random image with specified measurements_
 * [Image Optimization Perspective](https://www.jimdo.com/blog/optimize-website-images-for-better-design-seo/)<br> _Info on optimizing images for web_
 * [Git Stash Explained](https://www.freecodecamp.org/news/git-stash-explained/)<br> _Quick code/example on stash use_ 
 * [Campaign URL Builder](https://ga-dev-tools.web.app/campaign-url-builder/)
 * [QR Code Generator](https://www.qrcode-monkey.com/)
-* [Approximate Hex Color to Filter for SVGs](https://codepen.io/sosuke/pen/Pjoqqp)<br> _Inaccurate approximation for color to filter use on SVGs_
+* [Approximate Hex Color to Filter for SVGs](https://codepen.io/sosuke/pen/Pjoqqp)<br> _Inaccurate but free approximation for color to filter use on SVGs_
 * [Styling svg use Content](https://tympanus.net/codrops/2015/07/16/styling-svg-use-content-css/)<br> _Tips on using svg with css, specifically using svg use_
-* [Fixing Focus Outlines](https://stackoverflow.com/questions/57605812/why-a-tags-set-as-displayblock-have-irregular-focus-outline-shape)<br> _For correcting the blob shape on outlines_
+* [Fixing Focus Outlines](https://stackoverflow.com/questions/57605812/why-a-tags-set-as-displayblock-have-irregular-focus-outline-shape)<br> _Correct the blob shape on focus outlines_
 * [Favicons and OS Differences](https://sympli.io/blog/heres-everything-you-need-to-know-about-favicons-in-2020/)
 * [Favicon Cheat Sheet](https://gist.github.com/leommoore/6415005)
 * [Pug Beginners Guide](https://www.sitepoint.com/a-beginners-guide-to-pug/)
 
-* [Web Accessible Nav Types from W3](https://www.w3.org/TR/wai-aria-practices/examples/menubar/menubar-navigation.html)
-* [Web Accessible Website from Perkins School for the Blind](https://www.perkins.org/)
-* [Explaining Web Caching to Clients](https://www.varnish-software.com/glossary/what-is-web-caching/#:~:text=Web%20caching%20is%20the%20activity,origin%20server%20from%20getting%20overloaded.)
+* [Web Accessible Nav Types from W3](https://www.w3.org/TR/wai-aria-practices/examples/menubar/menubar-navigation.html)<br> Explore for what is needed at time
+* [Accessible Website from Perkins School for the Blind](https://www.perkins.org/)
+* [Explaining Web Caching to Clients](https://www.varnish-software.com/glossary/what-is-web-caching/#:~:text=Web%20caching%20is%20the%20activity,origin%20server%20from%20getting%20overloaded.)<br> _Brief overview of caching_
 
 ### Mobile
 * [Mobile Display Issues with URL bar](https://www.reddit.com/r/Frontend/comments/d1czwl/fix_for_100vh_with_mobile_address_bar_visible/)
