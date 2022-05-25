@@ -1,5 +1,5 @@
 # Notes
-<details><summary>06-2022 Training</summary>
+<details><summary>06-2022 Training [CLICK ME]</summary>
  
  - [ ] [FERPA Basics - PRV802](https://mytraining-ufshands.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D35029%26UserMode%3D0)
  - [ ] [Review FERPA Information](https://registrar.ufl.edu/ferpa/)
@@ -247,9 +247,9 @@ flowchart LR
 
 |   | Low Impact | Medium Impact | High Impact |
 | :---: |  :---: | :---: | :---: |
-| Low Urgency | 1 | 2 | 3 |
-| Medium Urgency | 2 | 3 | 4 |
 | High Urgency | 3 | 4 | 5 |
+| Medium Urgency | 2 | 3 | 4 |
+| Low Urgency | 1 | 2 | 3 |
 
 *Impact: Number of users/items affected/influenced*<br>
 *Urgency: Based on time until significant impact*
