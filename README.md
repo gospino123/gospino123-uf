@@ -58,6 +58,10 @@
 * [Difference Between Splash and Landing Pages](https://landingi.com/blog/splash-page-vs-landing-page-whats-the-difference/)
 * [Google UX Design Cert Review](https://www.reliablesoft.net/google-ux-design-certificate-review/)<br> Gives times for predicted amounts spent as well as summaries
 * [Offline Considerations and UX Design](https://web.dev/offline-ux-design-guidelines/)<br> Perspective on web navigation for individuals with limited connectivity
+* Products that address pain points
+   * [Google Font redesign](https://design.google/library/reimagining-google-fonts/)
+   * [Color system and Google Maps](https://design.google/library/exploring-color-google-maps/)
+   * [Airbnb revamped product design](https://airbnb.design/designing-for-a-changing-world/)
 </details>
 
 <hr>
