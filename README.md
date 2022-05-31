@@ -3,7 +3,7 @@
  
  - [ ] [FERPA Basics - PRV802](https://mytraining-ufshands.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D35029%26UserMode%3D0)
  - [ ] [Review FERPA Information](https://registrar.ufl.edu/ferpa/)
- - [ ] [Protecting Social Security Numbers & Identity Theft Prevention - PRV804](https://mytraining-ufshands.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D49729%26UserMode%3D0)
+ - [ ] [Protecting Social Security Numbers & Identity Theft Prevention - PRV804](https://mytraining-ufshands.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D34915%26UserMode%3D0)
  - [ ] [Protecting UF: Information Security Training](https://mytraining-ufshands.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D49729%26UserMode%3D0)
      - [ ] [UFIT Acceptable Use Policy](http://www.it.ufl.edu/policies/acceptable-use/acceptable-use-policy/)
  - [ ] [PCard Refresher for Cardholders](https://mytraining-ufshands.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D19721%26UserMode%3D0)
