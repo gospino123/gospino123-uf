@@ -67,7 +67,8 @@
 <hr>
 
 <details><summary>Development</summary>
- 
+
+* [Emmet Cheat Sheet](https://docs.emmet.io/cheat-sheet/) 
 * [HTML URL Encoding Reference](https://www.w3schools.com/tags/ref_urlencode.ASP)<br> _Possible for API calls with input text_
 * [Squoosh](https://squoosh.app/)<br> _Make image files smaller so they load faster (not necessary if using Image Optimizer on macOS)_
 * [Lorem Picsum](https://picsum.photos/)<br> _Populate with random image with specified measurements_
