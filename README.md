@@ -1,5 +1,5 @@
 # Notes
-<details><summary>06-2022 Training [CLICK ME]</summary>
+<!-- <details><summary>06-2022 Training [CLICK ME]</summary>
  
  - [x] [FERPA Basics - PRV802](https://mytraining-ufshands.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D35029%26UserMode%3D0)
  - [x] [Review FERPA Information](https://registrar.ufl.edu/ferpa/)
@@ -9,11 +9,11 @@
  - [x] [PCard Refresher for Cardholders](https://mytraining-ufshands.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D19721%26UserMode%3D0)
  - [x] [Compliance and Ethics: Doing your part for the Greater Good](https://mytraining-ufshands.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D40578%26UserMode%3D0)
  - [x] [Maintaining a Safe and Respectful Campus](https://mytraining-ufshands.sumtotal.host/Core/pillarRedirect?relyingParty=LM&url=core%2Factivitydetails%2FViewActivityDetails%3FActivityId%3D36050%26UserMode%3D0)
- - [ ] Blue Man - Review of EM Protocols
+ - [x] Blue Man - Review of EM Protocols
  - [x] [BEC Active Shooter - DEM827](https://mytraining-ufshands.sumtotal.host/Core/pillarRedirect?relyingParty=LM&url=core%2Factivitydetails%2FViewActivityDetails%3FActivityId%3D651%26UserMode%3D0)
  - [x] [At-Risk for Faculty & Staff Kognito Training](https://mytraining-ufshands.sumtotal.host/Core/pillarRedirect?relyingParty=LM&url=core%2Factivitydetails%2FViewActivityDetails%3FActivityId%3D50498%26UserMode%3D0)
  
-</details>
+</details> -->
  
 ## Websites
 <details><summary>Main Websites</summary>
@@ -69,6 +69,7 @@
 <details><summary>Development</summary>
 
 * [Emmet Cheat Sheet](https://docs.emmet.io/cheat-sheet/) 
+* [Yellow Lab Tools - Page Testing](https://yellowlab.tools/)
 * [HTML URL Encoding Reference](https://www.w3schools.com/tags/ref_urlencode.ASP)<br> _Possible for API calls with input text_
 * [Squoosh](https://squoosh.app/)<br> _Make image files smaller so they load faster (not necessary if using Image Optimizer on macOS)_
 * [Lorem Picsum](https://picsum.photos/)<br> _Populate with random image with specified measurements_
