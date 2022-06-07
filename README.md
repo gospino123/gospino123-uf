@@ -88,6 +88,7 @@
 * [Accessible Website from Perkins School for the Blind](https://www.perkins.org/)
 * [Explaining Web Caching to Clients](https://www.varnish-software.com/glossary/what-is-web-caching/#:~:text=Web%20caching%20is%20the%20activity,origin%20server%20from%20getting%20overloaded.)<br> _Brief overview of caching_
 * [VSCode Workflow Tips](https://medium.com/swlh/speed-up-your-html-workflow-with-emmet-f5c887854c63)
+* [W3 Article on Templates for Future Review](https://www.w3.org/TR/css-template-3/)
 
 ### Mobile
 * [Mobile Display Issues with URL bar](https://www.reddit.com/r/Frontend/comments/d1czwl/fix_for_100vh_with_mobile_address_bar_visible/)
