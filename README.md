@@ -62,6 +62,7 @@
    * [Google Font redesign](https://design.google/library/reimagining-google-fonts/)
    * [Color system and Google Maps](https://design.google/library/exploring-color-google-maps/)
    * [Airbnb revamped product design](https://airbnb.design/designing-for-a-changing-world/)
+* [Image Grid Examples/Thoughts](https://www.canva.com/features/design-grid/)
 </details>
 
 <hr>
