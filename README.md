@@ -94,6 +94,7 @@
 * [Wrapping Text Info on MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Text/Wrapping_Text)
 * [Washington Web Design and Development I](https://www.washington.edu/accesscomputing/webd2/student/index.html)
 * [CSS Tricks Links and Buttons Guide](https://css-tricks.com/a-complete-guide-to-links-and-buttons/)
+* [Accessibility Reviews based on Lighthouse](https://web.dev/how-to-review/)
 
 ### Mobile
 * [Mobile Display Issues with URL bar](https://www.reddit.com/r/Frontend/comments/d1czwl/fix_for_100vh_with_mobile_address_bar_visible/)
