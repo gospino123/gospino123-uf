@@ -98,6 +98,7 @@
 
 ### Mobile
 * [Mobile Display Issues with URL bar](https://www.reddit.com/r/Frontend/comments/d1czwl/fix_for_100vh_with_mobile_address_bar_visible/)
+* [Diagnose on iPhone Safari](https://help.remo.co/en/support/solutions/articles/63000251570-how-to-activate-the-iphone-debug-console-or-web-inspector-)
  
 ### Possible Future Resources
 * [Input w RegEx and ReactJS](https://www.tutorialspoint.com/regex-in-reactjs)
