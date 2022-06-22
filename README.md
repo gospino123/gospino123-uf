@@ -84,6 +84,7 @@
 * [Favicons and OS Differences](https://sympli.io/blog/heres-everything-you-need-to-know-about-favicons-in-2020/)
 * [Favicon Cheat Sheet](https://gist.github.com/leommoore/6415005)
 * [Pug Beginners Guide](https://www.sitepoint.com/a-beginners-guide-to-pug/)
+* [Interactive Review of CSS Selectors](https://flukeout.github.io/)
 
 * [Web Accessible Nav Types from W3](https://www.w3.org/TR/wai-aria-practices/examples/menubar/menubar-navigation.html)<br> Explore for what is needed at time
 * [Accessible Website from Perkins School for the Blind](https://www.perkins.org/)
