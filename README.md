@@ -65,6 +65,7 @@
 * [Image Grid Examples/Thoughts](https://www.canva.com/features/design-grid/)
 * [Color Fundamentals - Differences b/w RGB, CMYK, CMYKOGV, and SPOT Colors](https://www.pantone.com/articles/color-fundamentals/understanding-different-color-spaces)
 * [Colors for the Web: Suggested CSS4 Standards](https://blog.bitsrc.io/hex-vs-rgb-vs-hsl-what-is-the-best-method-to-set-css-color-property-f45d2debeee)
+* [Line Typography Vocab and Visuals](https://css-tricks.com/how-to-tame-line-height-in-css/)
 </details>
 
 <hr>
