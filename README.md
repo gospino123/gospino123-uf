@@ -170,6 +170,7 @@ From Command Prompt, `code .` opens current folder in code
   * `git cherry-pick first-commit-SHA-in-range..last-commit-SHA-in-range` _Merges a range of commits **NOT** including the first in range_
 
 * [Git Stash Explained](https://www.freecodecamp.org/news/git-stash-explained/)
+* Stash specific file: `git stash push -m "message" <file>`
 * [Git Merge and Delete in one line, .gitconfig alias use](https://stackoverflow.com/questions/35507239/merge-and-delete-branch-in-one-step-command)
 * Git Commit types (not strict):
   * **feat**: The new feature you're adding to a particular application
