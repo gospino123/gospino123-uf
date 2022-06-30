@@ -101,6 +101,7 @@
 * [CSS Tricks Links and Buttons Guide](https://css-tricks.com/a-complete-guide-to-links-and-buttons/)
 * [Accessibility Reviews based on Lighthouse](https://web.dev/how-to-review/)
 * [CSS "One Liners"](https://web.dev/one-line-layouts/)
+* [nth-child-tester CSS Tricks](https://css-tricks.com/examples/nth-child-tester/)
 
 ### Mobile
 * [Mobile Display Issues with URL bar](https://www.reddit.com/r/Frontend/comments/d1czwl/fix_for_100vh_with_mobile_address_bar_visible/)
