@@ -103,6 +103,7 @@
 * [CSS "One Liners"](https://web.dev/one-line-layouts/)
 * [nth-child-tester CSS Tricks](https://css-tricks.com/examples/nth-child-tester/)
 * [Accessibility and abbr, aria](https://stackoverflow.com/questions/32888344/abbr-element-aria-label-or-title-attribute)
+* [Fluid Typography](https://css-tricks.com/snippets/css/fluid-typography/) and [CSS clamp](https://developer.mozilla.org/en-US/docs/Web/CSS/clamp)
 
 ### Mobile
 * [Mobile Display Issues with URL bar](https://www.reddit.com/r/Frontend/comments/d1czwl/fix_for_100vh_with_mobile_address_bar_visible/)
