@@ -44,6 +44,9 @@
 * [Training Ideas for Accessibility at UC based on Job Filters](https://accessibility.uci.edu/information-technology/training.php)<br> _Access categories based on job to preview directions of study_
 * [Access UF Training Sessions](https://training.it.ufl.edu/)<br> Consists of some accessibility training
 </details>
+<details><summary>WCAG for Designers infographic</summary>
+ <a href="http://webaim.org/resources/designers/"><img src="http://webaim.org/resources/designers/media/designers.svg" alt="Web Accessibility for Designers infographic with link to text version at WebAIM.org"></a>
+</details>
 
 <hr>
 
