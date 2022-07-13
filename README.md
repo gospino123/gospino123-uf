@@ -29,6 +29,7 @@
 <hr style="border:1px solid gray"> </hr>
 
 * [Slate Emails](https://my.admissions.ufl.edu/manage/)
+    * For forms that create emails, include captcha to reduce spam
 
 ## Helpful Links
 
