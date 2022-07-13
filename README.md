@@ -159,6 +159,14 @@
 | Screen Capture<br> `Win + Shift + S` | |Select items over area<br> `Shift + Click/Drag`| Microphone Toggle<br> `Alt + A` |
 | | | | Share Screen Prompt<br> `Alt + S` |
 
+### Asana
+| Task | Assignee | Due Date | Priority | Task Progress | Related Branch | Job Type | Requested By |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Type(scope): Small amount of words | Auto-populated | Set by whom? Procedure needed | Monochromatic/How many levels? | Color-coded/Words used? | Git Branch being used | This can be discussed. Examples are Accessibility, New Page, Housekeeping, Content | This can be auto-populated with a form |
+
+* Priority: Current use is 🟨:Low, 🟧:Med, 🟥:High
+* Task Progress: Current use is 🟦: In Queue, Gray: In Progress, Light 🟨: Waiting/On Hold, 🟧: Revisions Requested, 🟥: Ready for Review/On Test Site, 🟩: Completed/Published
+
 ### Web Development
 
 <details><summary>Bash (WIP)</summary>
