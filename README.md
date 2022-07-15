@@ -385,16 +385,15 @@ Future task2              :         des4, after des3, 5d
 #### Padding/Margin/Layout
 <details><summary>Troubleshooting Code</summary>
   <pre>
-    <div class="outer">
-      <div class="inner1">
-  
-        <div class="inner2">
-          <p class="par1">Paragraph One</p>
-          <p class="par2">Paragraph Two</p>
-        </div>
-      </div>
-    </div>
-    <style>
+    &lt;div class="outer"&gt;
+      &lt;div class="inner1"&gt;
+        &lt;div class="inner2"&gt;
+          &lt;p class="par1"&gt;Paragraph One&lt;/p&gt;
+          &lt;p class="par2"&gt;Paragraph Two&lt;/p&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;style&gt;
       .outer {
         display: grid;
         place-items: center;
@@ -446,7 +445,6 @@ Future task2              :         des4, after des3, 5d
         margin: 0;
         background-color: hsla(0, 99%, 99%, 0.6);
       }
-
       .par1 {
         height: 5vh;
         width: 100%;
@@ -458,7 +456,7 @@ Future task2              :         des4, after des3, 5d
         height: 10vh;
         width: 100%;
       }
-    </style>
+    &lt;/style&gt;
   </pre>
 </details>
 
