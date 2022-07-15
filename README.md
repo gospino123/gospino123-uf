@@ -382,4 +382,84 @@ Future task2              :         des4, after des3, 5d
     </pre>
 </details>
 
+#### Padding/Margin/Layout
+<details><summary>Troubleshooting Code</summary>
+  <pre>
+    <div class="outer">
+      <div class="inner1">
+  
+        <div class="inner2">
+          <p class="par1">Paragraph One</p>
+          <p class="par2">Paragraph Two</p>
+        </div>
+      </div>
+    </div>
+    <style>
+      .outer {
+        display: grid;
+        place-items: center;
+        height: 100vh;
+        width:100vw;
+        z-index: 3;
+        background-color: hsla(200, 90%, 35%, 0.4);
+        -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        box-sizing: border-box;
+      }
+      .inner1 {
+        height: 20vw;
+        width:20vw;
+        z-index: 1;
+        background-color: hsla(0, 80%, 45%, 0.4);
+      }
+      .inner1:before {
+        content: "Inner (ONE)";
+        position: absolute;
+        left: 30%;
+        top: 35%;
+        background-color: hsla(0, 80%, 45%, 0.4);
+        height: fit-content;
+        width: fit-content;
+        border-radius: 3px;
+      }
+      .inner2 {
+        /* box-sizing: border-box; */
+        height: 100%;
+        width: 100%;
+        z-index: 2;
+        background-color: hsla(0, 0%, 0%, 0.3);
+        padding: 15px 15px;
+        margin: 30px 30px;
+      }
+      .inner2:before {
+        content: "Inner (TWO)";
+        position: absolute;
+        left: 30%;
+        top: 40%;
+        background-color: hsla(0, 0%, 0%, 0.3);
+        height: fit-content;
+        width: fit-content;
+        border-radius: 3px;
+      }
+      .inner2 > p {
+        /* padding: 0; */
+        margin: 0;
+        background-color: hsla(0, 99%, 99%, 0.6);
+      }
+
+      .par1 {
+        height: 5vh;
+        width: 100%;
+      }
+      .inner2 > p.par1 {
+        margin-bottom: 5vh;
+      }
+      .par2 {
+        height: 10vh;
+        width: 100%;
+      }
+    </style>
+  </pre>
+</details>
+
 <img src="https://i.etsystatic.com/5451974/r/il/a9eb3b/2279803383/il_fullxfull.2279803383_gt2h.jpg" alt="Map of World to Use for Worldle" />
