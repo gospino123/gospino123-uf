@@ -113,6 +113,7 @@
 * [Force Reload Cached CSS/JS](https://stackoverflow.com/questions/118884/how-to-force-the-browser-to-reload-cached-css-and-javascript-files)
 * [Remove Unused CSS](https://css-tricks.com/how-do-you-remove-unused-css-from-a-site/)
 * [Turn on/off echo text on bash](https://superuser.com/questions/283927/is-the-invisible-text-bug-in-bash-a-bug-or-a-feature)
+* [Duplicate Links and NN Group Review 2016](https://www.nngroup.com/articles/duplicate-links/)
 
 ### Mobile
 * [Mobile Display Issues with URL bar](https://www.reddit.com/r/Frontend/comments/d1czwl/fix_for_100vh_with_mobile_address_bar_visible/)
