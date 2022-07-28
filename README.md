@@ -205,6 +205,7 @@ From Command Prompt, `code .` opens current folder in code
   * **chore**: Regular code maintenance.[ You can also use emojis to represent commit types]
 * Git Commit Example: 
   * `type(scope): subject` from [Art of Writing a Good Commit Message - Dev](https://dev.to/wordssaysalot/art-of-writing-a-good-commit-message-56o7)
+* [Types of deletes](https://www.freecodecamp.org/news/how-to-delete-a-git-branch-both-locally-and-remotely/#:~:text=For%20example%3A%20git%20branch%20%2Dd,branch%20is%20now%20deleted%20locally.)
 
   * Also, WIP: Work in progress, sort of an overarching miscellaneous
 * [Merging using --no-ff](https://stackoverflow.com/questions/9069061/what-effect-does-the-no-ff-flag-have-for-git-merge#:~:text=The%20%2D%2Dno%2Dff%20flag,point%20at%20the%20incoming%20commit.)
