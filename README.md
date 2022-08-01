@@ -116,6 +116,7 @@
 * [Turn on/off echo text on bash](https://superuser.com/questions/283927/is-the-invisible-text-bug-in-bash-a-bug-or-a-feature)
 * [Duplicate Links and NN Group Review 2016](https://www.nngroup.com/articles/duplicate-links/)
 * [htaccess redirects](https://www.semrush.com/blog/htaccess-redirect/)
+* [htaccess redirects #2](https://help.dreamhost.com/hc/en-us/articles/215747748-How-can-I-redirect-and-rewrite-my-URLs-with-an-htaccess-file-)
 
 ### Mobile
 * [Mobile Display Issues with URL bar](https://www.reddit.com/r/Frontend/comments/d1czwl/fix_for_100vh_with_mobile_address_bar_visible/)
