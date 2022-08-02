@@ -112,6 +112,7 @@
 * [Case Against Quicklinks NNGroup and Intranets](https://www.nngroup.com/articles/quicklinks-label-intranet/)
 * [Expandable Menu Types](https://www.nngroup.com/articles/expandable-menus/)
 * [Force Reload Cached CSS/JS](https://stackoverflow.com/questions/118884/how-to-force-the-browser-to-reload-cached-css-and-javascript-files)
+    * Use `Ctrl + F5` to Clear Cache Memory in a Forced Refresh
 * [Remove Unused CSS](https://css-tricks.com/how-do-you-remove-unused-css-from-a-site/)
 * [Turn on/off echo text on bash](https://superuser.com/questions/283927/is-the-invisible-text-bug-in-bash-a-bug-or-a-feature)
 * [Duplicate Links and NN Group Review 2016](https://www.nngroup.com/articles/duplicate-links/)
