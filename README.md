@@ -44,6 +44,7 @@
 * [Connection to SEO](https://yoast.com/image-seo-alt-tag-and-title-tag-optimization/#:~:text=The%20alt%20and%20title%20attributes,with%20both%20SEO%20and%20accessibility.)
 * [Training Ideas for Accessibility at UC based on Job Filters](https://accessibility.uci.edu/information-technology/training.php)<br> _Access categories based on job to preview directions of study_
 * [Access UF Training Sessions](https://training.it.ufl.edu/)<br> Consists of some accessibility training
+* [Windows Narrator Keyboard Shortcuts](https://support.microsoft.com/en-us/windows/appendix-b-narrator-keyboard-commands-and-touch-gestures-8bdab3f4-b3e9-4554-7f28-8b15bd37410a)
 </details>
 <details><summary>WCAG for Designers infographic</summary>
  <a href="http://webaim.org/resources/designers/"><img src="http://webaim.org/resources/designers/media/designers.svg" alt="Web Accessibility for Designers infographic with link to text version at WebAIM.org"></a>
