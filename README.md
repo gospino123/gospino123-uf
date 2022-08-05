@@ -77,7 +77,7 @@
 <hr>
 
 <details><summary>Development</summary>
-
+ 
 * [Emmet Cheat Sheet](https://docs.emmet.io/cheat-sheet/) 
 * [Diff Checker](https://www.diffchecker.com/)
 * [Yellow Lab Tools - Page Testing](https://yellowlab.tools/)
@@ -130,6 +130,7 @@
 * [SQLite Installation - Mac](https://www.dev2qa.com/how-to-install-sqlite3-on-mac/)
 * [SQLite Documentation/Download](https://www.sqlite.org/about.html)
 * [Bash Aliases](https://linuxize.com/post/how-to-create-bash-aliases/)
+* [Duplicate VSCode Environment](https://stackoverflow.com/questions/35368889/how-can-i-export-settings/49706409#49706409)
 
 ### Google Analytics 
 * [Custom Reporting](https://www.socialmediaexaminer.com/how-to-create-custom-reports-in-google-analytics/)
