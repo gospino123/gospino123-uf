@@ -187,8 +187,17 @@ If you need any help with that process, please let me know.</p>
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | Type(scope): Small amount of words | Auto-populated | Set by whom? Procedure needed | Monochromatic/How many levels? | Color-coded/Words used? | Git Branch being used | This can be discussed. Examples are Accessibility, New Page, Housekeeping, Content | This can be auto-populated with a form |
 
-* Priority: Current use is 🟨:Low, 🟧:Med, 🟥:High
-* Task Progress: Current use is 🟦: In Queue, Gray: In Progress, Light 🟨: Waiting/On Hold, 🟧: Revisions Requested, 🟥: Ready for Review/On Test Site, 🟩: Completed/Published
+* Priority: Current use is 
+    * 🟨:Low 
+    * 🟧:Med 
+    * 🟥:High
+* Task Progress: Current use is 
+    * 🟦: In Queue 
+    * Gray: In Progress 
+    * Light 🟨: Waiting/On Hold 
+    * 🟧: Revisions Requested 
+    * 🟥: Ready for Review/On Test Site 
+    * 🟩: Completed/Published
 
 ### Web Development
 
