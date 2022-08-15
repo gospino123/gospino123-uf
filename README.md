@@ -61,6 +61,7 @@ If you need any help with that process, please let me know.</p>
 * [Access UF Training Sessions](https://training.it.ufl.edu/)<br> Consists of some accessibility training
 * [Windows Narrator Keyboard Shortcuts](https://support.microsoft.com/en-us/windows/appendix-b-narrator-keyboard-commands-and-touch-gestures-8bdab3f4-b3e9-4554-7f28-8b15bd37410a)
 * [Web Accessibility Under Title II of the ADA](https://www.ada.gov/pcatoolkit/chap5toolkit.htm)
+* [Great Article on Web Accessibility Standards: ADA, Section 508 and WCAG](https://bootcamp.uxdesign.cc/understanding-web-accessibility-standards-ada-section-508-and-wcag-compliance-143cfb8b691e)
 </details>
 <details><summary>WCAG for Designers infographic</summary>
  <a href="http://webaim.org/resources/designers/"><img src="http://webaim.org/resources/designers/media/designers.svg" alt="Web Accessibility for Designers infographic with link to text version at WebAIM.org"></a>
