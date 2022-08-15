@@ -110,6 +110,7 @@ If you need any help with that process, please let me know.</p>
 * [QR Code Generator](https://www.qrcode-monkey.com/)
 * [Approximate Hex Color to Filter for SVGs](https://codepen.io/sosuke/pen/Pjoqqp)<br> _Inaccurate but free approximation for color to filter use on SVGs_
 * [Styling svg use Content](https://tympanus.net/codrops/2015/07/16/styling-svg-use-content-css/)<br> _Tips on using svg with css, specifically using svg use_
+* [No Line Break b/w Text and svg](https://stackoverflow.com/questions/46833758/no-line-break-between-text-and-svg)
 * [Fixing Focus Outlines](https://stackoverflow.com/questions/57605812/why-a-tags-set-as-displayblock-have-irregular-focus-outline-shape)<br> _Correct the blob shape on focus outlines_
 * [Favicons and OS Differences](https://sympli.io/blog/heres-everything-you-need-to-know-about-favicons-in-2020/)
 * [Favicon Cheat Sheet](https://gist.github.com/leommoore/6415005)
