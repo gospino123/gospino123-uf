@@ -94,6 +94,7 @@ If you need any help with that process, please let me know.</p>
 * [Colors for the Web: Suggested CSS4 Standards](https://blog.bitsrc.io/hex-vs-rgb-vs-hsl-what-is-the-best-method-to-set-css-color-property-f45d2debeee)
 * [Line Typography Vocab and Visuals](https://css-tricks.com/how-to-tame-line-height-in-css/)
 * [Add Accents to Letters on Windows](https://sites.psu.edu/symbolcodes/windows/codealt/)
+* [Line Readability and Character Count](https://baymard.com/blog/line-length-readability)
 </details>
 
 <hr>
