@@ -157,6 +157,7 @@ If you need any help with that process, please let me know.</p>
 * [Duplicate VSCode Environment](https://stackoverflow.com/questions/35368889/how-can-i-export-settings/49706409#49706409)
 * [Convert Static to React (not recommended)](https://dev.to/menard_codes/converting-static-html-css-site-to-react-app-263e)
     * _jekyll/hugo/11ty may be better for these circumstances to assure performance stays optimal_
+    * [11y Documentation](https://www.11ty.dev/docs/)
 
 ### Google Analytics 
 * [Custom Reporting](https://www.socialmediaexaminer.com/how-to-create-custom-reports-in-google-analytics/)
