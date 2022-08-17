@@ -155,6 +155,8 @@ If you need any help with that process, please let me know.</p>
 * [SQLite Documentation/Download](https://www.sqlite.org/about.html)
 * [Bash Aliases](https://linuxize.com/post/how-to-create-bash-aliases/)
 * [Duplicate VSCode Environment](https://stackoverflow.com/questions/35368889/how-can-i-export-settings/49706409#49706409)
+* [Convert Static to React (not recommended)](https://dev.to/menard_codes/converting-static-html-css-site-to-react-app-263e)
+    * _jekyll/hugo/11ty may be better for these circumstances to assure performance stays optimal_
 
 ### Google Analytics 
 * [Custom Reporting](https://www.socialmediaexaminer.com/how-to-create-custom-reports-in-google-analytics/)
