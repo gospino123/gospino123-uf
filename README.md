@@ -229,30 +229,34 @@ If you need any help with that process, please let me know.</p>
 From Command Prompt, `code .` opens current folder in code
 
 ##### Git (WIP)
-* `git cherry-pick`
-  * `git cherry-pick commit-SHA` _Merges a particular commit_
-  * `git cherry-pick first-commit-SHA-in-range^..last-commit-SHA-in-range` _Merges a range of commits including the first in range_
-    * In `git cherry-pick A..B`, A should be older than B
-  * `git cherry-pick first-commit-SHA-in-range..last-commit-SHA-in-range` _Merges a range of commits **NOT** including the first in range_
+<details><summary>Everything (mostly) Git</summary>
+  
+ * `git cherry-pick`
+    * `git cherry-pick commit-SHA` _Merges a particular commit_
+    * `git cherry-pick first-commit-SHA-in-range^..last-commit-SHA-in-range` _Merges a range of commits including the first in range_
+      * In `git cherry-pick A..B`, A should be older than B
+    * `git cherry-pick first-commit-SHA-in-range..last-commit-SHA-in-range` _Merges a range of commits **NOT** including the first in range_
 
-* [Git Stash Explained](https://www.freecodecamp.org/news/git-stash-explained/)
-* Stash specific file: `git stash push -m "message" <file>`
-* [Git Merge and Delete in one line, .gitconfig alias use](https://stackoverflow.com/questions/35507239/merge-and-delete-branch-in-one-step-command)
-* Git Commit types (not strict):
-  * **feat**: The new feature you're adding to a particular application
-  * **fix**: A bug fix
-  * **style**: Feature and updates related to styling
-  * **refactor**: Refactoring a specific section of the codebase
-  * **test**: Everything related to testing
-  * **docs**: Everything related to documentation
-  * **chore**: Regular code maintenance.[ You can also use emojis to represent commit types]
-* Git Commit Example: 
-  * `type(scope): subject` from [Art of Writing a Good Commit Message - Dev](https://dev.to/wordssaysalot/art-of-writing-a-good-commit-message-56o7)
-* [Types of deletes](https://www.freecodecamp.org/news/how-to-delete-a-git-branch-both-locally-and-remotely/#:~:text=For%20example%3A%20git%20branch%20%2Dd,branch%20is%20now%20deleted%20locally.)
+  * [Git Stash Explained](https://www.freecodecamp.org/news/git-stash-explained/)
+  * Stash specific file: `git stash push -m "message" <file>`
+  * [Git Merge and Delete in one line, .gitconfig alias use](https://stackoverflow.com/questions/35507239/merge-and-delete-branch-in-one-step-command)
+  * Git Commit types (not strict):
+    * **feat**: The new feature you're adding to a particular application
+    * **fix**: A bug fix
+    * **style**: Feature and updates related to styling
+    * **refactor**: Refactoring a specific section of the codebase
+    * **test**: Everything related to testing
+    * **docs**: Everything related to documentation
+    * **chore**: Regular code maintenance.[ You can also use emojis to represent commit types]
+  * Git Commit Example: 
+    * `type(scope): subject` from [Art of Writing a Good Commit Message - Dev](https://dev.to/wordssaysalot/art-of-writing-a-good-commit-message-56o7)
+  * [Types of deletes](https://www.freecodecamp.org/news/how-to-delete-a-git-branch-both-locally-and-remotely/#:~:text=For%20example%3A%20git%20branch%20%2Dd,branch%20is%20now%20deleted%20locally.)
 
-  * Also, WIP: Work in progress, sort of an overarching miscellaneous
-* [Merging using --no-ff](https://stackoverflow.com/questions/9069061/what-effect-does-the-no-ff-flag-have-for-git-merge#:~:text=The%20%2D%2Dno%2Dff%20flag,point%20at%20the%20incoming%20commit.)
+    * Also, WIP: Work in progress, sort of an overarching miscellaneous
+  * [Merging using --no-ff](https://stackoverflow.com/questions/9069061/what-effect-does-the-no-ff-flag-have-for-git-merge#:~:text=The%20%2D%2Dno%2Dff%20flag,point%20at%20the%20incoming%20commit.)
+</details>
 
+ 
 ###### Branching Procedures
 ```mermaid
 flowchart LR
