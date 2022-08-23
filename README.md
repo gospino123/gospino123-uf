@@ -216,6 +216,8 @@ If you need any help with that process, please let me know.</p>
     * 🟥: Ready for Review/On Test Site 
     * 🟩: Completed/Published
 
+
+
 ### UX
   
   <details><summary>Nav</summary>
@@ -236,6 +238,7 @@ If you need any help with that process, please let me know.</p>
        <li>When link is a button, icon is aligned 4px to the right and baseline (vertically aligned icon bottom and text bottom)</li>
       </ol>
   </details>
+
 
 ### Web Development
 
