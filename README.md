@@ -216,6 +216,21 @@ If you need any help with that process, please let me know.</p>
     * 🟥: Ready for Review/On Test Site 
     * 🟩: Completed/Published
 
+### UX
+<details><summary>Nav</summary>
+  Confirmations Needed: 
+      1. Submenu/Search expands on click if collapsed
+      1. Submenu/Search collapses on click if expanded
+      1. <code>aria-expanded</code> value matches these states
+      1. Keyboard navigation from these items does not close the item unless another item is focused 
+</details>
+<details><summary>Outbound Icons</summary>
+  Confirmations Needed: 
+      1. Outbound Icons accompany aria-label's announcing link is outbound
+      1. When link is in nav/sidenav, icon is aligned right and vertically centered
+      1. When link is a button, icon is aligned 4px to the right and baseline (vertically aligned icon bottom and text bottom)
+</details>
+
 ### Web Development
 
 <details><summary>Bash (WIP)</summary>
