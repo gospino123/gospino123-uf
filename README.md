@@ -113,6 +113,7 @@ If you need any help with that process, please let me know.</p>
 * [Campaign URL Builder](https://ga-dev-tools.web.app/campaign-url-builder/)
 * [QR Code Generator](https://www.qrcode-monkey.com/)
 * [Approximate Hex Color to Filter for SVGs](https://codepen.io/sosuke/pen/Pjoqqp)<br> _Inaccurate but free approximation for color to filter use on SVGs_
+* [Simple YouTube SVG Explanation](https://www.youtube.com/watch?v=9qen5CKjUe8)
 * [Styling svg use Content](https://tympanus.net/codrops/2015/07/16/styling-svg-use-content-css/)<br> _Tips on using svg with css, specifically using svg use_
 * [No Line Break b/w Text and svg](https://stackoverflow.com/questions/46833758/no-line-break-between-text-and-svg)
 * [Scaling svg's](https://css-tricks.com/scale-svg/)
