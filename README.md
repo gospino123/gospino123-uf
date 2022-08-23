@@ -227,7 +227,7 @@ If you need any help with that process, please let me know.</p>
        <li>Submenu/Search collapses on click if expanded</li>
        <li><code>aria-expanded</code> value matches these states</li>
        <li>Keyboard navigation from these items does not close the item unless another item is focused</li>
-      </ol
+      </ol>
   </details>
        
   <details><summary>Outbound Icons</summary>
