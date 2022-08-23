@@ -217,19 +217,25 @@ If you need any help with that process, please let me know.</p>
     * 🟩: Completed/Published
 
 ### UX
-<details><summary>Nav</summary>
-  Confirmations Needed: 
-      1. Submenu/Search expands on click if collapsed
-      1. Submenu/Search collapses on click if expanded
-      1. <code>aria-expanded</code> value matches these states
-      1. Keyboard navigation from these items does not close the item unless another item is focused 
-</details>
-<details><summary>Outbound Icons</summary>
-  Confirmations Needed: 
-      1. Outbound Icons accompany aria-label's announcing link is outbound
-      1. When link is in nav/sidenav, icon is aligned right and vertically centered
-      1. When link is a button, icon is aligned 4px to the right and baseline (vertically aligned icon bottom and text bottom)
-</details>
+  
+  <details><summary>Nav</summary>
+      Confirmations Needed: 
+      <ol>
+       <li>Submenu/Search expands on click if collapsed</li>
+       <li>Submenu/Search collapses on click if expanded</li>
+       <li><code>aria-expanded</code> value matches these states</li>
+       <li>Keyboard navigation from these items does not close the item unless another item is focused</li>
+      </ol
+  </details>
+       
+  <details><summary>Outbound Icons</summary>
+      Confirmations Needed: 
+      <ol>
+       <li>Outbound Icons accompany aria-label's announcing link is outbound</li>
+       <li>When link is in nav/sidenav, icon is aligned right and vertically centered</li>
+       <li>When link is a button, icon is aligned 4px to the right and baseline (vertically aligned icon bottom and text bottom)</li>
+      </ol>
+  </details>
 
 ### Web Development
 
