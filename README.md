@@ -60,6 +60,7 @@ If you need any help with that process, please let me know.</p>
 * [Training Ideas for Accessibility at UC based on Job Filters](https://accessibility.uci.edu/information-technology/training.php)<br> _Access categories based on job to preview directions of study_
 * [Access UF Training Sessions](https://training.it.ufl.edu/)<br> Consists of some accessibility training
 * [Windows Narrator Keyboard Shortcuts](https://support.microsoft.com/en-us/windows/appendix-b-narrator-keyboard-commands-and-touch-gestures-8bdab3f4-b3e9-4554-7f28-8b15bd37410a)
+* [Main keyboard bindings](https://stackoverflow.com/questions/6086686/keycode-13-is-for-which-key)
 * [Web Accessibility Under Title II of the ADA](https://www.ada.gov/pcatoolkit/chap5toolkit.htm)
 * [Great Article on Web Accessibility Standards: ADA, Section 508 and WCAG](https://bootcamp.uxdesign.cc/understanding-web-accessibility-standards-ada-section-508-and-wcag-compliance-143cfb8b691e)
       <details><summary>Key Component: Action Plan</summary><h1>Developing an Action Plan For Providing Accessible Websites</h1><p>Now you know that some types of content and format on webpages can pose barriers for people with disabilities. The next steps are to develop an action plan to fix web content that is currently inaccessible and implement procedures to ensure that all new and modified web content is accessible. The website accessibility checklist included in this section helps you assess what needs to be done.</p><p>A well-designed action plan would include the following steps:</p>
