@@ -370,11 +370,11 @@ Hyphen<br>
 | L | Line To | l3 or 10L20 |
 | H | Horizontal | h20 or H20 |
 | V | Vertical | v10 or V10 |
-| Z | Close Path | |
-| C | Cubic Curve| Cx1y1 x2y2 xy|
-| Q | Quadratic Bezier Curve | |
-| S | Several Curve | |
-| A | Arc (7 params) | rx ry x-axis rot. larg-arc sweep xy |
+| Z | Close Path | M 10 10 H 90 V 90 H 10 Z (close path)|
+| C | Cubic Curve| Cx1y1 x2y2 xy or c dx1 dy1, dx2 dy2, dx dy|
+| Q | Quadratic Bezier Curve | Q x1 y1, x y or q dx1 dy1, dx dy |
+| S | Several Curve | S x2 y2, x y or s dx2 dy2, dx dy |
+| A | Arc (7 params) | A rx ry x-axis-rotation large-arc-flag sweep-flag x y |
  
  <br><b>Notes:</b>
      <ul>
