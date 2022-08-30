@@ -191,6 +191,8 @@ If you need any help with that process, please let me know.</p>
 ## Personal Preferences for Naming Conventions
 - **_camelCase_** for variables
     - camelCaseExample
+- **_PascalCase_** for classes
+    - Class_For_Code_Reuse
 - **_underscores_** for images
     - underscore_example
 - **_dashes_** for filenames/folders
