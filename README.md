@@ -350,10 +350,50 @@ Runt
 ~~~
 ~~~
 ```
+Leading<br>
+ <i>Leading - or line-height - should be be smaller on `p` elements if possible</i>
+
+Hyphen<br>
+ <i>Never split words with hyphens</i>
+ 
 #### Web Developers
-Signifiers/Affordances: Indicators that show users how to interact with new objects/situations.
+ <b>Signifiers/Affordances</b>: Indicators that show users how to interact with new objects/situations.
 <!-- title: attribute of any HTML element but is most useful for interactive elements. They are usually defaulted as tooltips-->
 <!-- Tip: Add cursor: pointer; to actual a element and not just onto a state of a -->
+
+<i>Common svg commands for paths</i>:<br>
+| Letter | Command | Syntax |
+| :--: | :--: | :--: |
+| M | Move To | m25 or M25 |
+| L | Line To | l3 or 10L20 |
+| H | Horizontal | h20 or H20 |
+| V | Vertical | v10 or V10 |
+| Z | Close Path | |
+| C | Cubic Curve| Cx1y1 x2y2 xy|
+| Q | Quadratic Bezier Curve | |
+| S | Several Curve | |
+| A | Arc (7 params) | rx ry x-axis rot. larg-arc sweep xy |
+ 
+ <br><b>Notes:</b>
+     <ul>
+         <li>Uppercase letters are absolute. Lowercase letters are relative.</li>
+         <li>Commas and spaces are optional (relatively).</li>
+         <li>You can also drop the command letter if the next command is the same as the previous.</li>
+         <li>If you want to change svg position on hover, use the exact same number of points.</li>
+     </ul>
+     <i>Example</i>:<br>
+     
+     ```html
+     <svg viewBox="0 0 100 100">
+          <path d="M10,10 Q50,20 50,50 T90,90" />
+     </svg>
+     ```
+ 
+     ```css
+     svg:hover path {
+          d: path("M10,10 Q80,20 50,50 T90,90")
+     }
+     ```
 
 ### ITSM
 #### ITSM Workflow Process
