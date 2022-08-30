@@ -396,6 +396,8 @@ Hyphen<br>
           d: path("M10,10 Q80,20 50,50 T90,90")
      }
      ```
+ 
+ <p>As an alternative, a plugin like <a href="https://greensock.com/morphsvg/" target="_blank">GreenSock</a> is able to smoothly morph an svg from one to another.</p>
 
 ### ITSM
 #### ITSM Workflow Process
