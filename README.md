@@ -536,6 +536,9 @@ Future task2              :         des4, after des3, 5d
     height: 100%;
     border: 4px solid #000;
 }
+.notes {
+    content: "Uses absolute positioning for display of curve. Perhaps svgs can replace this";
+}
  -->
 
 #### Tips
@@ -626,4 +629,4 @@ Future task2              :         des4, after des3, 5d
   </pre>
 </details>
 
-<img src="https://i.etsystatic.com/5451974/r/il/a9eb3b/2279803383/il_fullxfull.2279803383_gt2h.jpg" alt="Map of World to Use for Worldle" />
+<a href="https://geology.com/world/world-map.shtml"><img src="https://i.etsystatic.com/5451974/r/il/a9eb3b/2279803383/il_fullxfull.2279803383_gt2h.jpg" alt="Map of World to Use for Worldle" /></a>
