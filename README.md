@@ -73,6 +73,7 @@ If you need any help with that process, please let me know.</p>
 <details><summary>WCAG for Designers infographic</summary>
  <a href="http://webaim.org/resources/designers/"><img src="http://webaim.org/resources/designers/media/designers.svg" alt="Web Accessibility for Designers infographic with link to text version at WebAIM.org"></a>
 </details>
+* [Beta ADA.gov Website](https://beta.ada.gov/resources/web-guidance/)
 
 <hr>
 
