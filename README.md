@@ -500,6 +500,43 @@ Future task2              :         des4, after des3, 5d
 | M &rarr; L | B | M &rarr; T | B | M &rarr; L |
 | :---: | :---: | :---: | :---: | :---: |
 | 1 to 4 | 1 | 1 to 2 | 1 | 1 to 4 |
+ 
+ <!--
+ <div class="center">
+  <div class="ufl-arrow ufl-arrow--top-right"></div>  
+ </div>
+ .center {
+  display: grid;
+  place-items: center;
+  width: 150px;
+  height: 150px;
+  margin: 0 auto;
+  border: 1px solid #afa;
+}
+.ufl-arrow--top-right {
+    position: relative;
+    /* overflow: hidden; */
+}
+.ufl-arrow {
+    width: 100%;
+    height: 100%;
+}
+.ufl-arrow--top-right:before {
+    border-radius: 50%;
+}
+.ufl-arrow--top-right:before {
+    top: 50%;
+    left: -50%;
+    transform: translateY(-2px);
+}
+.ufl-arrow--top-right:before {
+    position: absolute;
+    content: "";
+    width: 100%;
+    height: 100%;
+    border: 4px solid #000;
+}
+ -->
 
 #### Tips
 <details><summary>Very Basic Sass Filing and <a href="https://itnext.io/structuring-your-sass-projects-c8d41fa55ed4">Article on Sass Filing</a> with more complex suggestions</summary>
