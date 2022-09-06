@@ -175,6 +175,7 @@ If you need any help with that process, please let me know.</p>
 
 ### Google Analytics 
 * [Custom Reporting](https://www.socialmediaexaminer.com/how-to-create-custom-reports-in-google-analytics/)
+* [Tracking Device Orientation](https://analytical42.com/2016/track-device-orientation-changes-google-analytics/)
  
 </details>
  
