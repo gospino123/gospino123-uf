@@ -110,7 +110,7 @@ If you need any help with that process, please let me know.</p>
  
 * [Emmet Cheat Sheet](https://docs.emmet.io/cheat-sheet/) 
 * [Diff Checker](https://www.diffchecker.com/)
-* [Regex Tester](https://regex101.com/)
+* Regex and Regex tests: [Regex 101](https://regex101.com/) or [Regexr](https://regexr.com/)
     * Examples of possibly helpful syntax: (<!) syntax is negative lookbehind and (?!) syntax is negative lookahead
 * [Yellow Lab Tools - Page Testing](https://yellowlab.tools/)
 * [HTML URL Encoding Reference](https://www.w3schools.com/tags/ref_urlencode.ASP)<br> _Possible for API calls with input text_
