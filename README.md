@@ -172,6 +172,7 @@ If you need any help with that process, please let me know.</p>
     * _jekyll/hugo/11ty may be better for these circumstances to assure performance stays optimal_
     * [11ty Documentation](https://www.11ty.dev/docs/)
     * [11ty 3 min Basic Tutorial](https://www.youtube.com/watch?v=BKdQEXqfFA0)
+* [Lazy load images](https://css-tricks.com/the-complete-guide-to-lazy-loading-images/)
 
 ### Google Analytics 
 * [Custom Reporting](https://www.socialmediaexaminer.com/how-to-create-custom-reports-in-google-analytics/)
