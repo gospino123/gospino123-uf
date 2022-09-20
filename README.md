@@ -157,6 +157,7 @@ If you need any help with that process, please let me know.</p>
 * [htaccess redirects](https://www.semrush.com/blog/htaccess-redirect/)
 * [htaccess redirects #2](https://help.dreamhost.com/hc/en-us/articles/215747748-How-can-I-redirect-and-rewrite-my-URLs-with-an-htaccess-file-)
 * [Keyboard Events](https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent)
+* [Fake JSON Data](https://jsonplaceholder.typicode.com/)
 
 ### Mobile
 * [Mobile Display Issues with URL bar](https://www.reddit.com/r/Frontend/comments/d1czwl/fix_for_100vh_with_mobile_address_bar_visible/)
