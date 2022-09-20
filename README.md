@@ -1,10 +1,10 @@
 # Web Development Resources
 
-## Table of Contents (WIP)
-- Trainings
-- Websites
-- Naming Conventions
-- Terminology
+## Table of Contents (WIP) 
+- [Training](https://github.com/gospino123-uf/gospino123-uf/edit/gospino123-uf-toc/README.md#training-runningdash)
+- [Websites](https://github.com/gospino123-uf/gospino123-uf/edit/gospino123-uf-toc/README.md#websites-and-website-information-lock-key)
+- [Naming Conventions](https://github.com/gospino123-uf/gospino123-uf/edit/gospino123-uf-toc/README.md#training-runningdash)
+- [Terminology](https://github.com/gospino123-uf/gospino123-uf/edit/gospino123-uf-toc/README.md#terminology-blue_book) (WIP)
 - Shortcuts
 - ITSM Standards
 - Accessibility
@@ -17,8 +17,8 @@
 - Troubleshooting on JSFiddle
 - Map
 
-
-<details><summary>06-2022 Training [CLICK ME]</summary>
+## Training :running::dash:
+<details><summary>List of Elements</summary>
  
  - [x] [FERPA Basics - PRV802](https://mytraining-ufshands.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D35029%26UserMode%3D0)
  - [x] [Review FERPA Information](https://registrar.ufl.edu/ferpa/)
@@ -34,36 +34,91 @@
  
 </details>
  
-## Websites
-<details><summary>Main Websites</summary>
- 
- * [Admissions](https://admissions.ufl.edu)
- * [Admissions Blog](https://admissions.ufl.edu/blog/)
- * [Enrollment Management](https://em.ufl.edu)
- * [Registrar](https://registrar.ufl.edu/)
- * [Veterans Affairs](https://veterans.ufl.edu/)
- 
+## Websites and Website Information :lock: :key:
+<details><summary>Collection</summary>
+  <p>Websites
+    <ul>
+      <li><a href="https://admissions.ufl.edu">Admissions</a></li>
+      <li><a href="https://admissions.ufl.edu/blog/">Admissions Blog</a></li>
+      <li><a href="https://em.ufl.edu">Enrollment Management</a></li>
+      <li><a href="https://registrar.ufl.edu/">Registrar</a></li>
+      <li><a href="https://veterans.ufl.edu/">Veterans Affairs</a></li>
+    </ul>
+  </p>
+  <p>Website Information
+    <ul>
+      <li><a href="https://net-services.ufl.edu/cgi-bin/domain-info.cgi">Check UF Domain Information/Contact</a></li>
+    </ul>
+  </p>
+  <p>Slate
+    <ul>
+      <li><a href="https://my.admissions.ufl.edu/manage/">Slate Emails</a><br><sup>For forms that create emails, include captcha to reduce spam (However, this is not ADA friendly)</sup></li>
+      <li>
+        <article>
+          <p>You can now find two generic email templates in the Templates/ Email folder located in Slate. One version includes a placeholder for a banner image, the other version does not.</p>
+          <p>To change the image, button text, or hyperlink: simply double click on the image or button and enter in your new name (text), link text, etc.</p>
+          <p><i><cite>Michael Merritt</cite></i></p>
+          <p>Here are the links:
+            <ul>
+              <li><a href="https://my.admissions.ufl.edu/manage/deliver/mailing?id=bbb7bb38-74ff-4632-a1a1-d937b16a94df" target="_blank">Generic Email Template With Banner Image</a></li>
+              <li><a href="https://my.admissions.ufl.edu/manage/deliver/mailing?id=5fcb7b0a-11f3-4344-b552-5be57cfe65b8" target="_blank">Generic Email Template Without Banner Image</a></li>
+            </ul>
+          </p>
+        </article>
+      </li>
+    </ul>
+  </p>
 </details>
 
- * [Check UF Domain Information/Contact](https://net-services.ufl.edu/cgi-bin/domain-info.cgi)
+## Personal Preferences for Naming Conventions :clipboard:
+- **_camelCase_** for variables
+    - camelCaseExample
+- **_PascalCase_** for classes
+    - Class_For_Code_Reuse
+- **_underscores_** for images
+    - underscore_example
+- **_dashes_** for filenames/folders
+    - filename-or-folder-example
 
-<hr style="border:1px solid gray"> </hr>
+## Terminology :blue_book:
 
-* [Slate Emails](https://my.admissions.ufl.edu/manage/)
-    * For forms that create emails, include captcha to reduce spam (However, this is not ADA friendly)
+### EM
+Yield: Period in which students get accepted and decide where they will go to university
 
-<p>You can now find two generic email templates in the Templates/ Email folder located in Slate.
-One version includes a placeholder for a banner image, the other version does not.</p>
+#### Designers
+_Example View_
 
-<p>To change the image, button text, or hyperlink: simply double click on the image or button and enter in your new name (text), link text, etc. 
-If you need any help with that process, please let me know.</p>
+Orphan
+```
+    ~~~
+    ~~~
+~~~   
+ x
+```
+Widow
+```
+     x
+    ~~~
+~~~ ~~~
+~~~
+```
+Runt
+```
+     x
+~~~ ~~~
+~~~
+~~~
+```
+Leading<br>
+ <i>Leading - or line-height - should be be smaller on `p` elements if possible</i>
 
-<p>Here are the links:
- <ul>
-  <li><a href="https://my.admissions.ufl.edu/manage/deliver/mailing?id=bbb7bb38-74ff-4632-a1a1-d937b16a94df" target="_blank">Generic Email Template With Banner Image</a></li>
-  <li><a href="https://my.admissions.ufl.edu/manage/deliver/mailing?id=5fcb7b0a-11f3-4344-b552-5be57cfe65b8" target="_blank">Generic Email Template Without Banner Image</a></li>
- </ul>
-</p>
+Hyphen<br>
+ <i>Never split words with hyphens</i>
+ 
+#### Web Developers
+ <b>Signifiers/Affordances</b>: Indicators that show users how to interact with new objects/situations.
+<!-- title: attribute of any HTML element but is most useful for interactive elements. They are usually defaulted as tooltips-->
+<!-- Tip: Add cursor: pointer; to actual a element and not just onto a state of a -->
 
 ## Helpful Links
 
@@ -214,16 +269,6 @@ If you need any help with that process, please let me know.</p>
 ## Emails
 -->
 
-## Personal Preferences for Naming Conventions
-- **_camelCase_** for variables
-    - camelCaseExample
-- **_PascalCase_** for classes
-    - Class_For_Code_Reuse
-- **_underscores_** for images
-    - underscore_example
-- **_dashes_** for filenames/folders
-    - filename-or-folder-example
-
 ## Useful Shortcuts
 
 ### General
@@ -348,46 +393,6 @@ flowchart LR
 
 _Note: These cannot be copy/pasted into the URL and some pages may prevent the alert from appearing._
 -->
-
-## Terminology
-
-### EM
-Yield: Period in which students get accepted and decide where they will go to university
-
-#### Designers
-_Example View_
-
-Orphan
-```
-    ~~~
-    ~~~
-~~~   
- x
-```
-Widow
-```
-     x
-    ~~~
-~~~ ~~~
-~~~
-```
-Runt
-```
-     x
-~~~ ~~~
-~~~
-~~~
-```
-Leading<br>
- <i>Leading - or line-height - should be be smaller on `p` elements if possible</i>
-
-Hyphen<br>
- <i>Never split words with hyphens</i>
- 
-#### Web Developers
- <b>Signifiers/Affordances</b>: Indicators that show users how to interact with new objects/situations.
-<!-- title: attribute of any HTML element but is most useful for interactive elements. They are usually defaulted as tooltips-->
-<!-- Tip: Add cursor: pointer; to actual a element and not just onto a state of a -->
 
 <i>Common svg commands for paths</i>:<br>
 | Letter | Command | Syntax |
@@ -564,6 +569,7 @@ Future task2              :         des4, after des3, 5d
 .notes {
     content: "Uses absolute positioning for display of curve. Perhaps svgs can replace this";
 }
+    https://gist.github.com/rxaviers/7360908 = list of emojis for github
  -->
 
 #### Tips
