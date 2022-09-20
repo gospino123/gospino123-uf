@@ -1,4 +1,23 @@
-# Notes
+# Web Development Resources
+
+## Table of Contents (WIP)
+- Trainings
+- Websites
+- Naming Conventions
+- Terminology
+- Shortcuts
+- ITSM Standards
+- Accessibility
+- Design
+- Development (WIP)
+- Asana Tracking Standards
+- Personal UX Standards
+- Git
+- SVG
+- Troubleshooting on JSFiddle
+- Map
+
+
 <details><summary>06-2022 Training [CLICK ME]</summary>
  
  - [x] [FERPA Basics - PRV802](https://mytraining-ufshands.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D35029%26UserMode%3D0)
