@@ -5,8 +5,8 @@
 - [Websites](https://github.com/gospino123-uf/gospino123-uf/edit/gospino123-uf-toc/README.md#websites-and-website-information-lock-key)
 - [Naming Conventions](https://github.com/gospino123-uf/gospino123-uf/edit/gospino123-uf-toc/README.md#training-runningdash)
 - [Terminology](https://github.com/gospino123-uf/gospino123-uf/edit/gospino123-uf-toc/README.md#terminology-blue_book)
-- Shortcuts
-- ITSM Standards
+- [Shortcuts](https://github.com/gospino123-uf/gospino123-uf/edit/gospino123-uf-toc/README.md#shortcuts)
+- [ITSM Standards](https://github.com/gospino123-uf/gospino123-uf/edit/gospino123-uf-toc/README.md#itsm)
 - Accessibility
 - Design
 - Development (WIP)
@@ -137,6 +137,40 @@
 
 <!-- title: attribute of any HTML element but is most useful for interactive elements. They are usually defaulted as tooltips-->
 <!-- Tip: Add cursor: pointer; to actual a element and not just onto a state of a -->
+
+## Shortcuts
+
+| Windows | Web Browser | Xd | Zoom | VS Code |
+| :---: | :---: | :---: | :---: | :---: |
+| Screen Record<br> `Win + Alt + R` | Recover Tab<br> `Ctrl + Shift + T` | Scroll Horizontally<br> `Shift + Scroll` | Hide Bar (for remote IT help)<br> `Ctrl + Alt + Shift + H` | Open all files/folders from current directory in VS Code from Command Line<br> `code .` | 
+| Screen Capture<br> `Win + Shift + S` | |Select items over area<br> `Shift + Click/Drag`| Microphone Toggle<br> `Alt + A` | |
+|Narrator(SR)<br> `Win + Ctrl + Enter`| | | Share Screen Prompt<br> `Alt + S` | |
+
+## ITSM
+### ITSM Workflow Process
+```mermaid
+flowchart LR
+    A([Detect]) --> B[Record];
+    B --> C{Classify};
+    C -.-> D[Incident];
+    D -.-> E[Investigate];
+    E -.-> I[Resolve];
+    C -.-> F[Request];
+    F -.-> G[Fulfill];
+    G -.-> I[Resolve];
+    I --> J([Close]);
+```
+
+### Incident Triage
+
+|   | Low Impact | Medium Impact | High Impact |
+| :---: |  :---: | :---: | :---: |
+| High Urgency | 3 | 4 | 5 |
+| Medium Urgency | 2 | 3 | 4 |
+| Low Urgency | 1 | 2 | 3 |
+
+*Impact: Number of users/items affected/influenced*<br>
+*Urgency: Based on time until significant impact*
 
 ## Helpful Links
 
@@ -287,16 +321,7 @@
 ## Emails
 -->
 
-## Useful Shortcuts
-
-### General
-| Windows | Web Browser | Xd | Zoom |
-| :---: | :---: | :---: | :---: |
-| Screen Record<br> `Win + Alt + R` | Recover Tab<br> `Ctrl + Shift + T` | Scroll Horizontally<br> `Shift + Scroll` | Hide Bar (for remote IT help)<br> `Ctrl + Alt + Shift + H` |
-| Screen Capture<br> `Win + Shift + S` | |Select items over area<br> `Shift + Click/Drag`| Microphone Toggle<br> `Alt + A` |
-|Narrator(SR)<br> `Win + Ctrl + Enter`| | | Share Screen Prompt<br> `Alt + S` |
-
-### Asana
+## Asana
 | Task | Assignee | Due Date | Priority | Task Progress | Related Branch | Job Type | Requested By |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | Type(scope): Small amount of words | Auto-populated | Set by whom? Procedure needed | Monochromatic/How many levels? | Color-coded/Words used? | Git Branch being used | This can be discussed. Examples are Accessibility, New Page, Housekeeping, Content | This can be auto-populated with a form |
@@ -411,32 +436,6 @@ flowchart LR
 
 _Note: These cannot be copy/pasted into the URL and some pages may prevent the alert from appearing._
 -->
-
-### ITSM
-#### ITSM Workflow Process
-```mermaid
-flowchart LR
-    A([Detect]) --> B[Record];
-    B --> C{Classify};
-    C -.-> D[Incident];
-    D -.-> E[Investigate];
-    E -.-> I[Resolve];
-    C -.-> F[Request];
-    F -.-> G[Fulfill];
-    G -.-> I[Resolve];
-    I --> J([Close]);
-```
-
-#### Incident Triage
-
-|   | Low Impact | Medium Impact | High Impact |
-| :---: |  :---: | :---: | :---: |
-| High Urgency | 3 | 4 | 5 |
-| Medium Urgency | 2 | 3 | 4 |
-| Low Urgency | 1 | 2 | 3 |
-
-*Impact: Number of users/items affected/influenced*<br>
-*Urgency: Based on time until significant impact*
 
 ### T4\*
 [T4 Training Resources](https://webservices.it.ufl.edu/t4/t4-training/)
