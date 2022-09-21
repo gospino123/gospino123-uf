@@ -1,24 +1,29 @@
 # Web Development Resources
 
-## Table of Contents (WIP)
-- Trainings
-- Websites
-- Naming Conventions
-- Terminology
-- Shortcuts
-- ITSM Standards
+## Table of Contents (WIP) 
+- [Training](https://github.com/gospino123-uf/gospino123-uf/edit/gospino123-uf-toc/README.md#training-runningdash)
+- [Websites and Website Information](https://github.com/gospino123-uf/gospino123-uf/edit/gospino123-uf-toc/README.md#lock-websites-and-website-information-key)
+- [Naming Conventions](https://github.com/gospino123-uf/gospino123-uf/edit/gospino123-uf-toc/README.md#naming-conventions-clipboard-personal-preferences)
+- [Terminology](https://github.com/gospino123-uf/gospino123-uf/edit/gospino123-uf-toc/README.md#terminology-blue_book)
+- [Shortcuts](https://github.com/gospino123-uf/gospino123-uf/edit/gospino123-uf-toc/README.md#shortcuts-shipit)
+- [ITSM Standards](https://github.com/gospino123-uf/gospino123-uf/edit/gospino123-uf-toc/README.md#itsm-chart_with_upwards_trend-standards)
+- [Asana Tracking Standards](https://github.com/gospino123-uf/gospino123-uf/edit/gospino123-uf-toc/README.md#asana-)
+- [Personal UX Standards](https://github.com/gospino123-uf/gospino123-uf/edit/gospino123-uf-toc/README.md#personal--ux-standards)
+- [SVG](https://github.com/gospino123-uf/gospino123-uf/edit/gospino123-uf-toc/README.md#svg-art) (WIP**)
+- [Helpful Links](https://github.com/gospino123-uf/gospino123-uf/edit/gospino123-uf-toc/README.md#svg-art)
+
+**WIP = Work in Progress
+<!--
 - Accessibility
 - Design
 - Development (WIP)
-- Asana Tracking Standards
-- Personal UX Standards
 - Git
-- SVG
 - Troubleshooting on JSFiddle
 - Map
+--> 
 
-
-<details><summary>06-2022 Training [CLICK ME]</summary>
+## Training :running::dash:
+<details><summary>List of Elements</summary>
  
  - [x] [FERPA Basics - PRV802](https://mytraining-ufshands.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D35029%26UserMode%3D0)
  - [x] [Review FERPA Information](https://registrar.ufl.edu/ferpa/)
@@ -34,36 +39,229 @@
  
 </details>
  
-## Websites
-<details><summary>Main Websites</summary>
- 
- * [Admissions](https://admissions.ufl.edu)
- * [Admissions Blog](https://admissions.ufl.edu/blog/)
- * [Enrollment Management](https://em.ufl.edu)
- * [Registrar](https://registrar.ufl.edu/)
- * [Veterans Affairs](https://veterans.ufl.edu/)
- 
+## :lock: Websites and Website Information :key:
+<details><summary>Collection</summary>
+  <p>Websites
+    <ul>
+      <li><a href="https://admissions.ufl.edu">Admissions</a></li>
+      <li><a href="https://admissions.ufl.edu/blog/">Admissions Blog</a></li>
+      <li><a href="https://em.ufl.edu">Enrollment Management</a></li>
+      <li><a href="https://registrar.ufl.edu/">Registrar</a></li>
+      <li><a href="https://veterans.ufl.edu/">Veterans Affairs</a></li>
+    </ul>
+  </p>
+  <p>Website Information
+    <ul>
+      <li><a href="https://net-services.ufl.edu/cgi-bin/domain-info.cgi">Check UF Domain Information/Contact</a></li>
+    </ul>
+  </p>
+  <p>Slate
+    <ul>
+      <li><a href="https://my.admissions.ufl.edu/manage/">Slate Emails</a><br><sup>For forms that create emails, include captcha to reduce spam (However, this is not ADA friendly)</sup></li>
+      <li>
+        <article>
+          <p>You can now find two generic email templates in the Templates/ Email folder located in Slate. One version includes a placeholder for a banner image, the other version does not.</p>
+          <p>To change the image, button text, or hyperlink: simply double click on the image or button and enter in your new name (text), link text, etc.</p>
+          <p><i><cite>Michael Merritt</cite></i></p>
+          <p>Here are the links:
+            <ul>
+              <li><a href="https://my.admissions.ufl.edu/manage/deliver/mailing?id=bbb7bb38-74ff-4632-a1a1-d937b16a94df" target="_blank">Generic Email Template With Banner Image</a></li>
+              <li><a href="https://my.admissions.ufl.edu/manage/deliver/mailing?id=5fcb7b0a-11f3-4344-b552-5be57cfe65b8" target="_blank">Generic Email Template Without Banner Image</a></li>
+            </ul>
+          </p>
+        </article>
+      </li>
+    </ul>
+  </p>
 </details>
 
- * [Check UF Domain Information/Contact](https://net-services.ufl.edu/cgi-bin/domain-info.cgi)
+## Naming Conventions :clipboard: (Personal Preferences)
+- **_camelCase_** for variables
+    - camelCaseExample
+- **_PascalCase_** for classes
+    - Class_For_Code_Reuse
+- **_underscores_** for images
+    - underscore_example
+- **_dashes_** for filenames/folders
+    - filename-or-folder-example
 
-<hr style="border:1px solid gray"> </hr>
+## Terminology :blue_book:
 
-* [Slate Emails](https://my.admissions.ufl.edu/manage/)
-    * For forms that create emails, include captcha to reduce spam (However, this is not ADA friendly)
+<details><summary>Collection</summary>
+  <ul>
+    <li><b>EM</b>
+      <p><b>Yield</b>: Period in which students get accepted and decide on where to go to university</p>
+      <ul>
+        <li>Designers
+          <details><summary><i>Example Cases for Copy</i></summary>
+            <ul>
+              <li><b>Orphan</b>
+                <pre>
+    ~~~
+    ~~~
+~~~   
+ x
+                </pre>
+              </li>
+              <li><b>Widow</b>
+                <pre>
+     x
+    ~~~
+~~~ ~~~
+~~~
+                </pre>
+              </li>
+              <li><b>Runt</b>
+                <pre>
+     x
+~~~ ~~~
+~~~
+~~~
+                </pre>
+              </li>
+              <li><b>Leading</b>
+                <p>Leading, or line-height, should be smaller on <code>p</code> elements if possible</p>
+              </li>
+              <li><b>Hyphen</b>
+                <p>Never split words with hyphens</p>
+              </li>
+            </ul>
+          </details>
+        </li>
+        <li>Web Developers
+          <ul>
+            <li><b>Signifiers/Affordances</b>:
+              <p>These are <i>indicators</i> that show users how to interact with new objects/situations</p>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+  </ul>
+</details>
 
-<p>You can now find two generic email templates in the Templates/ Email folder located in Slate.
-One version includes a placeholder for a banner image, the other version does not.</p>
+<!-- title: attribute of any HTML element but is most useful for interactive elements. They are usually defaulted as tooltips-->
+<!-- Tip: Add cursor: pointer; to actual a element and not just onto a state of a -->
 
-<p>To change the image, button text, or hyperlink: simply double click on the image or button and enter in your new name (text), link text, etc. 
-If you need any help with that process, please let me know.</p>
+## Shortcuts :shipit:
 
-<p>Here are the links:
- <ul>
-  <li><a href="https://my.admissions.ufl.edu/manage/deliver/mailing?id=bbb7bb38-74ff-4632-a1a1-d937b16a94df" target="_blank">Generic Email Template With Banner Image</a></li>
-  <li><a href="https://my.admissions.ufl.edu/manage/deliver/mailing?id=5fcb7b0a-11f3-4344-b552-5be57cfe65b8" target="_blank">Generic Email Template Without Banner Image</a></li>
- </ul>
-</p>
+| Windows | Web Browser | Xd | Zoom | VS Code |
+| :---: | :---: | :---: | :---: | :---: |
+| Screen Record<br> `Win + Alt + R` | Recover Tab<br> `Ctrl + Shift + T` | Scroll Horizontally<br> `Shift + Scroll` | Hide Bar (for remote IT help)<br> `Ctrl + Alt + Shift + H` | Open all files/folders from current directory in VS Code from Command Line<br> `code .` | 
+| Screen Capture<br> `Win + Shift + S` | |Select items over area<br> `Shift + Click/Drag`| Microphone Toggle<br> `Alt + A` | |
+|Narrator(SR)<br> `Win + Ctrl + Enter`| | | Share Screen Prompt<br> `Alt + S` | |
+
+## ITSM :chart_with_upwards_trend: Standards
+### Workflow 🥚:hatching_chick::hatched_chick::baby_chick: Process
+```mermaid
+flowchart LR
+    A([Detect]) --> B[Record];
+    B --> C{Classify};
+    C -.-> D[Incident];
+    D -.-> E[Investigate];
+    E -.-> I[Resolve];
+    C -.-> F[Request];
+    F -.-> G[Fulfill];
+    G -.-> I[Resolve];
+    I --> J([Close]);
+```
+
+### Incident 👷🏗️ Triage
+
+|   | Low Impact | Medium Impact | High Impact |
+| :---: |  :---: | :---: | :---: |
+| High Urgency | 3 | 4 | 5 |
+| Medium Urgency | 2 | 3 | 4 |
+| Low Urgency | 1 | 2 | 3 |
+
+*Impact: Number of users/items affected/influenced*<br>
+*Urgency: Based on time until significant impact*
+
+## Asana 👥
+
+| Category | Expectation |
+| :---: | :---: |
+| Task | Type(scope): Small amount of words |
+| Assignee | Auto-populated |
+| Due Date | Set by whom? Procedure needed |
+| Priority | Monochromatic/How many levels? |
+| Task Progress | Color-coded/Words used? |
+| Related Branch |Git Branch being used |
+| Job Type | This can be discussed. Examples are Accessibility, New Page, Housekeeping, Content |
+| Requested By | This can be auto-populated with a form |
+
+* Priority: Current use is 
+    * 🟨:Low 
+    * 🟧:Med 
+    * 🟥:High
+* Task Progress: Current use is 
+    * 🟦: In Queue 
+    * :black_square_button:: In Progress 
+    * 🟨 (lighter tone): Waiting/On Hold 
+    * 🟧: Revisions Requested 
+    * 🟥: Ready for Review/On Test Site 
+    * 🟩: Completed/Published
+
+## Personal 💀 UX Standards 
+  
+  <details><summary>Nav</summary>
+      Confirmations Needed: 
+      <ol>
+       <li>Submenu/Search expands on click if collapsed</li>
+       <li>Submenu/Search collapses on click if expanded</li>
+       <li><code>aria-expanded</code> value matches these states</li>
+       <li>Keyboard navigation from these items does not close the item unless another item is focused</li>
+       <li>Clicks outside button and menu/form close the item</li>
+      </ol>
+  </details>
+       
+  <details><summary>Outbound Icons</summary>
+      Confirmations Needed: 
+      <ol>
+       <li>Outbound Icons accompany aria-label's announcing link is outbound</li>
+       <li>When link is in nav/sidenav, icon is aligned right and vertically centered</li>
+       <li>When link is a button, icon is aligned 4px to the right and baseline (vertically aligned icon bottom and text bottom)</li>
+      </ol>
+  </details>
+
+## SVG :art:
+ 
+<i>Common svg commands for paths</i>:<br>
+| Letter | Command | Syntax |
+| :--: | :--: | :--: |
+| M | Move To | M x y (or) m dx dy |
+| L | Line To | L x y (or) l dx dy |
+| H | Horizontal | H x (or) h dx |
+| V | Vertical | V y (or) v dy |
+| Z | Close Path | Z (or) z (no difference)<br>Draws straight line from current point<br>to first point in path.<br>Doesn't need to be at end of path.|
+| C | Cubic Curve| C x1 y1, x2 y2, x y (or) c dx1 dy1, dx2 dy2, dx dy|
+| Q | Quadratic Bezier Curve | Q x1 y1, x y (or) q dx1 dy1, dx dy |
+| S | Several Curve | S x2 y2, x y (or) s dx2 dy2, dx dy |
+| A | Arc (7 params) | A rx ry x-axis-rotation large-arc-flag sweep-flag x y<br>(or)<br>a rx ry x-axis-rotation large-arc-flag sweep-flag dx dy |
+ 
+ <br><b>Notes:</b>
+     <ul>
+         <li>Uppercase letters are absolute. Lowercase letters are relative.</li>
+         <li>Commas and spaces are optional (relatively).</li>
+         <li>You can also drop the command letter if the next command is the same as the previous.</li>
+         <li>If you want to change svg position on hover, use the exact same number of points.</li>
+     </ul>
+     <i>Example</i>:<br>
+     
+     ```html
+     <svg viewBox="0 0 100 100">
+          <path d="M10,10 Q50,20 50,50 T90,90" />
+     </svg>
+     ```
+ 
+     ```css
+     svg:hover path {
+          d: path("M10,10 Q80,20 50,50 T90,90")
+     }
+     ```
+ 
+ <p>As an alternative, a plugin like <a href="https://greensock.com/morphsvg/" target="_blank">GreenSock</a> is able to smoothly morph an svg from one to another.</p>
+
 
 ## Helpful Links
 
@@ -177,6 +375,8 @@ If you need any help with that process, please let me know.</p>
 * [htaccess redirects #2](https://help.dreamhost.com/hc/en-us/articles/215747748-How-can-I-redirect-and-rewrite-my-URLs-with-an-htaccess-file-)
 * [Keyboard Events](https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent)
 * [Fake JSON Data](https://jsonplaceholder.typicode.com/)
+* [CSS Defaults](https://www.w3schools.com/cssref/css_default_values.asp)
+* [For fun: List of GitHub Markdown emojis](https://gist.github.com/rxaviers/7360908)
 
 ### Mobile
 * [Mobile Display Issues with URL bar](https://www.reddit.com/r/Frontend/comments/d1czwl/fix_for_100vh_with_mobile_address_bar_visible/)
@@ -199,7 +399,83 @@ If you need any help with that process, please let me know.</p>
 * [Tracking Device Orientation](https://analytical42.com/2016/track-device-orientation-changes-google-analytics/)
  
 </details>
- 
+
+<a href="https://geology.com/world/world-map.shtml"><img src="https://i.etsystatic.com/5451974/r/il/a9eb3b/2279803383/il_fullxfull.2279803383_gt2h.jpg" alt="Map of World to Use for Worldle" /></a>
+
+
+
+
+
+
+<hr>
+:no_entry: -- -- -- :no_entry: -- -- -- :no_entry: -- -- -- :no_entry: -- -- -- :no_entry: -- -- -- FOLLOWING AREA IN PROGRESS -- -- -- :no_entry: -- -- -- :no_entry: -- -- -- :no_entry: -- -- -- :no_entry: -- -- -- :no_entry:
+
+
+## In Progress
+<comment>
+
+Workflow
+
+* Remember: `git fetch` and `git pull` frequently
+
+<!-- HIDDEN UF WORKFLOW TEMPLATE
+mermaid
+
+```mermaid
+gantt
+title Deadlines
+dateFormat MM/DD/YY
+section Am I In
+section Yield
+section MLK
+Add Alert     :done,      a1, 01/14/22, 1d
+Monitor Alert :active,    a2, 01/14/22,01/18/22
+MLK Day       :milestone, a3, 01/18/22, 24h
+Remove Alert  :after a2     , 0d
+```
+-->
+
+[Mermaid Documentation](https://mermaid-js.github.io/mermaid/#/)
+Flowchart
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
+Sequence Diagram
+```mermaid
+sequenceDiagram
+    participant Alice
+    participant Bob
+    Alice->>John: Hello John, how are you?
+    loop Healthcheck
+        John->>John: Fight against hypochondria
+    end
+    Note right of John: Rational thoughts <br/>prevail!
+    John-->>Alice: Great!
+    John->>Bob: How about you?
+    Bob-->>John: Jolly good!
+```
+
+Gantt Diagram
+
+```mermaid
+gantt
+ dateFormat  YYYY-MM-DD
+ title Adding GANTT diagram to mermaid
+ excludes weekdays 2014-01-10
+
+section A section
+Completed task            :done,    des1, 2014-01-06,2014-01-08
+Active task               :active,  des2, 2014-01-09, 3d
+Future task               :         des3, after des2, 5d
+Future task2              :         des4, after des3, 5d
+```
+
+
 <!-- [myAssets - External User Portal](https://myassets.fa.ufl.edu/ext/#/home)<br> _For foreign travel requests, off-site certification for assets and online shopping_ -->
 <!-- * [13 Days of Accessibility](http://a11ycalendar.kaseybon.com/)<br> _For gradually learning accessibility standards_ -->
 <!-- [Apple Typography](https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/typography/)<br> _For accessibility with research-backed data_ -->
@@ -214,83 +490,24 @@ If you need any help with that process, please let me know.</p>
 ## Emails
 -->
 
-## Personal Preferences for Naming Conventions
-- **_camelCase_** for variables
-    - camelCaseExample
-- **_PascalCase_** for classes
-    - Class_For_Code_Reuse
-- **_underscores_** for images
-    - underscore_example
-- **_dashes_** for filenames/folders
-    - filename-or-folder-example
-
-## Useful Shortcuts
-
-### General
-| Windows | Web Browser | Xd | Zoom |
-| :---: | :---: | :---: | :---: |
-| Screen Record<br> `Win + Alt + R` | Recover Tab<br> `Ctrl + Shift + T` | Scroll Horizontally<br> `Shift + Scroll` | Hide Bar (for remote IT help)<br> `Ctrl + Alt + Shift + H` |
-| Screen Capture<br> `Win + Shift + S` | |Select items over area<br> `Shift + Click/Drag`| Microphone Toggle<br> `Alt + A` |
-|Narrator(SR)<br> `Win + Ctrl + Enter`| | | Share Screen Prompt<br> `Alt + S` |
-
-### Asana
-| Task | Assignee | Due Date | Priority | Task Progress | Related Branch | Job Type | Requested By |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Type(scope): Small amount of words | Auto-populated | Set by whom? Procedure needed | Monochromatic/How many levels? | Color-coded/Words used? | Git Branch being used | This can be discussed. Examples are Accessibility, New Page, Housekeeping, Content | This can be auto-populated with a form |
-
-* Priority: Current use is 
-    * 🟨:Low 
-    * 🟧:Med 
-    * 🟥:High
-* Task Progress: Current use is 
-    * 🟦: In Queue 
-    * Gray: In Progress 
-    * Light 🟨: Waiting/On Hold 
-    * 🟧: Revisions Requested 
-    * 🟥: Ready for Review/On Test Site 
-    * 🟩: Completed/Published
-
-
-
-### UX
-  
-  <details><summary>Nav</summary>
-      Confirmations Needed: 
-      <ol>
-       <li>Submenu/Search expands on click if collapsed</li>
-       <li>Submenu/Search collapses on click if expanded</li>
-       <li><code>aria-expanded</code> value matches these states</li>
-       <li>Keyboard navigation from these items does not close the item unless another item is focused</li>
-       <li>Clicks outside button and menu/form close the item</li>
-      </ol>
-  </details>
-       
-  <details><summary>Outbound Icons</summary>
-      Confirmations Needed: 
-      <ol>
-       <li>Outbound Icons accompany aria-label's announcing link is outbound</li>
-       <li>When link is in nav/sidenav, icon is aligned right and vertically centered</li>
-       <li>When link is a button, icon is aligned 4px to the right and baseline (vertically aligned icon bottom and text bottom)</li>
-      </ol>
-  </details>
-
-
+<!--
 ### Web Development
+-->
 
+<!--
 <details><summary>Bash (WIP)</summary>
  <code>npm run dev</code> <span>(admissions)</span>
  <code>npm run start</code> <span>(em?)</span>
 </details>
+-->
 
 <!-- Add mermaid of website creation life cycle (include Continuous Improvement) -->
 
-#### Node
+
+Node
 `npm install cmder` &rarr; Install Cmder
 
-##### VSCode
-From Command Prompt, `code .` opens current folder in code
-
-##### Git (WIP)
+Git (WIP)
 <details><summary>Everything (mostly) Git</summary>
   
  * `git cherry-pick`
@@ -319,7 +536,7 @@ From Command Prompt, `code .` opens current folder in code
 </details>
 
  
-###### Branching Procedures
+Branching Procedures
 ```mermaid
 flowchart LR
  A([Master/Main]) ==> B[Main Commit];
@@ -331,15 +548,15 @@ flowchart LR
  F -- Merge into Master/Main --> G
 ```
 
-
-##### Dev Tools
+Dev Tools
 * `[].forEach.call($$("*"),function(a){a.style.outline="1px solid #"+(~~(Math.random()*(1<<24))).toString(16)})` _Input in console: Helpful for checking element layouts_
 
-##### Bookmarklets (WIP)
+Bookmarklets (WIP)
 
 * [Get window inner width](javascript: void(0); alert(innerWidth);)
 * [Get window inner height](javascript: void(0); alert(innerHeight);)
-<!--
+
+ <!--
 [Source for some window size functions](https://www.rapidtables.com/web/tools/window-size.html)
 
 `javascript:alert($(window).height());` &rarr; Get current window height in a browser alert
@@ -349,179 +566,14 @@ flowchart LR
 _Note: These cannot be copy/pasted into the URL and some pages may prevent the alert from appearing._
 -->
 
-## Terminology
-
-### EM
-Yield: Period in which students get accepted and decide where they will go to university
-
-#### Designers
-_Example View_
-
-Orphan
-```
-    ~~~
-    ~~~
-~~~   
- x
-```
-Widow
-```
-     x
-    ~~~
-~~~ ~~~
-~~~
-```
-Runt
-```
-     x
-~~~ ~~~
-~~~
-~~~
-```
-Leading<br>
- <i>Leading - or line-height - should be be smaller on `p` elements if possible</i>
-
-Hyphen<br>
- <i>Never split words with hyphens</i>
- 
-#### Web Developers
- <b>Signifiers/Affordances</b>: Indicators that show users how to interact with new objects/situations.
-<!-- title: attribute of any HTML element but is most useful for interactive elements. They are usually defaulted as tooltips-->
-<!-- Tip: Add cursor: pointer; to actual a element and not just onto a state of a -->
-
-<i>Common svg commands for paths</i>:<br>
-| Letter | Command | Syntax |
-| :--: | :--: | :--: |
-| M | Move To | M x y (or) m dx dy |
-| L | Line To | L x y (or) l dx dy |
-| H | Horizontal | H x (or) h dx |
-| V | Vertical | V y (or) v dy |
-| Z | Close Path | Z (or) z (no difference)<br>Draws straight line from current point<br>to first point in path.<br>Doesn't need to be at end of path.|
-| C | Cubic Curve| C x1 y1, x2 y2, x y (or) c dx1 dy1, dx2 dy2, dx dy|
-| Q | Quadratic Bezier Curve | Q x1 y1, x y (or) q dx1 dy1, dx dy |
-| S | Several Curve | S x2 y2, x y (or) s dx2 dy2, dx dy |
-| A | Arc (7 params) | A rx ry x-axis-rotation large-arc-flag sweep-flag x y<br>(or)<br>a rx ry x-axis-rotation large-arc-flag sweep-flag dx dy |
- 
- <br><b>Notes:</b>
-     <ul>
-         <li>Uppercase letters are absolute. Lowercase letters are relative.</li>
-         <li>Commas and spaces are optional (relatively).</li>
-         <li>You can also drop the command letter if the next command is the same as the previous.</li>
-         <li>If you want to change svg position on hover, use the exact same number of points.</li>
-     </ul>
-     <i>Example</i>:<br>
-     
-     ```html
-     <svg viewBox="0 0 100 100">
-          <path d="M10,10 Q50,20 50,50 T90,90" />
-     </svg>
-     ```
- 
-     ```css
-     svg:hover path {
-          d: path("M10,10 Q80,20 50,50 T90,90")
-     }
-     ```
- 
- <p>As an alternative, a plugin like <a href="https://greensock.com/morphsvg/" target="_blank">GreenSock</a> is able to smoothly morph an svg from one to another.</p>
-
-### ITSM
-#### ITSM Workflow Process
-```mermaid
-flowchart LR
-    A([Detect]) --> B[Record];
-    B --> C{Classify};
-    C -.-> D[Incident];
-    D -.-> E[Investigate];
-    E -.-> I[Resolve];
-    C -.-> F[Request];
-    F -.-> G[Fulfill];
-    G -.-> I[Resolve];
-    I --> J([Close]);
-```
-
-#### Incident Triage
-
-|   | Low Impact | Medium Impact | High Impact |
-| :---: |  :---: | :---: | :---: |
-| High Urgency | 3 | 4 | 5 |
-| Medium Urgency | 2 | 3 | 4 |
-| Low Urgency | 1 | 2 | 3 |
-
-*Impact: Number of users/items affected/influenced*<br>
-*Urgency: Based on time until significant impact*
-
-### T4\*
+T4\*
 [T4 Training Resources](https://webservices.it.ufl.edu/t4/t4-training/)
 
 **\* Side project**
 
-## In Progress
+Hueso
 
-### Workflow
-
-* Remember to frequently use `git fetch` and `git pull`
-
-<!-- HIDDEN UF WORKFLOW TEMPLATE
-#### mermaid
-
-```mermaid
-gantt
-title Deadlines
-dateFormat MM/DD/YY
-section Am I In
-section Yield
-section MLK
-Add Alert     :done,      a1, 01/14/22, 1d
-Monitor Alert :active,    a2, 01/14/22,01/18/22
-MLK Day       :milestone, a3, 01/18/22, 24h
-Remove Alert  :after a2     , 0d
-```
--->
-
-[Mermaid Documentation](https://mermaid-js.github.io/mermaid/#/)
-##### Flowchart
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
-
-##### Sequence Diagram
-```mermaid
-sequenceDiagram
-    participant Alice
-    participant Bob
-    Alice->>John: Hello John, how are you?
-    loop Healthcheck
-        John->>John: Fight against hypochondria
-    end
-    Note right of John: Rational thoughts <br/>prevail!
-    John-->>Alice: Great!
-    John->>Bob: How about you?
-    Bob-->>John: Jolly good!
-```
-
-##### Gantt Diagram
-
-```mermaid
-gantt
- dateFormat  YYYY-MM-DD
- title Adding GANTT diagram to mermaid
- excludes weekdays 2014-01-10
-
-section A section
-Completed task            :done,    des1, 2014-01-06,2014-01-08
-Active task               :active,  des2, 2014-01-09, 3d
-Future task               :         des3, after des2, 5d
-Future task2              :         des4, after des3, 5d
-```
-
-### Hueso
-
-#### Row
+Row
 | M &rarr; L | B | M &rarr; T | B | M &rarr; L |
 | :---: | :---: | :---: | :---: | :---: |
 | 1 to 4 | 1 | 1 to 2 | 1 | 1 to 4 |
@@ -564,9 +616,10 @@ Future task2              :         des4, after des3, 5d
 .notes {
     content: "Uses absolute positioning for display of curve. Perhaps svgs can replace this";
 }
+    https://gist.github.com/rxaviers/7360908 = list of emojis for github
  -->
 
-#### Tips
+Tips
 <details><summary>Very Basic Sass Filing and <a href="https://itnext.io/structuring-your-sass-projects-c8d41fa55ed4">Article on Sass Filing</a> with more complex suggestions</summary>
     <pre>
         _base.scss
@@ -576,7 +629,7 @@ Future task2              :         des4, after des3, 5d
     </pre>
 </details>
 
-#### Padding/Margin/Layout
+Padding/Margin/Layout
 <details><summary>Troubleshooting Code</summary>
   <pre>
     &lt;div class="outer"&gt;
@@ -653,5 +706,4 @@ Future task2              :         des4, after des3, 5d
     &lt;/style&gt;
   </pre>
 </details>
-
-<a href="https://geology.com/world/world-map.shtml"><img src="https://i.etsystatic.com/5451974/r/il/a9eb3b/2279803383/il_fullxfull.2279803383_gt2h.jpg" alt="Map of World to Use for Worldle" /></a>
+</comment>
