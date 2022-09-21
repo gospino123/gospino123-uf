@@ -4,7 +4,7 @@
 - [Training](https://github.com/gospino123-uf/gospino123-uf/edit/gospino123-uf-toc/README.md#training-runningdash)
 - [Websites](https://github.com/gospino123-uf/gospino123-uf/edit/gospino123-uf-toc/README.md#websites-and-website-information-lock-key)
 - [Naming Conventions](https://github.com/gospino123-uf/gospino123-uf/edit/gospino123-uf-toc/README.md#training-runningdash)
-- [Terminology](https://github.com/gospino123-uf/gospino123-uf/edit/gospino123-uf-toc/README.md#terminology-blue_book) (WIP)
+- [Terminology](https://github.com/gospino123-uf/gospino123-uf/edit/gospino123-uf-toc/README.md#terminology-blue_book)
 - Shortcuts
 - ITSM Standards
 - Accessibility
@@ -13,7 +13,7 @@
 - Asana Tracking Standards
 - Personal UX Standards
 - Git
-- SVG
+- [SVG](https://github.com/gospino123-uf/gospino123-uf/edit/gospino123-uf-toc/README.md#svg) (WIP)
 - Troubleshooting on JSFiddle
 - Map
 
@@ -82,41 +82,59 @@
 
 ## Terminology :blue_book:
 
-### EM
-Yield: Period in which students get accepted and decide where they will go to university
-
-#### Designers
-_Example View_
-
-Orphan
-```
+<details><summary>Collection</summary>
+  <ul>
+    <li><b>EM</b>
+      <p><b>Yield</b>: Period in which students get accepted and decide on where to go to university</p>
+      <ul>
+        <li>Designers
+          <details><summary><i>Example Cases for Copy</i></summary>
+            <ul>
+              <li><b>Orphan</b>
+                <pre>
     ~~~
     ~~~
 ~~~   
  x
-```
-Widow
-```
+                </pre>
+              </li>
+              <li><b>Widow</b>
+                <pre>
      x
     ~~~
 ~~~ ~~~
 ~~~
-```
-Runt
-```
+                </pre>
+              </li>
+              <li><b>Runt</b>
+                <pre>
      x
 ~~~ ~~~
 ~~~
 ~~~
-```
-Leading<br>
- <i>Leading - or line-height - should be be smaller on `p` elements if possible</i>
+                </pre>
+              </li>
+              <li><b>Leading</b>
+                <p>Leading, or line-height, should be smaller on <code>p</code> elements if possible</p>
+              </li>
+              <li><b>Hyphen</b>
+                <p>Never split words with hyphens</p>
+              </li>
+            </ul>
+          </details>
+        </li>
+        <li>Web Developers
+          <ul>
+            <li><b>Signifiers/Affordances</b>:
+              <p>These are <i>indicators</i> that show users how to interact with new objects/situations</p>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+  </ul>
+</details>
 
-Hyphen<br>
- <i>Never split words with hyphens</i>
- 
-#### Web Developers
- <b>Signifiers/Affordances</b>: Indicators that show users how to interact with new objects/situations.
 <!-- title: attribute of any HTML element but is most useful for interactive elements. They are usually defaulted as tooltips-->
 <!-- Tip: Add cursor: pointer; to actual a element and not just onto a state of a -->
 
@@ -394,42 +412,6 @@ flowchart LR
 _Note: These cannot be copy/pasted into the URL and some pages may prevent the alert from appearing._
 -->
 
-<i>Common svg commands for paths</i>:<br>
-| Letter | Command | Syntax |
-| :--: | :--: | :--: |
-| M | Move To | M x y (or) m dx dy |
-| L | Line To | L x y (or) l dx dy |
-| H | Horizontal | H x (or) h dx |
-| V | Vertical | V y (or) v dy |
-| Z | Close Path | Z (or) z (no difference)<br>Draws straight line from current point<br>to first point in path.<br>Doesn't need to be at end of path.|
-| C | Cubic Curve| C x1 y1, x2 y2, x y (or) c dx1 dy1, dx2 dy2, dx dy|
-| Q | Quadratic Bezier Curve | Q x1 y1, x y (or) q dx1 dy1, dx dy |
-| S | Several Curve | S x2 y2, x y (or) s dx2 dy2, dx dy |
-| A | Arc (7 params) | A rx ry x-axis-rotation large-arc-flag sweep-flag x y<br>(or)<br>a rx ry x-axis-rotation large-arc-flag sweep-flag dx dy |
- 
- <br><b>Notes:</b>
-     <ul>
-         <li>Uppercase letters are absolute. Lowercase letters are relative.</li>
-         <li>Commas and spaces are optional (relatively).</li>
-         <li>You can also drop the command letter if the next command is the same as the previous.</li>
-         <li>If you want to change svg position on hover, use the exact same number of points.</li>
-     </ul>
-     <i>Example</i>:<br>
-     
-     ```html
-     <svg viewBox="0 0 100 100">
-          <path d="M10,10 Q50,20 50,50 T90,90" />
-     </svg>
-     ```
- 
-     ```css
-     svg:hover path {
-          d: path("M10,10 Q80,20 50,50 T90,90")
-     }
-     ```
- 
- <p>As an alternative, a plugin like <a href="https://greensock.com/morphsvg/" target="_blank">GreenSock</a> is able to smoothly morph an svg from one to another.</p>
-
 ### ITSM
 #### ITSM Workflow Process
 ```mermaid
@@ -659,5 +641,44 @@ Future task2              :         des4, after des3, 5d
     &lt;/style&gt;
   </pre>
 </details>
+
+## SVG
+ 
+<i>Common svg commands for paths</i>:<br>
+| Letter | Command | Syntax |
+| :--: | :--: | :--: |
+| M | Move To | M x y (or) m dx dy |
+| L | Line To | L x y (or) l dx dy |
+| H | Horizontal | H x (or) h dx |
+| V | Vertical | V y (or) v dy |
+| Z | Close Path | Z (or) z (no difference)<br>Draws straight line from current point<br>to first point in path.<br>Doesn't need to be at end of path.|
+| C | Cubic Curve| C x1 y1, x2 y2, x y (or) c dx1 dy1, dx2 dy2, dx dy|
+| Q | Quadratic Bezier Curve | Q x1 y1, x y (or) q dx1 dy1, dx dy |
+| S | Several Curve | S x2 y2, x y (or) s dx2 dy2, dx dy |
+| A | Arc (7 params) | A rx ry x-axis-rotation large-arc-flag sweep-flag x y<br>(or)<br>a rx ry x-axis-rotation large-arc-flag sweep-flag dx dy |
+ 
+ <br><b>Notes:</b>
+     <ul>
+         <li>Uppercase letters are absolute. Lowercase letters are relative.</li>
+         <li>Commas and spaces are optional (relatively).</li>
+         <li>You can also drop the command letter if the next command is the same as the previous.</li>
+         <li>If you want to change svg position on hover, use the exact same number of points.</li>
+     </ul>
+     <i>Example</i>:<br>
+     
+     ```html
+     <svg viewBox="0 0 100 100">
+          <path d="M10,10 Q50,20 50,50 T90,90" />
+     </svg>
+     ```
+ 
+     ```css
+     svg:hover path {
+          d: path("M10,10 Q80,20 50,50 T90,90")
+     }
+     ```
+ 
+ <p>As an alternative, a plugin like <a href="https://greensock.com/morphsvg/" target="_blank">GreenSock</a> is able to smoothly morph an svg from one to another.</p>
+
 
 <a href="https://geology.com/world/world-map.shtml"><img src="https://i.etsystatic.com/5451974/r/il/a9eb3b/2279803383/il_fullxfull.2279803383_gt2h.jpg" alt="Map of World to Use for Worldle" /></a>
