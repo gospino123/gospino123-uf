@@ -1,16 +1,16 @@
 # Web Development Resources
 
 ## Table of Contents (WIP) 
-- [Training](https://github.com/gospino123-uf/gospino123-uf/edit/gospino123-uf-toc/README.md#training-runningdash)
-- [Websites and Website Information](https://github.com/gospino123-uf/gospino123-uf/edit/gospino123-uf-toc/README.md#lock-websites-and-website-information-key)
-- [Naming Conventions](https://github.com/gospino123-uf/gospino123-uf/edit/gospino123-uf-toc/README.md#naming-conventions-clipboard-personal-preferences)
-- [Terminology](https://github.com/gospino123-uf/gospino123-uf/edit/gospino123-uf-toc/README.md#terminology-blue_book)
-- [Shortcuts](https://github.com/gospino123-uf/gospino123-uf/edit/gospino123-uf-toc/README.md#shortcuts-shipit)
-- [ITSM Standards](https://github.com/gospino123-uf/gospino123-uf/edit/gospino123-uf-toc/README.md#itsm-chart_with_upwards_trend-standards)
-- [Asana Tracking Standards](https://github.com/gospino123-uf/gospino123-uf/edit/gospino123-uf-toc/README.md#asana-)
-- [Personal UX Standards](https://github.com/gospino123-uf/gospino123-uf/edit/gospino123-uf-toc/README.md#personal--ux-standards)
-- [SVG](https://github.com/gospino123-uf/gospino123-uf/edit/gospino123-uf-toc/README.md#svg-art) (WIP**)
-- [Helpful Links](https://github.com/gospino123-uf/gospino123-uf/edit/gospino123-uf-toc/README.md#svg-art)
+- [Training](https://github.com/gospino123-uf/gospino123-uf#training-runningdash)
+- [Websites and Website Information](https://github.com/gospino123-uf/gospino123-uf#lock-websites-and-website-information-key)
+- [Naming Conventions](https://github.com/gospino123-uf/gospino123-uf#naming-conventions-clipboard-personal-preferences)
+- [Terminology](https://github.com/gospino123-uf/gospino123-uf#terminology-blue_book)
+- [Shortcuts](https://github.com/gospino123-uf/gospino123-uf#shortcuts-shipit)
+- [ITSM Standards](https://github.com/gospino123-uf/gospino123-uf#itsm-chart_with_upwards_trend-standards)
+- [Asana Tracking Standards](https://github.com/gospino123-uf/gospino123-uf#asana-)
+- [Personal UX Standards](https://github.com/gospino123-uf/gospino123-uf#personal--ux-standards)
+- [SVG](https://github.com/gospino123-uf/gospino123-uf#svg-art) (WIP**)
+- [Helpful Links](https://github.com/gospino123-uf/gospino123-uf#svg-art)
 
 **WIP = Work in Progress
 <!--
