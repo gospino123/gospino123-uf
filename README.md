@@ -74,6 +74,11 @@
       </li>
     </ul>
   </p>
+  <p>Web Content Accessibility Guidelines
+    <ul>
+     <li><a href="https://www.w3.org/TR/WCAG22/">WCAG 2.2</a></li>
+    </ul>
+  </p>
 </details>
 <strong><a href="#web-development-resources"><g-emoji class="g-emoji" alias="arrow_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b06.png">⬆</g-emoji> Back to Top</a></strong>
 
