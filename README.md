@@ -38,7 +38,7 @@
  - [x] [At-Risk for Faculty & Staff Kognito Training](https://mytraining-ufshands.sumtotal.host/Core/pillarRedirect?relyingParty=LM&url=core%2Factivitydetails%2FViewActivityDetails%3FActivityId%3D50498%26UserMode%3D0)
  
 </details>
-<strong><a href="#table-of-contents"><g-emoji class="g-emoji" alias="arrow_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b06.png">⬆</g-emoji> Back to Top</a></strong>
+<strong><a href="#web-development-resources"><g-emoji class="g-emoji" alias="arrow_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b06.png">⬆</g-emoji> Back to Top</a></strong>
  
 ## :lock: Websites and Website Information :key:
 <details><summary>Collection</summary>
@@ -75,6 +75,7 @@
     </ul>
   </p>
 </details>
+<strong><a href="#web-development-resources"><g-emoji class="g-emoji" alias="arrow_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b06.png">⬆</g-emoji> Back to Top</a></strong>
 
 ## Naming Conventions :clipboard: (Personal Preferences)
 - **_camelCase_** for variables
@@ -85,6 +86,8 @@
     - underscore_example
 - **_dashes_** for filenames/folders
     - filename-or-folder-example
+    
+<strong><a href="#web-development-resources"><g-emoji class="g-emoji" alias="arrow_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b06.png">⬆</g-emoji> Back to Top</a></strong>
 
 ## Terminology :blue_book:
 
@@ -144,6 +147,8 @@
 <!-- title: attribute of any HTML element but is most useful for interactive elements. They are usually defaulted as tooltips-->
 <!-- Tip: Add cursor: pointer; to actual a element and not just onto a state of a -->
 
+<strong><a href="#web-development-resources"><g-emoji class="g-emoji" alias="arrow_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b06.png">⬆</g-emoji> Back to Top</a></strong>
+
 ## Shortcuts :shipit:
 
 | Windows | Web Browser | Xd | Zoom | VS Code |
@@ -151,6 +156,8 @@
 | Screen Record<br> `Win + Alt + R` | Recover Tab<br> `Ctrl + Shift + T` | Scroll Horizontally<br> `Shift + Scroll` | Hide Bar (for remote IT help)<br> `Ctrl + Alt + Shift + H` | Open all files/folders from current directory in VS Code from Command Line<br> `code .` | 
 | Screen Capture<br> `Win + Shift + S` | |Select items over area<br> `Shift + Click/Drag`| Microphone Toggle<br> `Alt + A` | |
 |Narrator(SR)<br> `Win + Ctrl + Enter`| | | Share Screen Prompt<br> `Alt + S` | |
+
+<strong><a href="#web-development-resources"><g-emoji class="g-emoji" alias="arrow_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b06.png">⬆</g-emoji> Back to Top</a></strong>
 
 ## ITSM :chart_with_upwards_trend: Standards
 ### Workflow 🥚:hatching_chick::hatched_chick::baby_chick: Process
@@ -178,6 +185,8 @@ flowchart LR
 *Impact: Number of users/items affected/influenced*<br>
 *Urgency: Based on time until significant impact*
 
+<strong><a href="#web-development-resources"><g-emoji class="g-emoji" alias="arrow_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b06.png">⬆</g-emoji> Back to Top</a></strong>
+
 ## Asana 👥
 
 | Category | Expectation |
@@ -202,28 +211,32 @@ flowchart LR
     * 🟧: Revisions Requested 
     * 🟥: Ready for Review/On Test Site 
     * 🟩: Completed/Published
+    
+<strong><a href="#web-development-resources"><g-emoji class="g-emoji" alias="arrow_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b06.png">⬆</g-emoji> Back to Top</a></strong>
 
 ## Personal 💀 UX Standards 
   
-  <details><summary>Nav</summary>
-      Confirmations Needed: 
-      <ol>
-       <li>Submenu/Search expands on click if collapsed</li>
-       <li>Submenu/Search collapses on click if expanded</li>
-       <li><code>aria-expanded</code> value matches these states</li>
-       <li>Keyboard navigation from these items does not close the item unless another item is focused</li>
-       <li>Clicks outside button and menu/form close the item</li>
-      </ol>
-  </details>
-       
-  <details><summary>Outbound Icons</summary>
-      Confirmations Needed: 
-      <ol>
-       <li>Outbound Icons accompany aria-label's announcing link is outbound</li>
-       <li>When link is in nav/sidenav, icon is aligned right and vertically centered</li>
-       <li>When link is a button, icon is aligned 4px to the right and baseline (vertically aligned icon bottom and text bottom)</li>
-      </ol>
-  </details>
+<details><summary>Nav</summary>
+    Confirmations Needed: 
+    <ol>
+     <li>Submenu/Search expands on click if collapsed</li>
+     <li>Submenu/Search collapses on click if expanded</li>
+     <li><code>aria-expanded</code> value matches these states</li>
+     <li>Keyboard navigation from these items does not close the item unless another item is focused</li>
+     <li>Clicks outside button and menu/form close the item</li>
+    </ol>
+</details>
+
+<details><summary>Outbound Icons</summary>
+    Confirmations Needed: 
+    <ol>
+     <li>Outbound Icons accompany aria-label's announcing link is outbound</li>
+     <li>When link is in nav/sidenav, icon is aligned right and vertically centered</li>
+     <li>When link is a button, icon is aligned 4px to the right and baseline (vertically aligned icon bottom and text bottom)</li>
+    </ol>
+</details>
+  
+<strong><a href="#web-development-resources"><g-emoji class="g-emoji" alias="arrow_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b06.png">⬆</g-emoji> Back to Top</a></strong>
 
 ## SVG :art:
  
@@ -264,6 +277,7 @@ flowchart LR
  <p>As an alternative, a plugin like <a href="https://greensock.com/morphsvg/" target="_blank">GreenSock</a> is able to smoothly morph an svg from one to another.</p>
  <p><a href="https://lea.verou.me/2019/05/utility-convert-svg-path-to-all-relative-or-all-absolute-commands/" target="_blank">SVG Utility to Relative or Absolute</a></p>
 
+<strong><a href="#web-development-resources"><g-emoji class="g-emoji" alias="arrow_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b06.png">⬆</g-emoji> Back to Top</a></strong>
 
 ## Helpful Links
 
@@ -404,13 +418,16 @@ flowchart LR
 
 <a href="https://geology.com/world/world-map.shtml"><img src="https://i.etsystatic.com/5451974/r/il/a9eb3b/2279803383/il_fullxfull.2279803383_gt2h.jpg" alt="Map of World to Use for Worldle" /></a>
 
-
+<strong><a href="#web-development-resources"><g-emoji class="g-emoji" alias="arrow_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b06.png">⬆</g-emoji> Back to Top</a></strong>
 
 
 
 
 <hr>
 :no_entry: -- -- -- :no_entry: -- -- -- :no_entry: -- -- -- :no_entry: -- -- -- :no_entry: -- -- -- FOLLOWING AREA IN PROGRESS -- -- -- :no_entry: -- -- -- :no_entry: -- -- -- :no_entry: -- -- -- :no_entry: -- -- -- :no_entry:
+
+
+<strong><a href="#web-development-resources"><g-emoji class="g-emoji" alias="arrow_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b06.png">⬆</g-emoji> Back to Top</a></strong>
 
 
 ## In Progress
