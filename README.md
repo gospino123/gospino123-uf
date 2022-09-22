@@ -393,6 +393,7 @@ flowchart LR
 * [Fake JSON Data](https://jsonplaceholder.typicode.com/)
 * [CSS Defaults](https://www.w3schools.com/cssref/css_default_values.asp)
 * [For fun: List of GitHub Markdown emojis](https://gist.github.com/rxaviers/7360908)
+* [Airbnb Readme for JSX Standards](https://github.com/airbnb/javascript#readme)
 
 ### Mobile
 * [Mobile Display Issues with URL bar](https://www.reddit.com/r/Frontend/comments/d1czwl/fix_for_100vh_with_mobile_address_bar_visible/)
