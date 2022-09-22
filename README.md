@@ -1,16 +1,16 @@
 # Web Development Resources
 
 ## Table of Contents (WIP) 
-- [Training](https://github.com/gospino123-uf/gospino123-uf#training-runningdash)
-- [Websites and Website Information](https://github.com/gospino123-uf/gospino123-uf#lock-websites-and-website-information-key)
-- [Naming Conventions](https://github.com/gospino123-uf/gospino123-uf#naming-conventions-clipboard-personal-preferences)
-- [Terminology](https://github.com/gospino123-uf/gospino123-uf#terminology-blue_book)
-- [Shortcuts](https://github.com/gospino123-uf/gospino123-uf#shortcuts-shipit)
-- [ITSM Standards](https://github.com/gospino123-uf/gospino123-uf#itsm-chart_with_upwards_trend-standards)
-- [Asana Tracking Standards](https://github.com/gospino123-uf/gospino123-uf#asana-)
-- [Personal UX Standards](https://github.com/gospino123-uf/gospino123-uf#personal--ux-standards)
-- [SVG](https://github.com/gospino123-uf/gospino123-uf#svg-art) (WIP**)
-- [Helpful Links](https://github.com/gospino123-uf/gospino123-uf/#helpful-links)
+- [Training](#training-runningdash)
+- [Websites and Website Information](#lock-websites-and-website-information-key)
+- [Naming Conventions](#naming-conventions-clipboard-personal-preferences)
+- [Terminology](#terminology-blue_book)
+- [Shortcuts](#shortcuts-shipit)
+- [ITSM Standards](#itsm-chart_with_upwards_trend-standards)
+- [Asana Tracking Standards](#asana-)
+- [Personal UX Standards](#personal--ux-standards)
+- [SVG](#svg-art) (WIP**)
+- [Helpful Links](#helpful-links)
 
 **WIP = Work in Progress
 <!--
