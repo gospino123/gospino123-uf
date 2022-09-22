@@ -10,7 +10,7 @@
 - [Asana Tracking Standards](https://github.com/gospino123-uf/gospino123-uf#asana-)
 - [Personal UX Standards](https://github.com/gospino123-uf/gospino123-uf#personal--ux-standards)
 - [SVG](https://github.com/gospino123-uf/gospino123-uf#svg-art) (WIP**)
-- [Helpful Links](https://github.com/gospino123-uf/gospino123-uf#svg-art)
+- [Helpful Links](https://github.com/gospino123-uf/gospino123-uf/#helpful-links)
 
 **WIP = Work in Progress
 <!--
@@ -38,6 +38,7 @@
  - [x] [At-Risk for Faculty & Staff Kognito Training](https://mytraining-ufshands.sumtotal.host/Core/pillarRedirect?relyingParty=LM&url=core%2Factivitydetails%2FViewActivityDetails%3FActivityId%3D50498%26UserMode%3D0)
  
 </details>
+<strong><a href="#table-of-contents"><g-emoji class="g-emoji" alias="arrow_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b06.png">⬆</g-emoji> Back to Top</a></strong>
  
 ## :lock: Websites and Website Information :key:
 <details><summary>Collection</summary>
