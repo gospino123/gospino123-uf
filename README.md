@@ -281,6 +281,7 @@ flowchart LR
  
  <p>As an alternative, a plugin like <a href="https://greensock.com/morphsvg/" target="_blank">GreenSock</a> is able to smoothly morph an svg from one to another.</p>
  <p><a href="https://lea.verou.me/2019/05/utility-convert-svg-path-to-all-relative-or-all-absolute-commands/" target="_blank">SVG Utility to Relative or Absolute</a></p>
+ <p><a href="https://css-tricks.com/svg-line-animation-works/" target="_blank">SVG Animation w CSS</a></p>
 
 <strong><a href="#web-development-resources"><g-emoji class="g-emoji" alias="arrow_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b06.png">⬆</g-emoji> Back to Top</a></strong>
 
