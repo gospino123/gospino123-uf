@@ -426,6 +426,7 @@ flowchart LR
 
 ### Practice
 * [Recursion](https://www.w3resource.com/javascript-exercises/javascript-recursion-functions-exercises.php)
+* [Understanding Recursion Post](https://stackoverflow.com/questions/717725/understanding-recursion)
  
 </details>
 
