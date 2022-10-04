@@ -23,7 +23,7 @@
 --> 
 
 ## Training :running::dash:
-<details><summary>List of Elements</summary>
+<!-- <details><summary>List of Elements</summary> -->
  
  - [x] [FERPA Basics - PRV802](https://mytraining-ufshands.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D35029%26UserMode%3D0)
  - [x] [Review FERPA Information](https://registrar.ufl.edu/ferpa/)
@@ -37,11 +37,11 @@
  - [x] [BEC Active Shooter - DEM827](https://mytraining-ufshands.sumtotal.host/Core/pillarRedirect?relyingParty=LM&url=core%2Factivitydetails%2FViewActivityDetails%3FActivityId%3D651%26UserMode%3D0)
  - [x] [At-Risk for Faculty & Staff Kognito Training](https://mytraining-ufshands.sumtotal.host/Core/pillarRedirect?relyingParty=LM&url=core%2Factivitydetails%2FViewActivityDetails%3FActivityId%3D50498%26UserMode%3D0)
  
-</details>
+<!-- </details> -->
 <strong><a href="#web-development-resources"><g-emoji class="g-emoji" alias="arrow_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b06.png">⬆</g-emoji> Back to Top</a></strong>
  
 ## :lock: Websites and Website Information :key:
-<details><summary>Collection</summary>
+<!-- <details><summary>Collection</summary> -->
   <p>Websites
     <ul>
       <li><a href="https://admissions.ufl.edu">Admissions</a></li>
@@ -79,7 +79,7 @@
      <li><a href="https://www.w3.org/TR/WCAG22/">WCAG 2.2</a></li>
     </ul>
   </p>
-</details>
+<!-- </details> -->
 <strong><a href="#web-development-resources"><g-emoji class="g-emoji" alias="arrow_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b06.png">⬆</g-emoji> Back to Top</a></strong>
 
 ## Naming Conventions :clipboard: (Personal Preferences)
@@ -96,7 +96,7 @@
 
 ## Terminology :blue_book:
 
-<details><summary>Collection</summary>
+<!-- <details><summary>Collection</summary> -->
   <ul>
     <li><b>EM</b>
       <p><b>Yield</b>: Period in which students get accepted and decide on where to go to university</p>
@@ -147,7 +147,7 @@
       </ul>
     </li>
   </ul>
-</details>
+<!-- </details> -->
 
 <!-- title: attribute of any HTML element but is most useful for interactive elements. They are usually defaulted as tooltips-->
 <!-- Tip: Add cursor: pointer; to actual a element and not just onto a state of a -->
