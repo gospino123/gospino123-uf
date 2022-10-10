@@ -10,7 +10,7 @@
 - [Asana Tracking Standards](#asana-)
 - [Personal UX Standards](#personal--ux-standards)
 - [SVG](#svg-art) (WIP**)
-- [Helpful Links](#helpful-links)
+- [Helpful Links](#helpful-links) (WIP **)
 
 **WIP = Work in Progress
 <!--
@@ -400,6 +400,7 @@ flowchart LR
 * [Keyboard Events](https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent)
 * [Fake JSON Data](https://jsonplaceholder.typicode.com/)
 * [CSS Defaults](https://www.w3schools.com/cssref/css_default_values.asp)
+* [Free Clip Path Maker](https://bennettfeely.com/clippy/)
 * [For fun: List of GitHub Markdown emojis](https://gist.github.com/rxaviers/7360908)
 * [Airbnb Readme for JSX Standards](https://github.com/airbnb/javascript#readme)
 
