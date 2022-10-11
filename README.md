@@ -295,8 +295,10 @@ flowchart LR
  
 #### Colors
 * [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/)<br> _Manual checks for color contrast issues_
-* [JSON Color Checker for #FFF White on #07317B Dark Blue](https://webaim.org/resources/contrastchecker/?fcolor=FFFFFF&bcolor=07317B&api)<br> _UF Blue_
-* [JSON Color Checker for #FFF White on #FA4616 Orange](https://webaim.org/resources/contrastchecker/?fcolor=FFFFFF&bcolor=FA4616&api)<br> _UF Orange_
+    * [JSON Color Checker for #FFF White on #07317B Dark Blue](https://webaim.org/resources/contrastchecker/?fcolor=FFFFFF&bcolor=07317B&api)<br> _**UF Blue**_
+    * [JSON Color Checker for #FFF White on #FA4616 Orange](https://webaim.org/resources/contrastchecker/?fcolor=FFFFFF&bcolor=FA4616&api)<br> _**UF Orange**_
+    * [JSON Color Checker for #07317B Dark Blue on #81D2D9 Teal](https://webaim.org/resources/contrastchecker/?fcolor=07317B&bcolor=81D2D9&api)<br> _**EM Teal**_
+    * [JSON Color Checker for #07317B Dark Blue on #ECECEC Gray](https://webaim.org/resources/contrastchecker/?fcolor=07317B&bcolor=ECECEC&api)<br> _**EM Gray**_
 * [Chrome Color Contrast Analyzer](https://accessibility.oit.ncsu.edu/it-accessibility-at-nc-state/developers/tools/color-contrast-analyzer-for-chrome/)<br> _Extension with explanation on use_
 * [Color Blindness Filter Checker](https://www.toptal.com/designers/colorfilter/)<br> _Check ADA, CTA effectiveness and Gradient use_
 
