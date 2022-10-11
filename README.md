@@ -761,7 +761,8 @@ Padding/Margin/Layout
  <p><h2>Create Personas</h2>
     <ol>
      <li>Understand the project scenario and customer types.</li>
-     <li>Create personas based on a combination of attributes from a group of users with similar needs.</li>
+     <li>Create personas based on a combination of attributes from a group of users with similar needs. Personas should be representative of key user groups.</li>
+     <li>Consider the following while creating personas<ol><li><strong>Demographic information:</strong> Did the demographic information match the persona characteristics given in the scenario?</li><li><strong>Quote:</strong> Were you able to imagine a quote that is relevant to the persona and the background you’ve built for them?</li><li><strong>Goals/frustrations:</strong> Were you able to align the goals and frustrations with the persona and the activity scenario?</li><li><strong>Brief story/scenario:</strong> Were you able to give more information about the persona, tying in their goals and frustrations, as well as their quote?</li><li><strong>Image:</strong> Did you include a picture or avatar representing the personas for your activity?</li></ol></li>
     </ol>
  </p>
  </details>
