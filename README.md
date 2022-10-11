@@ -288,36 +288,44 @@ flowchart LR
 
 ## Helpful Links
 
-<details><summary>Web Accessibility</summary>
- 
-* [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/)<br> _Manual checks for color contrast issues_
-* [Chrome Color Contrast Analyzer](https://accessibility.oit.ncsu.edu/it-accessibility-at-nc-state/developers/tools/color-contrast-analyzer-for-chrome/)
-* [Font Size Change in Browser for Users](https://www.computerhope.com/issues/ch000779.htm#:~:text=Press%20and%20hold%20the%20Ctrl,and%20decrease%20the%20font%20size.)<br> _See how people use resizing to view content better_
-* [Color Blindness Filter Checker](https://www.toptal.com/designers/colorfilter/)<br> _Check ADA, CTA effectiveness and Gradient use_
-* [Parallax Effects and Accessibility](https://webflow.com/accessibility/checklist/task/avoid-parallax-effects)<br> _Read why not to use parallax and possible usable variants_
-* [Cross Browser Environments and Screenreaders](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/Accessibility#screenreader_testing)<br> _Considerations for accessibility-first development and screenreaders_
-* [Connection to SEO](https://yoast.com/image-seo-alt-tag-and-title-tag-optimization/#:~:text=The%20alt%20and%20title%20attributes,with%20both%20SEO%20and%20accessibility.)
-* [Training Ideas for Accessibility at UC based on Job Filters](https://accessibility.uci.edu/information-technology/training.php)<br> _Access categories based on job to preview directions of study_
-* [Access UF Training Sessions](https://training.it.ufl.edu/)<br> Consists of some accessibility training
-* [Windows Narrator Keyboard Shortcuts](https://support.microsoft.com/en-us/windows/appendix-b-narrator-keyboard-commands-and-touch-gestures-8bdab3f4-b3e9-4554-7f28-8b15bd37410a)
-* [Main keyboard bindings](https://stackoverflow.com/questions/6086686/keycode-13-is-for-which-key)
-* [Web Accessibility Under Title II of the ADA](https://www.ada.gov/pcatoolkit/chap5toolkit.htm)
-* [Images and SVG's and Accessibility](https://www.scottohara.me/blog/2019/05/22/contextual-images-svgs-and-a11y.html)
-* [Great Article on Web Accessibility Standards: ADA, Section 508 and WCAG](https://bootcamp.uxdesign.cc/understanding-web-accessibility-standards-ada-section-508-and-wcag-compliance-143cfb8b691e)
-      <details><summary>Key Component: Action Plan</summary><h1>Developing an Action Plan For Providing Accessible Websites</h1><p>Now you know that some types of content and format on webpages can pose barriers for people with disabilities. The next steps are to develop an action plan to fix web content that is currently inaccessible and implement procedures to ensure that all new and modified web content is accessible. The website accessibility checklist included in this section helps you assess what needs to be done.</p><p>A well-designed action plan would include the following steps:</p>
-           <ol style="margin-left: auto; width: 50vw; "><li>Establish, implement, and post online a policy that your webpages will be accessible and create a process for implementation.</li><li>Ensure that all new and modified webpages and content are accessible.<ul><li>Check the HTML of all new webpages. Make sure that accessible coding is used.</li><li>Make sure that websites are designed so they can be displayed using the color and font settings of each visitor’s browser and operating system.</li><li>If images are used, including photos, graphics, scanned images, or image maps, make sure to include a text equivalent, by adding “alt” tags or long descriptions, for each.</li><li>If you use online forms and tables, make those elements accessible by labeling each control (including buttons, check boxes, drop-down menus, and text fields) with a descriptive HTML tag.</li><li>When posting documents on the website, always provide them in HTML or a text-based format (even if you are also providing them in another format, such as PDF).</li></ul><li>Develop a plan for making your existing web content accessible. Describe your plan on an accessible webpage, and encourage input on how accessibility can be improved. Let visitors to your website know about the standards or guidelines that you are using to make your website accessible. When setting timeframes for accessibility modifications to your website, make more popular webpages a priority.</li><li>When updating webpages, remember to ensure that updates are accessible. For example, when images change, the text equivalents in “alt” tags and long descriptions need to be changed so they match the new images.</li><li>Ensure that in-house staff and contractors responsible for webpage and content development are properly trained. Distribute the Department of Justice technical assistance document “Accessibility of State and Local Government Websites to People with Disabilities” to these in-house staff and contractors on an annual basis as a reminder. This technical assistance document is available on the ADA Home Page at www.ada.gov.</li><li>Provide a way for visitors to request accessible information or services by posting a telephone number or email address on your home page. Establish procedures that ensure a quick response to users with disabilities who are trying to obtain information or services in this way.</li><li>Periodically enlist disability groups to test your pages for ease of use; use the feedback they provide to increase the accessibility of your website.</li><li>Ensure that there are alternative ways for people with disabilities to access the information and services that are provided on your website. Remember, some people may not have, or be able to use, a computer.</li></ol>
-      </details>
-* [JSON Color Checker for #FFF White on #07317B Dark Blue](https://webaim.org/resources/contrastchecker/?fcolor=FFFFFF&bcolor=07317B&api)
-* [JSON Color Checker for #FFF White on #FA4616 Orange](https://webaim.org/resources/contrastchecker/?fcolor=FFFFFF&bcolor=FA4616&api)
-</details>
-<details><summary>WCAG for Designers infographic</summary>
+### Web Accessibility
+
+#### WCAG for Designers Infographic
  <a href="http://webaim.org/resources/designers/"><img src="http://webaim.org/resources/designers/media/designers.svg" alt="Web Accessibility for Designers infographic with link to text version at WebAIM.org"></a>
+ 
+#### Colors
+* [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/)<br> _Manual checks for color contrast issues_
+* [JSON Color Checker for #FFF White on #07317B Dark Blue](https://webaim.org/resources/contrastchecker/?fcolor=FFFFFF&bcolor=07317B&api)<br> _UF Blue_
+* [JSON Color Checker for #FFF White on #FA4616 Orange](https://webaim.org/resources/contrastchecker/?fcolor=FFFFFF&bcolor=FA4616&api)<br> _UF Orange_
+* [Chrome Color Contrast Analyzer](https://accessibility.oit.ncsu.edu/it-accessibility-at-nc-state/developers/tools/color-contrast-analyzer-for-chrome/)<br> _Extension with explanation on use_
+* [Color Blindness Filter Checker](https://www.toptal.com/designers/colorfilter/)<br> _Check ADA, CTA effectiveness and Gradient use_
+
+#### Screen Readers
+* [Windows Narrator Keyboard Shortcuts](https://support.microsoft.com/en-us/windows/appendix-b-narrator-keyboard-commands-and-touch-gestures-8bdab3f4-b3e9-4554-7f28-8b15bd37410a)<br> _Narrator keyboard commands and touch gestures page via Windows Support_
+* [Cross Browser Environments and Screenreaders](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/Accessibility#screenreader_testing)<br> _Considerations for accessibility-first development and screenreaders_
+
+#### Trainings
+* [Access UF Training Sessions](https://training.it.ufl.edu/)<br> _Access some accessibility training through UF_
+* [Training Ideas for Accessibility at UC based on Job Filters](https://accessibility.uci.edu/information-technology/training.php)<br> _Access categories based on job to preview directions of study_
+
+#### Further Reading
+* [Beta ADA.gov Website](https://beta.ada.gov/resources/web-guidance/)
+* [Web Accessibility Under Title II of the ADA](https://www.ada.gov/pcatoolkit/chap5toolkit.htm)
+* [Web Accessibility Standards: ADA, Section 508 and WCAG](https://bootcamp.uxdesign.cc/understanding-web-accessibility-standards-ada-section-508-and-wcag-compliance-143cfb8b691e)
+* [Font Size Change in Browser for Users](https://www.computerhope.com/issues/ch000779.htm#:~:text=Press%20and%20hold%20the%20Ctrl,and%20decrease%20the%20font%20size.)<br> _See how people use resizing to view content better_
+* [Parallax Effects and Accessibility](https://webflow.com/accessibility/checklist/task/avoid-parallax-effects)<br> _Read why not to use parallax and possible usable variants_
+* [Images and SVG's and Accessibility](https://www.scottohara.me/blog/2019/05/22/contextual-images-svgs-and-a11y.html)
+
+
+<details><summary>Key Component: <strong>Action Plan</strong></summary><h1>Developing an Action Plan For Providing Accessible Websites</h1><p>Now you know that some types of content and format on webpages can pose barriers for people with disabilities. The next steps are to develop an action plan to fix web content that is currently inaccessible and implement procedures to ensure that all new and modified web content is accessible. The website accessibility checklist included in this section helps you assess what needs to be done.</p><p>A well-designed action plan would include the following steps:</p>
+     <ol style="margin-left: auto; width: 50vw; "><li>Establish, implement, and post online a policy that your webpages will be accessible and create a process for implementation.</li><li>Ensure that all new and modified webpages and content are accessible.<ul><li>Check the HTML of all new webpages. Make sure that accessible coding is used.</li><li>Make sure that websites are designed so they can be displayed using the color and font settings of each visitor’s browser and operating system.</li><li>If images are used, including photos, graphics, scanned images, or image maps, make sure to include a text equivalent, by adding “alt” tags or long descriptions, for each.</li><li>If you use online forms and tables, make those elements accessible by labeling each control (including buttons, check boxes, drop-down menus, and text fields) with a descriptive HTML tag.</li><li>When posting documents on the website, always provide them in HTML or a text-based format (even if you are also providing them in another format, such as PDF).</li></ul><li>Develop a plan for making your existing web content accessible. Describe your plan on an accessible webpage, and encourage input on how accessibility can be improved. Let visitors to your website know about the standards or guidelines that you are using to make your website accessible. When setting timeframes for accessibility modifications to your website, make more popular webpages a priority.</li><li>When updating webpages, remember to ensure that updates are accessible. For example, when images change, the text equivalents in “alt” tags and long descriptions need to be changed so they match the new images.</li><li>Ensure that in-house staff and contractors responsible for webpage and content development are properly trained. Distribute the Department of Justice technical assistance document “Accessibility of State and Local Government Websites to People with Disabilities” to these in-house staff and contractors on an annual basis as a reminder. This technical assistance document is available on the ADA Home Page at www.ada.gov.</li><li>Provide a way for visitors to request accessible information or services by posting a telephone number or email address on your home page. Establish procedures that ensure a quick response to users with disabilities who are trying to obtain information or services in this way.</li><li>Periodically enlist disability groups to test your pages for ease of use; use the feedback they provide to increase the accessibility of your website.</li><li>Ensure that there are alternative ways for people with disabilities to access the information and services that are provided on your website. Remember, some people may not have, or be able to use, a computer.</li></ol>
 </details>
 
-* [Beta ADA.gov Website](https://beta.ada.gov/resources/web-guidance/)
+
 
 <hr>
 
+### Design
 <details><summary>Design</summary>
 
 * [Understanding HTML Heading Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements) 
@@ -347,6 +355,7 @@ flowchart LR
 
 <hr>
 
+### Development
 <details><summary>Development</summary>
  
 * [Emmet Cheat Sheet](https://docs.emmet.io/cheat-sheet/) 
@@ -375,6 +384,7 @@ flowchart LR
 
 * [Web Accessible Nav Types from W3](https://www.w3.org/TR/wai-aria-practices/examples/menubar/menubar-navigation.html)<br> Explore for what is needed at time
 * [Accessible Website from Perkins School for the Blind](https://www.perkins.org/)
+* [Main keyboard bindings](https://stackoverflow.com/questions/6086686/keycode-13-is-for-which-key)
 * [Explaining Web Caching to Clients](https://www.varnish-software.com/glossary/what-is-web-caching/#:~:text=Web%20caching%20is%20the%20activity,origin%20server%20from%20getting%20overloaded.)<br> _Brief overview of caching_
 * [VSCode Workflow Tips](https://medium.com/swlh/speed-up-your-html-workflow-with-emmet-f5c887854c63)
 * [Fetch API](https://dev.to/niveshsaharan/javascript-a-practical-guide-to-use-fetch-api-n91)
@@ -747,4 +757,11 @@ Padding/Margin/Layout
  <details><summary><h1>UX Design Project Notes</h1></summary>
   <p><h2>Define Research Goals / Questions</h2>
     <ol><li>You should have a prompt that guides your research - i.e. Sharpen prompt. Think through your audience and identify their unique needs/problems and how your product might solve these problems. Therefore, assure they are clear and focused on the problem your portfolio project is aiming to solve. <strong>You should have 2-5 research goals drafted</strong>.</li><li>Define your target audience: Include a diverse but targeted group to get the best data. <strong>Note 3-6 different characteristics</strong>. Think about demographics like location, age and career.</li><li>Write interview questions: These questions are the foundation for feedback later on. These can be adjusted as the portfolio project progresses. <strong>Draft 4-7 questions and be sure to follow best practices and avoid biases</strong>.</li></ol></p>
+ 
+ <p><h2>Create Personas</h2>
+    <ol>
+     <li>Understand the project scenario and customer types.</li>
+     <li>Create personas based on a combination of attributes from a group of users with similar needs.</li>
+    </ol>
+ </p>
  </details>
