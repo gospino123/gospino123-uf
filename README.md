@@ -743,3 +743,8 @@ Padding/Margin/Layout
   </pre>
 </details>
 </comment>
+
+ <details><summary><h1>UX Design Project Notes</h1></summary>
+  <p><h2>Define Research Goals / Questions</h2>
+    <ol><li>You should have a prompt that guides your research - i.e. Sharpen prompt. Think through your audience and identify their unique needs/problems and how your product might solve these problems. Therefore, assure they are clear and focused on the problem your portfolio project is aiming to solve. <strong>You should have 2-5 research goals drafted</strong>.</li><li>Define your target audience: Include a diverse but targeted group to get the best data. <strong>Note 3-6 different characteristics</strong>. Think about demographics like location, age and career.</li><li>Write interview questions: These questions are the foundation for feedback later on. These can be adjusted as the portfolio project progresses. <strong>Draft 4-7 questions and be sure to follow best practices and avoid biases</strong>.</li></ol></p>
+ </details>
