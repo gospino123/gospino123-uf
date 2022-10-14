@@ -99,25 +99,26 @@
 <!-- <details><summary>Collection</summary> -->
   <ul>
     <li><b>EM</b>
-      <p><b>Yield</b>: Period in which students get accepted and decide on where to go to university</p>
+     <p><b>Container</b>: Box that holds content in a mockup, prototype, webpage, etc.</p>
+     <p><b>Mockup</b>: A draft visual representation of a design</p>
+     <p><b>Yield</b>: Period in which students get accepted and decide on where to go to university</p>
+      <p>Specialized Terms:</p>
       <ul>
         <li>Designers
           <details><summary><i>Example Cases for Copy</i></summary>
             <ul>
+              <li><b>Hyphen</b>
+                <p>Never split words with hyphens</p>
+              </li>
+              <li><b>Leading</b>
+                <p>Leading, or line-height, should be smaller on <code>p</code> elements if possible</p>
+              </li>
               <li><b>Orphan</b>
                 <pre>
     ~~~
     ~~~
 ~~~   
  x
-                </pre>
-              </li>
-              <li><b>Widow</b>
-                <pre>
-     x
-    ~~~
-~~~ ~~~
-~~~
                 </pre>
               </li>
               <li><b>Runt</b>
@@ -128,11 +129,13 @@
 ~~~
                 </pre>
               </li>
-              <li><b>Leading</b>
-                <p>Leading, or line-height, should be smaller on <code>p</code> elements if possible</p>
-              </li>
-              <li><b>Hyphen</b>
-                <p>Never split words with hyphens</p>
+              <li><b>Widow</b>
+                <pre>
+     x
+    ~~~
+~~~ ~~~
+~~~
+                </pre>
               </li>
             </ul>
           </details>
