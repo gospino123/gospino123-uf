@@ -113,6 +113,9 @@
               <li><b>Leading</b>
                 <p>Leading, or line-height, should be smaller on <code>p</code> elements if possible</p>
               </li>
+              <li><b>Specs</b>
+                <p>A design with exact measurements and colors defined and listed for reference</p>
+              </li>
               <li><b>Orphan</b>
                 <pre>
     ~~~
