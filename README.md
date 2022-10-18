@@ -588,6 +588,12 @@ Git (WIP)
     * Also, WIP: Work in progress, sort of an overarching miscellaneous
   * [Merging using --no-ff](https://stackoverflow.com/questions/9069061/what-effect-does-the-no-ff-flag-have-for-git-merge#:~:text=The%20%2D%2Dno%2Dff%20flag,point%20at%20the%20incoming%20commit.)
 </details>
+ 
+ * For accidental merges done on local and NOT pushed: 
+     * git reset --merge HEAD~1 (go back one commit on current branch)
+     * OR
+     * git fetch --all (gather all changes)
+     * git reset --hard origin/master (go back to current place/commit on origin/master)
 
  
 Branching Procedures
