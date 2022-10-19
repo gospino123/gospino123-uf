@@ -594,6 +594,7 @@ Git (WIP)
      * OR
      * git fetch --all (gather all changes)
      * git reset --hard origin/master (go back to current place/commit on origin/master)
+ * Between git fetch and git pull, git fetch is the safe way to check out what is happening in the remote repo
 
  
 Branching Procedures
@@ -625,6 +626,8 @@ Bookmarklets (WIP)
 
 _Note: These cannot be copy/pasted into the URL and some pages may prevent the alert from appearing._
 -->
+ 
+* [How a page is served](https://stackoverflow.com/questions/3263455/how-a-website-is-loaded-in-our-browser)
 
 T4\*
 [T4 Training Resources](https://webservices.it.ufl.edu/t4/t4-training/)
