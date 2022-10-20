@@ -286,9 +286,9 @@ flowchart LR
      ```
  
  <p>As an alternative, a plugin like <a href="https://greensock.com/morphsvg/" target="_blank">GreenSock</a> is able to smoothly morph an svg from one to another.</p>
- <p><a href="https://lea.verou.me/2019/05/utility-convert-svg-path-to-all-relative-or-all-absolute-commands/" target="_blank">SVG Utility to Relative or Absolute</a></p>
- <p><a href="https://css-tricks.com/svg-line-animation-works/" target="_blank">SVG Animation w CSS</a></p>
- <p><a href="https://css-tricks.com/a-trick-that-makes-drawing-svg-lines-way-easier/" target="_blank">SVG Draw Line Animation w JS</a></p>
+ <p><a href="https://lea.verou.me/2019/05/utility-convert-svg-path-to-all-relative-or-all-absolute-commands/" target="_blank">SVG Conversion Utility to ALL Relative or ALL Absolute</a><br><em>Helpful when altering SVG code</em></p>
+ <p><a href="https://css-tricks.com/svg-line-animation-works/" target="_blank">SVG Animation w CSS</a><br><em>Informal precursor to using JS-based SVG animations</em></p>
+ <p><a href="https://css-tricks.com/a-trick-that-makes-drawing-svg-lines-way-easier/" target="_blank">SVG Draw Line Animation w JS</a><br><em>Use JS to find path length for use in effects</p>
 
 <strong><a href="#web-development-resources"><g-emoji class="g-emoji" alias="arrow_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b06.png">⬆</g-emoji> Back to Top</a></strong>
 
@@ -317,12 +317,12 @@ flowchart LR
 * [Training Ideas for Accessibility at UC based on Job Filters](https://accessibility.uci.edu/information-technology/training.php)<br> _Access categories based on job to preview directions of study_
 
 #### Further Reading
-* [Beta ADA.gov Website](https://beta.ada.gov/resources/web-guidance/)
-* [Web Accessibility Under Title II of the ADA](https://www.ada.gov/pcatoolkit/chap5toolkit.htm)
-* [Web Accessibility Standards: ADA, Section 508 and WCAG](https://bootcamp.uxdesign.cc/understanding-web-accessibility-standards-ada-section-508-and-wcag-compliance-143cfb8b691e)
+* [Beta ADA.gov Website](https://beta.ada.gov/resources/web-guidance/)<br> _Official Beta for ADA linking to extra resources_
+* [Web Accessibility Under Title II of the ADA](https://www.ada.gov/pcatoolkit/chap5toolkit.htm)<br> _ADA State and Local Toolkit_
+* [Web Accessibility Standards: ADA, Section 508 and WCAG](https://bootcamp.uxdesign.cc/understanding-web-accessibility-standards-ada-section-508-and-wcag-compliance-143cfb8b691e)<br> _Understanding web accessibility standards_
 * [Font Size Change in Browser for Users](https://www.computerhope.com/issues/ch000779.htm#:~:text=Press%20and%20hold%20the%20Ctrl,and%20decrease%20the%20font%20size.)<br> _See how people use resizing to view content better_
 * [Parallax Effects and Accessibility](https://webflow.com/accessibility/checklist/task/avoid-parallax-effects)<br> _Read why not to use parallax and possible usable variants_
-* [Images and SVG's and Accessibility](https://www.scottohara.me/blog/2019/05/22/contextual-images-svgs-and-a11y.html)
+* [Images and SVG's and Accessibility](https://www.scottohara.me/blog/2019/05/22/contextual-images-svgs-and-a11y.html)<br> _Different methods for making these elements accessible_
 
 
 <details><summary>Key Component: <strong>Action Plan</strong></summary><h1>Developing an Action Plan For Providing Accessible Websites</h1><p>Now you know that some types of content and format on webpages can pose barriers for people with disabilities. The next steps are to develop an action plan to fix web content that is currently inaccessible and implement procedures to ensure that all new and modified web content is accessible. The website accessibility checklist included in this section helps you assess what needs to be done.</p><p>A well-designed action plan would include the following steps:</p>
