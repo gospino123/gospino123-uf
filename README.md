@@ -36,6 +36,8 @@
  - [x] Blue Man - Review of EM Protocols
  - [x] [BEC Active Shooter - DEM827](https://mytraining-ufshands.sumtotal.host/Core/pillarRedirect?relyingParty=LM&url=core%2Factivitydetails%2FViewActivityDetails%3FActivityId%3D651%26UserMode%3D0)
  - [x] [At-Risk for Faculty & Staff Kognito Training](https://mytraining-ufshands.sumtotal.host/Core/pillarRedirect?relyingParty=LM&url=core%2Factivitydetails%2FViewActivityDetails%3FActivityId%3D50498%26UserMode%3D0)
+ <br><br><br>
+ - [ ] [(Optional) Get eduroam on mobile device](https://it.ufl.edu/ict/documentation/network-infrastructure/wireless/)
  
 <!-- </details> -->
 <strong><a href="#web-development-resources"><g-emoji class="g-emoji" alias="arrow_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b06.png">⬆</g-emoji> Back to Top</a></strong>
@@ -76,7 +78,7 @@
   </p>
   <p>Web Content Accessibility Guidelines
     <ul>
-     <li><a href="https://www.w3.org/TR/WCAG22/">WCAG 2.2</a></li>
+     <li><a href="https://www.w3.org/TR/WCAG22/">Web Content Accessibility Guidelines (WCAG) 2.2</a></li>
     </ul>
   </p>
 <!-- </details> -->
@@ -295,6 +297,8 @@ flowchart LR
 ## Helpful Links
 
 ### Web Accessibility
+
+[Web Content Accessibility Guidelines (WCAG) 2.2](https://www.w3.org/TR/WCAG22/)
 
 #### WCAG for Designers Infographic
  <a href="http://webaim.org/resources/designers/"><img src="http://webaim.org/resources/designers/media/designers.svg" alt="Web Accessibility for Designers infographic with link to text version at WebAIM.org"></a>
