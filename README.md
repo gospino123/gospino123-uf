@@ -85,7 +85,7 @@
 <strong><a href="#web-development-resources"><g-emoji class="g-emoji" alias="arrow_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b06.png">⬆</g-emoji> Back to Top</a></strong>
 
 ## Naming Conventions :clipboard: (Personal Preferences)
-- **_camelCase_** for variables, classes and smaller-scoped items
+- **_camelCase_** for variables, CSS classes and smaller-scoped items
     - camelCaseExample
 - **_PascalCase_** for globals, constants and classes that are objects (programming)
     - ClassForCodeReuse
