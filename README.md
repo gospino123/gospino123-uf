@@ -633,6 +633,12 @@ _Note: These cannot be copy/pasted into the URL and some pages may prevent the a
 -->
  
 * [How a page is served](https://stackoverflow.com/questions/3263455/how-a-website-is-loaded-in-our-browser)
+    1. Type URL, press Enter
+    1. Browser uses DNS to retrieve Domain's nameservers
+    1. Browser sends request to the Domain's nameservers for the record (DNS record) containing the IP Address of the web server
+    1. The nameservers respond back with the IP Address of the website's server
+    1. Browser requests website content from the IP Address
+    1. Browser retrieves the content and renders it
 
 T4\*
 [T4 Training Resources](https://webservices.it.ufl.edu/t4/t4-training/)
