@@ -89,7 +89,7 @@
     - camelCaseExample
 - **_PascalCase_** for globals, constants and classes that are objects (programming)
     - ClassForCodeReuse
-- **_underscores_** for images
+- **_underscores_** for images/media
     - underscore_example.jpg
 - **_dashes_** for filenames/folders
     - filename-or-folder-example
