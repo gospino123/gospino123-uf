@@ -204,13 +204,13 @@ flowchart LR
 
 | Category | Expectation |
 | :---: | :---: |
-| Task | Type(scope): Small amount of words |
+| Task | Type(scope): Subject/Change needed |
 | Assignee | Auto-populated |
-| Due Date | Set by whom? Procedure needed |
+| Due Date | Set by whom? |
 | Priority | Monochromatic/How many levels? |
 | Task Progress | Color-coded/Words used? |
-| Related Branch |Git Branch being used |
-| Job Type | This can be discussed. Examples are Accessibility, New Page, Housekeeping, Content |
+| Related Branch | Git Branch being used |
+| Job Type | This can be discussed. Current examples are Accessibility, New Page, Housekeeping, Content |
 | Requested By | This can be auto-populated with a form |
 
 * Priority: Current use is 
