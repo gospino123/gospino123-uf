@@ -103,6 +103,7 @@
     <li><b>EM</b>
      <p><b>Container</b>: Box that holds content in a mockup, prototype, webpage, etc.</p>
      <p><b>Mockup</b>: A draft visual representation of a design</p>
+     <p><b>Spec</b>: A more specific visual draft including hex codes, measurements, etc.</p>
      <p><b>Yield</b>: Period in which students get accepted and decide on where to go to university</p>
       <p>Specialized Terms:</p>
       <ul>
