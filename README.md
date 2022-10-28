@@ -11,6 +11,7 @@
 - [Personal UX Standards](#personal--ux-standards)
 - [SVG](#svg-art) (WIP**)
 - [Helpful Links](#helpful-links) (WIP **)
+- [Grace Recommendations](#grace-recommendations)
 
 **WIP = Work in Progress
 <!--
@@ -203,7 +204,7 @@ flowchart LR
 ## Asana 👥
 
 | Category | Expectation |
-| :---: | :---: |
+| ---: | :--- |
 | Task | Type(scope): Subject/Change needed |
 | Assignee | Auto-populated |
 | Due Date | Set by whom? |
@@ -255,7 +256,7 @@ flowchart LR
  
 <i>Common svg commands for paths</i>:<br>
 | Letter | Command | Syntax |
-| :--: | :--: | :--: |
+| :--: | --: | :-- |
 | M | Move To | M x y (or) m dx dy |
 | L | Line To | L x y (or) l dx dy |
 | H | Horizontal | H x (or) h dx |
@@ -365,6 +366,19 @@ flowchart LR
 * [Lo-fi Wireframe Kit - Figma](https://www.lofiwireframekit.com/?utm_source=An+Event+Apart+Mailing+List&utm_campaign=9010a52ba8-quickclicks-august-23&utm_medium=email&utm_term=0_26aac3d902-9010a52ba8-87358573&mc_cid=9010a52ba8&mc_eid=382b884c5d)
 * [Future: Creative Asset Review Tool](https://govisually.com/)
 </details>
+
+#### Grace Recommendations
+| Webpage | Reason |
+| ---: | :--- |
+| [https://app.asana.com](https://app.asana.com/-/login?u=%2F0%2Fhome%2F1199961253274167) | Project management, organization and tracking |
+| https://my.ufl.edu/ps/signon.html | Your UF Employment Related Resources | 
+| https://admissions.ufl.edu/ <br>https://registrar.ufl.edu/ <br>https://ufonline.ufl.edu/ <br>https://em.ufl.edu/ <br>https://veterans.ufl.edu/ <br>https://www.sfa.ufl.edu/ | Webpages related to what we do |
+| https://my.admissions.ufl.edu/manage/ | Slate - Customer Relationship Management |
+| [EM Photoshelter](https://ufemc.photoshelter.com/login?ref=%2Fusr%2Finvites) <br>[UF General Photoshelter](https://ufphotography.photoshelter.com/index) | Personal bank of photos and most general photos pulled from photoshelter <br>The UF-wide photoshelter is where they should be updating with more photos |
+| https://webaim.org/resources/contrastchecker/ | Contrast Checker for ADA Compliance |
+| https://www.flaticon.com/ | A database of icons used in design |
+| https://www.toptal.com/designers/htmlarrows/ | Not sure |
+| https://identity.ufl.edu/color/ | UF's Color Branding |
 
 <hr>
 
