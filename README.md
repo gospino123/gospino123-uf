@@ -377,7 +377,7 @@ flowchart LR
 | [EM Photoshelter](https://ufemc.photoshelter.com/login?ref=%2Fusr%2Finvites) <br>[UF General Photoshelter](https://ufphotography.photoshelter.com/index) | Personal bank of photos and most general photos pulled from photoshelter <br>The UF-wide photoshelter is where they should be updating with more photos |
 | https://webaim.org/resources/contrastchecker/ | Contrast Checker for ADA Compliance |
 | https://www.flaticon.com/ | A database of icons used in design |
-| https://www.toptal.com/designers/htmlarrows/ | Not sure |
+| https://www.toptal.com/designers/htmlarrows/ | Another icon database |
 | https://identity.ufl.edu/color/ | UF's Color Branding |
 
 <hr>
