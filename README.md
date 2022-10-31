@@ -662,6 +662,7 @@ _Note: These cannot be copy/pasted into the URL and some pages may prevent the a
     * You can identify which nameservers are being used via a lookup tool like [Whois.com](https://www.whois.com/) or you can use the following command line options: 
         - Powershell: `nslookup` (enter) > `set q=ns` (enter)
         - Terminal: `host -t NS exampledomain.com`
+    * Information on [Subnetwork](https://en.wikipedia.org/wiki/Subnetwork)s
 
 T4\*
 [T4 Training Resources](https://webservices.it.ufl.edu/t4/t4-training/)
