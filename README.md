@@ -654,6 +654,9 @@ _Note: These cannot be copy/pasted into the URL and some pages may prevent the a
     1. The nameservers respond back with the IP Address of the website's server
     1. Browser requests website content from the IP Address
     1. Browser retrieves the content and renders it
+    <br>
+    <br>
+    * Most use cases implement nameservers/DNS records to point domain towards hosting
 
 T4\*
 [T4 Training Resources](https://webservices.it.ufl.edu/t4/t4-training/)
