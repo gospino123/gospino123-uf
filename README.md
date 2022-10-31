@@ -647,7 +647,7 @@ Bookmarklets (WIP)
 _Note: These cannot be copy/pasted into the URL and some pages may prevent the alert from appearing._
 -->
  
-* [How a page is served](https://stackoverflow.com/questions/3263455/how-a-website-is-loaded-in-our-browser)
+* [How a page is served](https://stackoverflow.com/questions/3263455/how-a-website-is-loaded-in-our-browser) also [What is a Nameserver?](https://kinsta.com/knowledgebase/what-is-a-nameserver/)
     1. Type URL, press Enter
     1. Browser uses DNS to retrieve Domain's nameservers
     1. Browser sends request to the Domain's nameservers for the record (DNS record) containing the IP Address of the web server
