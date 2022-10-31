@@ -656,7 +656,12 @@ _Note: These cannot be copy/pasted into the URL and some pages may prevent the a
     1. Browser retrieves the content and renders it
     <br>
     <br>
+    
     * Most use cases implement nameservers/DNS records to point domain towards hosting
+    * IMPORTANT: If you change your domain’s nameservers away from the default nameservers at your domain registrar, you’ll control your domain’s DNS records at your nameserver provider.
+    * You can identify which nameservers are being used via a lookup tool like [Whois.com](https://www.whois.com/) or you can use the following command line options: 
+        - Powershell: `nslookup` (enter) > `set q=ns` (enter)
+        - Terminal: `host -t NS exampledomain.com`
 
 T4\*
 [T4 Training Resources](https://webservices.it.ufl.edu/t4/t4-training/)
