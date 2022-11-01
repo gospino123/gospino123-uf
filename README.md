@@ -664,6 +664,9 @@ _Note: These cannot be copy/pasted into the URL and some pages may prevent the a
         - Terminal: `host -t NS exampledomain.com`
     * Information on [Subnetwork](https://en.wikipedia.org/wiki/Subnetwork)s
 
+* [Batch commands](https://www.ionos.com/digitalguide/server/tools/batch-commands/)
+ 
+
 T4\*
 [T4 Training Resources](https://webservices.it.ufl.edu/t4/t4-training/)
 
