@@ -395,6 +395,7 @@ flowchart LR
 * [Squoosh](https://squoosh.app/)<br> _Make image files smaller so they load faster (not necessary if using Image Optimizer on macOS)_
 * [Lorem Picsum](https://picsum.photos/)<br> _Populate with random image with specified measurements_
 * [Image Optimization Perspective](https://www.jimdo.com/blog/optimize-website-images-for-better-design-seo/)<br> _Info on optimizing images for web_
+* [Image Responsive Rendering](https://www.dofactory.com/html/img/sizes)
 * [Git Stash Explained](https://www.freecodecamp.org/news/git-stash-explained/)<br> _Quick code/example on stash use_ 
 * [Campaign URL Builder](https://ga-dev-tools.web.app/campaign-url-builder/)
 * [QR Code Generator](https://www.qrcode-monkey.com/)
