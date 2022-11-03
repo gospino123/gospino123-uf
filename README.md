@@ -379,6 +379,7 @@ flowchart LR
 | https://www.flaticon.com/ | A database of icons used in design |
 | https://www.toptal.com/designers/htmlarrows/ | Another icon database |
 | https://identity.ufl.edu/color/ | UF's Color Branding |
+| [https://marcom.ufl.edu/.../.../model-releases/#release](https://marcom.ufl.edu/departments/videography/model-releases/#release) | Photo Model Release Form |
 
 <hr>
 
