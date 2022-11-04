@@ -415,6 +415,7 @@ flowchart LR
 * [Web Accessible Nav Types from W3](https://www.w3.org/TR/wai-aria-practices/examples/menubar/menubar-navigation.html)<br> Explore for what is needed at time
 * [Accessible Website from Perkins School for the Blind](https://www.perkins.org/)
 * [Main keyboard bindings](https://stackoverflow.com/questions/6086686/keycode-13-is-for-which-key)
+* [Best Practice for Web Accessible Lists](https://stackoverflow.com/questions/2227437/what-would-be-the-best-method-to-code-heading-title-for-ul-or-ol-like-we-ha)
 * [Explaining Web Caching to Clients](https://www.varnish-software.com/glossary/what-is-web-caching/#:~:text=Web%20caching%20is%20the%20activity,origin%20server%20from%20getting%20overloaded.)<br> _Brief overview of caching_
 * [VSCode Workflow Tips](https://medium.com/swlh/speed-up-your-html-workflow-with-emmet-f5c887854c63)
 * [Fetch API](https://dev.to/niveshsaharan/javascript-a-practical-guide-to-use-fetch-api-n91)
@@ -838,7 +839,7 @@ Padding/Margin/Layout
 </comment>
 
  <details><summary><h1>UX Design Project Notes</h1></summary>
-  <img src="https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/7r-T1J09Sy6_k9SdPbsuXA_98483f0b053e4b7696bd9f02c59b3fdd_Screen-Shot-2021-03-02-at-2.05.20-PM.png?expiry=1667692800000&hmac=bDqGqL1PxpZhI-vuuCHgc5qjcU1miqMgPkGD3GaeCus" style="width: 70vw;" alt="Product Development Life Cycle: Brainstorm > Define > Design > Test > Launch > Repeat">
+  <section><img src="https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/7r-T1J09Sy6_k9SdPbsuXA_98483f0b053e4b7696bd9f02c59b3fdd_Screen-Shot-2021-03-02-at-2.05.20-PM.png?expiry=1667692800000&hmac=bDqGqL1PxpZhI-vuuCHgc5qjcU1miqMgPkGD3GaeCus" style="width: 70vw;" alt="Product Development Life Cycle: Brainstorm > Define > Design > Test > Launch > Repeat">
   <h2>Characteristics of a Good UX</h2>
   <p>
    <ul>
@@ -857,8 +858,36 @@ Padding/Margin/Layout
   </p>
   <p>
    <a href="https://design.google/library/good-design/">Article about Good Design</a>
-  </p>
-
+  </p></section>
+  <section><h2>Get to Know the User</h2>
+   <h3>Questions to ask about users:</h3>
+   <p>
+    <ul>
+     <li>Do my users have impairments or disabilities to consider–whether temporary, situational, or permanent?</li>
+     <li>How familiar are my users with technology?</li>
+     <li>How are my users accessing the product or service?</li>
+     <li>Where and when are my users accessing the product or service?</li>
+     <li>Have I considered all my potential users?</li>
+    </ul>
+   </p>
+   <p><a href="https://careerfoundry.com/en/blog/ux-design/the-importance-of-user-research-and-how-to-do-it/">What is user research, and what's its purpose?</a></p>
+   <h3>Designing Cross-Platform Experiences</h3>
+   <ul>
+    <li>
+    <p>A platform is the medium that users experience your product on. Some common platforms are:</p>
+    <ul>
+     <li>Desktop computers</li>
+     <li>Laptop computers</li>
+     <li>Mobile phones</li>
+     <li>Tablets</li>
+     <li>Wearables, like smart watches</li>
+     <li>TVs</li>
+     <li>Smart displays</li>
+    </ul></li>
+    </li>
+    <li>Concerns for these experiences would be Screen Size, Interaction, Content layout and Functionality</li>
+   </ul>
+  </section>
   <h2>Define Research Goals / Questions</h2>
   <p>
     <ol><li>You should have a prompt that guides your research - i.e. Sharpen prompt. Think through your audience and identify their unique needs/problems and how your product might solve these problems. Therefore, assure they are clear and focused on the problem your portfolio project is aiming to solve. <strong>You should have 2-5 research goals drafted</strong>.</li><li>Define your target audience: Include a diverse but targeted group to get the best data. <strong>Note 3-6 different characteristics</strong>. Think about demographics like location, age and career.</li><li>Write interview questions: These questions are the foundation for feedback later on. These can be adjusted as the portfolio project progresses. <strong>Draft 4-7 questions and be sure to follow best practices and avoid biases</strong>.</li></ol></p>
@@ -888,6 +917,8 @@ Padding/Margin/Layout
 
 <br> 
 <br>
+
+
 _Unrelated Notes:_
   * Professional Development Plan - November
   * Dress Code is now enforced
