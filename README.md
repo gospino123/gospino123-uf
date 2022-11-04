@@ -839,6 +839,26 @@ Padding/Margin/Layout
 
  <details><summary><h1>UX Design Project Notes</h1></summary>
   <img src="https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/7r-T1J09Sy6_k9SdPbsuXA_98483f0b053e4b7696bd9f02c59b3fdd_Screen-Shot-2021-03-02-at-2.05.20-PM.png?expiry=1667692800000&hmac=bDqGqL1PxpZhI-vuuCHgc5qjcU1miqMgPkGD3GaeCus" style="width: 70vw;" alt="Product Development Life Cycle: Brainstorm > Define > Design > Test > Launch > Repeat">
+  <h2>Characteristics of a Good UX</h2>
+  <p>
+   <ul>
+    <li>Usable: it means the design, structure, and purpose of the product is clear and easy to use. As you evaluate a product for usability, you can ask questions like: Is everything in the design easy to find? Is the design’s functionality easy to understand? Can users accomplish specific tasks within the design?</li>
+    <li>Equitable: it means a design is helpful to people with diverse abilities and backgrounds. In other words, the product’s design addresses the needs of a diverse audience and ensures a high-quality experience is delivered to all users regardless of background, gender, race, or ability. Equity means providing people with the tools they need to accomplish their goals and support improved quality of life. Are the needs of a diverse group of users considered? Does the product’s design address the needs of traditionally underrepresented and excluded groups?</li>
+    <li>Enjoyable: it means the design delights the user. The design reflects what the user may be thinking or feeling and creates a positive connection with them. Are there aspects of the design that consider the user’s feelings?  Does the design inspire delight in the user? Does the design keep the user engaged throughout their experience?</li>
+    <li>Useful: that means it solves user problems. In other words, the design intentionally solves a user problem that the designer has identified. It’s important to note that, while similar, useful and usable have different meanings. Does the design add value to the user’s experience? Does the design solve a problem for the user? Does the design help the user achieve a specific goal?</li>
+   </ul>
+   <dl>
+    <dt>Assets:</dt><dd>Everything from the text and images to the design specifications, like font style, color, size, and spacing</dd>
+    <dt>Information architecture:</dt><dd> The framework of a website or how it’s organized, categorized, and structured</dd>
+    <dt>Prototype:</dt><dd>An early model of a product that demonstrates functionality</dd>
+    <dt>UX research:</dt><dd>Understand users and learn about their backgrounds, demographics, motivations, pain points, emotions, and life goals</dd>
+    <dt>Wireframe:</dt><dd>An outline or a sketch of a product or a screen</dd>
+   </dl>
+  </p>
+  <p>
+   <a href="https://design.google/library/good-design/">Article about Good Design</a>
+  </p>
+
   <h2>Define Research Goals / Questions</h2>
   <p>
     <ol><li>You should have a prompt that guides your research - i.e. Sharpen prompt. Think through your audience and identify their unique needs/problems and how your product might solve these problems. Therefore, assure they are clear and focused on the problem your portfolio project is aiming to solve. <strong>You should have 2-5 research goals drafted</strong>.</li><li>Define your target audience: Include a diverse but targeted group to get the best data. <strong>Note 3-6 different characteristics</strong>. Think about demographics like location, age and career.</li><li>Write interview questions: These questions are the foundation for feedback later on. These can be adjusted as the portfolio project progresses. <strong>Draft 4-7 questions and be sure to follow best practices and avoid biases</strong>.</li></ol></p>
