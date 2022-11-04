@@ -839,7 +839,7 @@ Padding/Margin/Layout
 </comment>
 
  <details><summary><h1>UX Design Project Notes</h1></summary>
-  <section><img src="https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/7r-T1J09Sy6_k9SdPbsuXA_98483f0b053e4b7696bd9f02c59b3fdd_Screen-Shot-2021-03-02-at-2.05.20-PM.png?expiry=1667692800000&hmac=bDqGqL1PxpZhI-vuuCHgc5qjcU1miqMgPkGD3GaeCus" style="width: 70vw;" alt="Product Development Life Cycle: Brainstorm > Define > Design > Test > Launch > Repeat">
+  <section><img src="https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/7r-T1J09Sy6_k9SdPbsuXA_98483f0b053e4b7696bd9f02c59b3fdd_Screen-Shot-2021-03-02-at-2.05.20-PM.png?expiry=1667692800000&hmac=bDqGqL1PxpZhI-vuuCHgc5qjcU1miqMgPkGD3GaeCus" style="width: 70%;" alt="Product Development Life Cycle: Brainstorm > Define > Design > Test > Launch > Repeat">
   <h2>Characteristics of a Good UX</h2>
   <p>
    <ul>
@@ -883,7 +883,7 @@ Padding/Margin/Layout
      <li>Wearables, like smart watches</li>
      <li>TVs</li>
      <li>Smart displays</li>
-    </ul></li>
+    </ul>
     </li>
     <li>Concerns for these experiences would be Screen Size, Interaction, Content layout and Functionality</li>
    </ul>
