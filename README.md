@@ -896,7 +896,7 @@ Padding/Margin/Layout
      <dt>Brand Identity:</dt><dd>The visual appearance and voice of a company</dd>
      <dt>Call-to-action (CTA):</dt><dd>A visual prompt that tells the user to take action, like to click a button</dd>
      <dt>Color modification:</dt><dd>Features that increase the contrast of colors on a screen, like high-contrast mode or dark mode</dd>
-     <dt>Design Sprint:</dt><dd>A time-bound process, with five phases typically spread over five full 8-hour days. The goal of design sprints is to answer critical business questions through designing, prototyping, and testing ideas with users</dd>
+     <dt>Design Sprint:</dt><dd>A time-bound process, with five phases typically spread over five full 8-hour days. The goal of design sprints is to answer critical business questions through designing, prototyping, and testing ideas with users. Are there many potential solutions to your design challenge? Does a design challenge require people from cross-functional teams to weigh in? Is the design challenge's scope wide enough for a sprint?</dd>
      <dt>Design Thinking:</dt><dd>A UX design framework that focuses on the user throughout all five phases: empathize, define, ideate, prototype, and test.</dd>
      <dt>Sprint Brief:</dt><dd>A document that you share with all your attendees to help them prepare for the sprint</dd>
     </dl>
