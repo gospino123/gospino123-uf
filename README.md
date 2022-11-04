@@ -888,6 +888,19 @@ Padding/Margin/Layout
     <li>Concerns for these experiences would be Screen Size, Interaction, Content layout and Functionality</li>
    </ul>
   </section>
+  <section class="designSprints">
+  <h3>Terms</h3>
+    <dl>
+     <dt>Accessibility:</dt><dd>The design of products, devices, services, or environments for people with disabilities</dd>
+     <dt>Alternative text (alt text):</dt><dd>Text that helps translate something visual, such as an image or graph, into a description that can be read by screen readers</dd>
+     <dt>Brand Identity:</dt><dd>The visual appearance and voice of a company</dd>
+     <dt>Call-to-action (CTA):</dt><dd>A visual prompt that tells the user to take action, like to click a button</dd>
+     <dt>Color modification:</dt><dd>Features that increase the contrast of colors on a screen, like high-contrast mode or dark mode</dd>
+     <dt>Design Sprint:</dt><dd>A time-bound process, with five phases typically spread over five full 8-hour days. The goal of design sprints is to answer critical business questions through designing, prototyping, and testing ideas with users</dd>
+     <dt>Design Thinking:</dt><dd>A UX design framework that focuses on the user throughout all five phases: empathize, define, ideate, prototype, and test.</dd>
+     <dt>Sprint Brief:</dt><dd>A document that you share with all your attendees to help them prepare for the sprint</dd>
+    </dl>
+  </section>
   <h2>Define Research Goals / Questions</h2>
   <p>
     <ol><li>You should have a prompt that guides your research - i.e. Sharpen prompt. Think through your audience and identify their unique needs/problems and how your product might solve these problems. Therefore, assure they are clear and focused on the problem your portfolio project is aiming to solve. <strong>You should have 2-5 research goals drafted</strong>.</li><li>Define your target audience: Include a diverse but targeted group to get the best data. <strong>Note 3-6 different characteristics</strong>. Think about demographics like location, age and career.</li><li>Write interview questions: These questions are the foundation for feedback later on. These can be adjusted as the portfolio project progresses. <strong>Draft 4-7 questions and be sure to follow best practices and avoid biases</strong>.</li></ol></p>
