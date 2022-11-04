@@ -12,6 +12,7 @@
 - [SVG](#svg-art) (WIP**)
 - [Helpful Links](#helpful-links) (WIP **)
 - [Grace Recommendations](#grace-recommendations)
+- [Purpose of Meetings](#purpose-of-meetings)
 
 **WIP = Work in Progress
 <!--
@@ -855,3 +856,17 @@ Padding/Margin/Layout
     </ol>
  </p>
  </details>
+
+
+## Purpose of Meetings
+* Gather information we need (ex. related cogs and details on progress)
+* Provide updates on issues, pending projects
+* Explain current projects and statuses on those projects
+* Talk about time off requests
+* Time Approvals -> Should be completed before EOD Thursdays
+
+<br> 
+<br>
+_Unrelated Notes:_
+  * Professional Development Plan - November
+  * Dress Code is now enforced
