@@ -888,7 +888,8 @@ Padding/Margin/Layout
     <li>Concerns for these experiences would be Screen Size, Interaction, Content layout and Functionality</li>
    </ul>
   </section>
-  <section class="designSprints">
+  <section class="designSprints week3">
+  <article>
   <h3>Terms</h3>
     <dl>
      <dt>Accessibility:</dt><dd>The design of products, devices, services, or environments for people with disabilities</dd>
@@ -900,6 +901,16 @@ Padding/Margin/Layout
      <dt>Design Thinking:</dt><dd>A UX design framework that focuses on the user throughout all five phases: empathize, define, ideate, prototype, and test.</dd>
      <dt>Sprint Brief:</dt><dd>A document that you share with all your attendees to help them prepare for the sprint</dd>
     </dl>
+  </article>
+  <article>
+   <h3>Five phases of design sprints</h3>
+   <p>Understand > Ideate > Decide > Prototype > Test</p>
+   <p>Each phase lasts a day</p>
+   <p>Resource: <a href="https://designsprintkit.withgoogle.com/">Google Design Sprint Kit</a></p>
+  </article>
+  <article>
+   <h3>Plan Design Sprints</h3>
+  </article>
   </section>
   <h2>Define Research Goals / Questions</h2>
   <p>
