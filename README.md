@@ -910,6 +910,7 @@ Padding/Margin/Layout
   </article>
   <article>
    <h3>Plan Design Sprints</h3>
+   <p>User research > Call in the experts > Find the right space > Gather supplies > Establish sprint rules > Plan introductions > Post-sprint planning</p>
   </article>
   </section>
   <h2>Define Research Goals / Questions</h2>
