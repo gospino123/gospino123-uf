@@ -912,6 +912,57 @@ Padding/Margin/Layout
    <h3>Plan Design Sprints</h3>
    <p>User research > Call in the experts > Find the right space > Gather supplies > Establish sprint rules > Plan introductions > Post-sprint planning</p>
   </article>
+  <article>
+   <h3>Sprint Brief</h3>
+   <p>A sprint brief is shared with attendees and includes the following:</p>
+   <ul>
+    <li>
+     <p>Sprint challenge/Challenge item</p>
+     <ul>
+      <li>What is the challenge that you want to solve in the sprint?</li>
+      <li>
+       <p>Four things that make a great challenge:</p>
+       <ul>
+        <li>Challenge is something real the team needs to deliver</li>
+        <li>It's stated in an inspiring way - something to solve for</li>
+        <li>It's clear/concise</li>
+        <li>It includes a time frame</li>
+       </ul>
+      </li>
+     </ul>
+    </li>
+    <li><p>Key Deliverables</p><p>A few tips for deliverables</p>
+     <ul>
+      <li>Aim for the highest quality deliverables possible. Polished digital work, videos, and interactive prototypes are better than sketches.</li>
+      <li>List all platforms that need to be designed for - e.g., web, mobile, tablet/physical product + website/environment</li>
+     </ul>
+    </li>
+    <li><p>Logistics</p>
+     <ul>
+      <li>Where?</li>
+      <li>When?</li>
+      <li>Who? (list at end of doc - bookmark)</li>
+      <li>Sprint Leader (established before brief created)</li>
+     </ul>
+    </li>
+    <li>Approvers: People who sign off before launch (ex. internal stakeholders, etc.)</li>
+    <li><p>Resources:</p>
+     <ul>
+      <li>For short term sprints: Assignment development team, if any (ex. engineering team)</li>
+      <li>For long-term / vision sprints: Plan to secure resources
+     </ul>
+    </li>
+    <li><p>Project Overview</p>
+     <ol>
+      <li>Current state of project - what's been created already?</li>
+      <li>Roadblocks - what stands in our way?</li>
+      <li>Early wins, if any. - Has our team demonstrated any wins or learnings in the space already?</li>
+      <li>Estimated launch plan - when is projected launch for piece being designed? What is this likely to look like at launch? (Include list in challenge statment as well)</li>
+     </ol>
+    </li>
+    <li>5 Day Schedule: Specific hour by hour even to the 5 minute increment and should include break times</li>
+   </ul>
+  </article>
   </section>
   <h2>Define Research Goals / Questions</h2>
   <p>
