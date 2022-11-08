@@ -463,6 +463,7 @@ flowchart LR
     * [11ty Tutorial - Kevin Powell](https://www.youtube.com/watch?v=4wD00RT6d-g)
 * [Lazy load images](https://css-tricks.com/the-complete-guide-to-lazy-loading-images/)
 * [Fully CSS Accessible Tested Dropdown Nav](https://moderncss.dev/css-only-accessible-dropdown-navigation-menu/)
+* [Swiper](https://css-tricks.com/simple-swipe-with-vanilla-javascript/)
 
 ### Google Analytics 
 * [Custom Reporting](https://www.socialmediaexaminer.com/how-to-create-custom-reports-in-google-analytics/)
