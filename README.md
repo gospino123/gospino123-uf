@@ -398,6 +398,7 @@ flowchart LR
 * [Image Optimization Perspective](https://www.jimdo.com/blog/optimize-website-images-for-better-design-seo/)<br> _Info on optimizing images for web_
 * [Image Responsive Rendering](https://www.dofactory.com/html/img/sizes)
 * [Git Stash Explained](https://www.freecodecamp.org/news/git-stash-explained/)<br> _Quick code/example on stash use_ 
+* [Reset and sync local repository](https://www.ocpsoft.org/tutorials/git/reset-and-sync-local-respository-with-remote-branch/)
 * [Campaign URL Builder](https://ga-dev-tools.web.app/campaign-url-builder/)
 * [QR Code Generator](https://www.qrcode-monkey.com/)
 * [Approximate Hex Color to Filter for SVGs](https://codepen.io/sosuke/pen/Pjoqqp)<br> _Inaccurate but free approximation for color to filter use on SVGs_
