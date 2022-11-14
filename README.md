@@ -420,6 +420,7 @@ flowchart LR
 * [Explaining Web Caching to Clients](https://www.varnish-software.com/glossary/what-is-web-caching/#:~:text=Web%20caching%20is%20the%20activity,origin%20server%20from%20getting%20overloaded.)<br> _Brief overview of caching_
 * [VSCode Workflow Tips](https://medium.com/swlh/speed-up-your-html-workflow-with-emmet-f5c887854c63)
 * [Fetch API](https://dev.to/niveshsaharan/javascript-a-practical-guide-to-use-fetch-api-n91)
+* [CURL (Client URL) use cases and options, etc.](https://phoenixnap.com/kb/curl-command)
 * [W3 Article on Templates for Future Review](https://www.w3.org/TR/css-template-3/)
 * [Absolute/Float Positioning in Relation to WYSIWYG Editors - for Legacy Updates](http://alistapart.com/article/fauxabsolutepositioning/)
 * [Wrapping Text Info on MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Text/Wrapping_Text)
