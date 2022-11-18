@@ -13,7 +13,7 @@
 - [Helpful Links](#helpful-links) (WIP **)
 - [Grace Recommendations](#grace-recommendations)
 - [Purpose of Meetings](#purpose-of-meetings)
-- [Submit Request](#submit-request)
+- [Submit Request](https://form.asana.com/?k=ZFu9QU6ScnxKdQN1IwNsBg&d=348649826599179)
 
 **WIP = Work in Progress
 <!--
@@ -1013,6 +1013,3 @@ Padding/Margin/Layout
 
 <br> 
 <br>
-
-## Submit Request
-[Tentative Yield Submission](https://form.asana.com/?k=ZFu9QU6ScnxKdQN1IwNsBg&d=348649826599179)
