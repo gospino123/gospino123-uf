@@ -493,6 +493,21 @@ flowchart LR
 https://www.elated.com/understanding-permissions/
 https://zapier.com/blog/what-are-webhooks/
 
+<details><summary>Webhooks</summary>
+ <p><strong>Note:</strong> <quote>Webhooks typically are used to connect two different applications. When an event happens on the trigger application, it serializes data about that event and sends it to a webhook URL from the action application—the one you want to do something based on the data from the first application. The action application can then send a callback message, often with an HTTP status code like 302 to let the trigger application know if the data was received successfully or 404 if not.</quote><cite>Zapier</cite></p>
+ <dl>
+  <dt>URL</dt>
+  <dd>Specifies where you want the data to go</dd>
+  <dt>Body</dt>
+  <dd>Contains the info/data you want to send</dd>
+  <dt>Header</dt>
+  <dd>Specifies how you want the info to be formatted</dd>
+  <dt>Request</dt>
+  <dd>Specifies the actions of the action app</dd>
+ </dl>
+ <p><strong>Tip:</strong> The most common requests are GET, POST, PUT and DELETE</p>
+</details>
+
 <hr>
 :no_entry: -- -- -- :no_entry: -- -- -- :no_entry: -- -- -- :no_entry: -- -- -- :no_entry: -- -- -- FOLLOWING AREA IN PROGRESS -- -- -- :no_entry: -- -- -- :no_entry: -- -- -- :no_entry: -- -- -- :no_entry: -- -- -- :no_entry:
 
