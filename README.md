@@ -346,6 +346,7 @@ flowchart LR
 * [Understanding HTML Heading Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements) 
 * [Image Optimization Perspective](https://www.jimdo.com/blog/optimize-website-images-for-better-design-seo/)<br> _Info on optimizing images for web_
 * [Color Palette Generator](https://coolors.co)<br> _Tool to randomize a color palette_
+* [Branding Colors](https://branition.com/colors)<br> _Tool to find branding color palettes_
 * [Expand Palette on One Color](https://mycolor.space/)<br> _Tool to expand palette based on input_
 * [Color Mixer](https://colordesigner.io/color-mixer)<br> _Tool for mixing colors_
 * [Behance](https://www.behance.net/)<br> _Creative network for showcasing and discovering creative work_
