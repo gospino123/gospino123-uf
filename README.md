@@ -77,6 +77,9 @@
           </p>
         </article>
       </li>
+      <li>
+       <a href="https://knowledge.technolutions.com/hc/en-us/sections/360005004752-Getting-Started-with-Portals" target="_blank">Getting Started w/ Portals</a>
+      </li>
     </ul>
   </p>
   <p>Web Content Accessibility Guidelines
