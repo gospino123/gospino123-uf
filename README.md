@@ -64,6 +64,7 @@
   <p>Slate
     <ul>
       <li><a href="https://my.admissions.ufl.edu/manage/">Slate Emails</a><br><sup>For forms that create emails, include captcha to reduce spam (However, this is not ADA friendly)</sup></li>
+      <li><a href="https://ufl.test.technolutions.net/manage/">Test Slate Emails</a></li>
       <li>
         <article>
           <p>You can now find two generic email templates in the Templates/ Email folder located in Slate. One version includes a placeholder for a banner image, the other version does not.</p>
