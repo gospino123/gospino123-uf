@@ -334,6 +334,7 @@ flowchart LR
 * [Font Size Change in Browser for Users](https://www.computerhope.com/issues/ch000779.htm#:~:text=Press%20and%20hold%20the%20Ctrl,and%20decrease%20the%20font%20size.)<br> _See how people use resizing to view content better_
 * [Parallax Effects and Accessibility](https://webflow.com/accessibility/checklist/task/avoid-parallax-effects)<br> _Read why not to use parallax and possible usable variants_
 * [Images and SVG's and Accessibility](https://www.scottohara.me/blog/2019/05/22/contextual-images-svgs-and-a11y.html)<br> _Different methods for making these elements accessible_
+* [Decent Article on Accessibility](https://medium.com/@matuzo/writing-css-with-accessibility-in-mind-8514a0007939)
 
 
 <details><summary>Key Component: <strong>Action Plan</strong></summary><h1>Developing an Action Plan For Providing Accessible Websites</h1><p>Now you know that some types of content and format on webpages can pose barriers for people with disabilities. The next steps are to develop an action plan to fix web content that is currently inaccessible and implement procedures to ensure that all new and modified web content is accessible. The website accessibility checklist included in this section helps you assess what needs to be done.</p><p>A well-designed action plan would include the following steps:</p>
