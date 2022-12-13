@@ -455,6 +455,7 @@ flowchart LR
 * [For fun: List of GitHub Markdown emojis](https://gist.github.com/rxaviers/7360908)
 * [Airbnb Readme for JSX Standards](https://github.com/airbnb/javascript#readme)
 * [Understanding Nameservers](https://kinsta.com/knowledgebase/what-is-a-nameserver/)
+* [MDN Web API Documentation](https://developer.mozilla.org/en-US/docs/Web/API)
 
 ### Mobile
 * [Mobile Display Issues with URL bar](https://www.reddit.com/r/Frontend/comments/d1czwl/fix_for_100vh_with_mobile_address_bar_visible/)
