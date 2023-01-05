@@ -518,6 +518,8 @@ https://zapier.com/blog/what-are-webhooks/
  <p><strong>Tip:</strong> The most common requests are GET, POST, PUT and DELETE</p>
 </details>
 
+<a href="https://www.teodesk.com/blog/abcde-method-the-art-of-prioritizing/"><img src="https://www.teodesk.com/wp-content/uploads/2019/05/ABCDE-method-nove-boje-02-1536x1024.png" width="50%"></a>
+
 <hr>
 :no_entry: -- -- -- :no_entry: -- -- -- :no_entry: -- -- -- :no_entry: -- -- -- :no_entry: -- -- -- FOLLOWING AREA IN PROGRESS -- -- -- :no_entry: -- -- -- :no_entry: -- -- -- :no_entry: -- -- -- :no_entry: -- -- -- :no_entry:
 
