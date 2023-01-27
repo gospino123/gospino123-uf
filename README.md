@@ -477,6 +477,7 @@ flowchart LR
 * [Lazy load images](https://css-tricks.com/the-complete-guide-to-lazy-loading-images/)
 * [Fully CSS Accessible Tested Dropdown Nav](https://moderncss.dev/css-only-accessible-dropdown-navigation-menu/)
 * [Swiper](https://css-tricks.com/simple-swipe-with-vanilla-javascript/)
+* [JS Node ipdata.co](https://ipdata.co/blog/how-to-get-the-ip-address-in-javascript/)
 
 ### Google Analytics 
 * [Custom Reporting](https://www.socialmediaexaminer.com/how-to-create-custom-reports-in-google-analytics/)
