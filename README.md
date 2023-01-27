@@ -328,7 +328,7 @@ flowchart LR
 * [Training Ideas for Accessibility at UC based on Job Filters](https://accessibility.uci.edu/information-technology/training.php)<br> _Access categories based on job to preview directions of study_
 
 #### Further Reading
-* [Blog on Accessibility and CSS](https://alistapart.com/)
+* [Blog on Accessibility and CSS](https://alistapart.com/) & [Lobotomized Owl Selector](http://alistapart.com/article/axiomatic-css-and-lobotomized-owls/)
 * [Beta ADA.gov Website](https://beta.ada.gov/resources/web-guidance/)<br> _Official Beta for ADA linking to extra resources_
 * [Web Accessibility Under Title II of the ADA](https://www.ada.gov/pcatoolkit/chap5toolkit.htm)<br> _ADA State and Local Toolkit_
 * [Web Accessibility Standards: ADA, Section 508 and WCAG](https://bootcamp.uxdesign.cc/understanding-web-accessibility-standards-ada-section-508-and-wcag-compliance-143cfb8b691e)<br> _Understanding web accessibility standards_
