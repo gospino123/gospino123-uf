@@ -336,6 +336,8 @@ flowchart LR
 * [Parallax Effects and Accessibility](https://webflow.com/accessibility/checklist/task/avoid-parallax-effects)<br> _Read why not to use parallax and possible usable variants_
 * [Images and SVG's and Accessibility](https://www.scottohara.me/blog/2019/05/22/contextual-images-svgs-and-a11y.html)<br> _Different methods for making these elements accessible_
 * [Decent Article on Accessibility](https://medium.com/@matuzo/writing-css-with-accessibility-in-mind-8514a0007939)
+* [Grid and Check accessible animations](https://www.matuzo.at/blog/the-dark-side-of-the-grid/)
+* [Accessiblity and Animations](https://css-tricks.com/accessible-web-animation-the-wcag-on-animation-explained/)
 
 
 <details><summary>Key Component: <strong>Action Plan</strong></summary><h1>Developing an Action Plan For Providing Accessible Websites</h1><p>Now you know that some types of content and format on webpages can pose barriers for people with disabilities. The next steps are to develop an action plan to fix web content that is currently inaccessible and implement procedures to ensure that all new and modified web content is accessible. The website accessibility checklist included in this section helps you assess what needs to be done.</p><p>A well-designed action plan would include the following steps:</p>
