@@ -237,7 +237,7 @@ flowchart LR
 ## Personal 💀 UX Standards 
   
 <details><summary>Nav</summary>
-    Confirmations Needed: 
+    <p>Confirmations Needed: </p>
     <ol>
      <li>Submenu/Search expands on click if collapsed</li>
      <li>Submenu/Search collapses on click if expanded</li>
@@ -248,13 +248,15 @@ flowchart LR
 </details>
 
 <details><summary>Outbound Icons</summary>
-    Confirmations Needed: 
+    <p>Confirmations Needed: </p>
     <ol>
      <li>Outbound Icons accompany aria-label's announcing link is outbound</li>
      <li>When link is in nav/sidenav, icon is aligned right and vertically centered</li>
      <li>When link is a button, icon is aligned 4px to the right and baseline (vertically aligned icon bottom and text bottom)</li>
     </ol>
 </details>
+
+[Accessible Accordion](https://www.hassellinclusion.com/blog/accessible-accordions-part-2-using-details-summary/)
   
 <strong><a href="#web-development-resources"><g-emoji class="g-emoji" alias="arrow_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b06.png">⬆</g-emoji> Back to Top</a></strong>
 
