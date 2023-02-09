@@ -350,9 +350,19 @@ flowchart LR
 <hr>
 
 ### Design
+
+| Tools | Inspiration | Understanding<br/>Developers | Further Reading | Certification |
+| :--: | :--: | :--: | :--: | :--: |
+| 
+| 
+| [Understanding HTML Heading Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements)<br/>[Line Typography Vocab and Visuals](https://css-tricks.com/how-to-tame-line-height-in-css/) 
+| 
+| |
+
+
 <details><summary>Design</summary>
 
-* [Understanding HTML Heading Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements) 
+*  
 * [Image Optimization Perspective](https://www.jimdo.com/blog/optimize-website-images-for-better-design-seo/)<br> _Info on optimizing images for web_
 * [Color Palette Generator*](https://coolors.co)<br> _Tool to randomize a color palette_
 * [Branding Colors](https://branition.com/colors)<br> _Tool to find branding color palettes_
@@ -370,13 +380,14 @@ flowchart LR
 * [Image Grid Examples/Thoughts](https://www.canva.com/features/design-grid/)
 * [Color Fundamentals - Differences b/w RGB, CMYK, CMYKOGV, and SPOT Colors](https://www.pantone.com/articles/color-fundamentals/understanding-different-color-spaces)
 * [Colors for the Web: Suggested CSS4 Standards](https://blog.bitsrc.io/hex-vs-rgb-vs-hsl-what-is-the-best-method-to-set-css-color-property-f45d2debeee)
-* [Line Typography Vocab and Visuals](https://css-tricks.com/how-to-tame-line-height-in-css/)
+* 
 * [Add Accents to Letters on Windows](https://sites.psu.edu/symbolcodes/windows/codealt/)
 * [Line Readability and Character Count](https://baymard.com/blog/line-length-readability)
 * [Using Êg to get actual height of a line](https://stackoverflow.com/questions/14061228/remove-white-space-above-and-below-large-text-in-an-inline-block-element)
 * [Interactive Guide to Color and Contrast](https://colorandcontrast.com/?utm_source=An+Event+Apart+Mailing+List&utm_campaign=9010a52ba8-quickclicks-august-23&utm_medium=email&utm_term=0_26aac3d902-9010a52ba8-87358573&mc_cid=9010a52ba8&mc_eid=382b884c5d#/)
 * [Lo-fi Wireframe Kit - Figma](https://www.lofiwireframekit.com/?utm_source=An+Event+Apart+Mailing+List&utm_campaign=9010a52ba8-quickclicks-august-23&utm_medium=email&utm_term=0_26aac3d902-9010a52ba8-87358573&mc_cid=9010a52ba8&mc_eid=382b884c5d)
 * [Future: Creative Asset Review Tool](https://govisually.com/)
+* [Text Spacing and Accessibility](https://www.w3.org/WAI/WCAG21/Understanding/text-spacing.html)
 </details>
 
 #### Grace Recommendations
