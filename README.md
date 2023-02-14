@@ -81,6 +81,9 @@
       <li>
        <a href="https://knowledge.technolutions.com/hc/en-us/sections/360005004752-Getting-Started-with-Portals" target="_blank">Getting Started w/ Portals</a>
       </li>
+      <li>
+ <details><summary>Questions to ask client when building portal</summary><ol><li><p>What is the overall goal of the portal?</p></li><li><p>Who are its users</p></li><li><p>What actions must the users take within the portal?</p></li><li><p>What must a user see on the portal?</p></li></ol></details>
+      </li>
     </ul>
   </p>
   <p>Web Content Accessibility Guidelines
