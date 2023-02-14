@@ -438,6 +438,7 @@ flowchart LR
 * [JS Focusevent](https://o7planning.org/12309/javascript-focusevent)
 * [Interactive Review of CSS Selectors](https://flukeout.github.io/)
 * [CSS Tricks Guide: Table HTML & CSS](https://css-tricks.com/complete-guide-table-element/)
+* [Curved Text Along a Path](https://css-tricks.com/snippets/svg/curved-text-along-path/)
 
 * [Web Accessible Nav Types from W3](https://www.w3.org/TR/wai-aria-practices/examples/menubar/menubar-navigation.html)<br> Explore for what is needed at time
 * [Accessible Website from Perkins School for the Blind](https://www.perkins.org/)
