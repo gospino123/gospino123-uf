@@ -81,6 +81,9 @@
       <li>
        <a href="https://knowledge.technolutions.com/hc/en-us/sections/360005004752-Getting-Started-with-Portals" target="_blank">Getting Started w/ Portals</a>
       </li>
+      <li>
+ <details><summary>Questions to ask client when building portal</summary><ol><li><p>What is the overall goal of the portal?</p></li><li><p>Who are its users</p></li><li><p>What actions must the users take within the portal?</p></li><li><p>What must a user see on the portal?</p></li></ol></details>
+      </li>
     </ul>
   </p>
   <p>Web Content Accessibility Guidelines
@@ -237,7 +240,7 @@ flowchart LR
 ## Personal 💀 UX Standards 
   
 <details><summary>Nav</summary>
-    Confirmations Needed: 
+    <p>Confirmations Needed: </p>
     <ol>
      <li>Submenu/Search expands on click if collapsed</li>
      <li>Submenu/Search collapses on click if expanded</li>
@@ -248,13 +251,15 @@ flowchart LR
 </details>
 
 <details><summary>Outbound Icons</summary>
-    Confirmations Needed: 
+    <p>Confirmations Needed: </p>
     <ol>
      <li>Outbound Icons accompany aria-label's announcing link is outbound</li>
      <li>When link is in nav/sidenav, icon is aligned right and vertically centered</li>
      <li>When link is a button, icon is aligned 4px to the right and baseline (vertically aligned icon bottom and text bottom)</li>
     </ol>
 </details>
+
+[Accessible Accordion](https://www.hassellinclusion.com/blog/accessible-accordions-part-2-using-details-summary/)
   
 <strong><a href="#web-development-resources"><g-emoji class="g-emoji" alias="arrow_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b06.png">⬆</g-emoji> Back to Top</a></strong>
 
@@ -335,7 +340,9 @@ flowchart LR
 * [Parallax Effects and Accessibility](https://webflow.com/accessibility/checklist/task/avoid-parallax-effects)<br> _Read why not to use parallax and possible usable variants_
 * [Images and SVG's and Accessibility](https://www.scottohara.me/blog/2019/05/22/contextual-images-svgs-and-a11y.html)<br> _Different methods for making these elements accessible_
 * [Decent Article on Accessibility](https://medium.com/@matuzo/writing-css-with-accessibility-in-mind-8514a0007939)
-
+* [Grid and Check accessible animations](https://www.matuzo.at/blog/the-dark-side-of-the-grid/)
+* [Accessiblity and Animations](https://css-tricks.com/accessible-web-animation-the-wcag-on-animation-explained/)
+* [Blog on Accessibility and CSS](https://alistapart.com/) & [Lobotomized Owl Selector](http://alistapart.com/article/axiomatic-css-and-lobotomized-owls/)
 
 <details><summary>Key Component: <strong>Action Plan</strong></summary><h1>Developing an Action Plan For Providing Accessible Websites</h1><p>Now you know that some types of content and format on webpages can pose barriers for people with disabilities. The next steps are to develop an action plan to fix web content that is currently inaccessible and implement procedures to ensure that all new and modified web content is accessible. The website accessibility checklist included in this section helps you assess what needs to be done.</p><p>A well-designed action plan would include the following steps:</p>
      <ol style="margin-left: auto; width: 50vw; "><li>Establish, implement, and post online a policy that your webpages will be accessible and create a process for implementation.</li><li>Ensure that all new and modified webpages and content are accessible.<ul><li>Check the HTML of all new webpages. Make sure that accessible coding is used.</li><li>Make sure that websites are designed so they can be displayed using the color and font settings of each visitor’s browser and operating system.</li><li>If images are used, including photos, graphics, scanned images, or image maps, make sure to include a text equivalent, by adding “alt” tags or long descriptions, for each.</li><li>If you use online forms and tables, make those elements accessible by labeling each control (including buttons, check boxes, drop-down menus, and text fields) with a descriptive HTML tag.</li><li>When posting documents on the website, always provide them in HTML or a text-based format (even if you are also providing them in another format, such as PDF).</li></ul><li>Develop a plan for making your existing web content accessible. Describe your plan on an accessible webpage, and encourage input on how accessibility can be improved. Let visitors to your website know about the standards or guidelines that you are using to make your website accessible. When setting timeframes for accessibility modifications to your website, make more popular webpages a priority.</li><li>When updating webpages, remember to ensure that updates are accessible. For example, when images change, the text equivalents in “alt” tags and long descriptions need to be changed so they match the new images.</li><li>Ensure that in-house staff and contractors responsible for webpage and content development are properly trained. Distribute the Department of Justice technical assistance document “Accessibility of State and Local Government Websites to People with Disabilities” to these in-house staff and contractors on an annual basis as a reminder. This technical assistance document is available on the ADA Home Page at www.ada.gov.</li><li>Provide a way for visitors to request accessible information or services by posting a telephone number or email address on your home page. Establish procedures that ensure a quick response to users with disabilities who are trying to obtain information or services in this way.</li><li>Periodically enlist disability groups to test your pages for ease of use; use the feedback they provide to increase the accessibility of your website.</li><li>Ensure that there are alternative ways for people with disabilities to access the information and services that are provided on your website. Remember, some people may not have, or be able to use, a computer.</li></ol>
@@ -346,9 +353,19 @@ flowchart LR
 <hr>
 
 ### Design
+
+| Tools | Inspiration | Understanding<br/>Developers | Further Reading | Certification |
+| :--: | :--: | :--: | :--: | :--: |
+| 
+| 
+| [Understanding HTML Heading Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements)<br/>[Line Typography Vocab and Visuals](https://css-tricks.com/how-to-tame-line-height-in-css/) 
+| 
+| |
+
+
 <details><summary>Design</summary>
 
-* [Understanding HTML Heading Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements) 
+*  
 * [Image Optimization Perspective](https://www.jimdo.com/blog/optimize-website-images-for-better-design-seo/)<br> _Info on optimizing images for web_
 * [Color Palette Generator*](https://coolors.co)<br> _Tool to randomize a color palette_
 * [Branding Colors](https://branition.com/colors)<br> _Tool to find branding color palettes_
@@ -366,13 +383,14 @@ flowchart LR
 * [Image Grid Examples/Thoughts](https://www.canva.com/features/design-grid/)
 * [Color Fundamentals - Differences b/w RGB, CMYK, CMYKOGV, and SPOT Colors](https://www.pantone.com/articles/color-fundamentals/understanding-different-color-spaces)
 * [Colors for the Web: Suggested CSS4 Standards](https://blog.bitsrc.io/hex-vs-rgb-vs-hsl-what-is-the-best-method-to-set-css-color-property-f45d2debeee)
-* [Line Typography Vocab and Visuals](https://css-tricks.com/how-to-tame-line-height-in-css/)
+* 
 * [Add Accents to Letters on Windows](https://sites.psu.edu/symbolcodes/windows/codealt/)
 * [Line Readability and Character Count](https://baymard.com/blog/line-length-readability)
 * [Using Êg to get actual height of a line](https://stackoverflow.com/questions/14061228/remove-white-space-above-and-below-large-text-in-an-inline-block-element)
 * [Interactive Guide to Color and Contrast](https://colorandcontrast.com/?utm_source=An+Event+Apart+Mailing+List&utm_campaign=9010a52ba8-quickclicks-august-23&utm_medium=email&utm_term=0_26aac3d902-9010a52ba8-87358573&mc_cid=9010a52ba8&mc_eid=382b884c5d#/)
 * [Lo-fi Wireframe Kit - Figma](https://www.lofiwireframekit.com/?utm_source=An+Event+Apart+Mailing+List&utm_campaign=9010a52ba8-quickclicks-august-23&utm_medium=email&utm_term=0_26aac3d902-9010a52ba8-87358573&mc_cid=9010a52ba8&mc_eid=382b884c5d)
 * [Future: Creative Asset Review Tool](https://govisually.com/)
+* [Text Spacing and Accessibility](https://www.w3.org/WAI/WCAG21/Understanding/text-spacing.html)
 </details>
 
 #### Grace Recommendations
@@ -420,6 +438,7 @@ flowchart LR
 * [JS Focusevent](https://o7planning.org/12309/javascript-focusevent)
 * [Interactive Review of CSS Selectors](https://flukeout.github.io/)
 * [CSS Tricks Guide: Table HTML & CSS](https://css-tricks.com/complete-guide-table-element/)
+* [Curved Text Along a Path](https://css-tricks.com/snippets/svg/curved-text-along-path/)
 
 * [Web Accessible Nav Types from W3](https://www.w3.org/TR/wai-aria-practices/examples/menubar/menubar-navigation.html)<br> Explore for what is needed at time
 * [Accessible Website from Perkins School for the Blind](https://www.perkins.org/)
@@ -462,6 +481,7 @@ flowchart LR
 * [Diagnose on iPhone Safari](https://help.remo.co/en/support/solutions/articles/63000251570-how-to-activate-the-iphone-debug-console-or-web-inspector-)
  
 ### Possible Future Resources
+* [deno and npm: Node Compatibility Library](https://stackoverflow.com/questions/61821038/how-to-use-npm-module-in-deno)
 * [Input w RegEx and ReactJS](https://www.tutorialspoint.com/regex-in-reactjs)
 * [SQLite Installation - Mac](https://www.dev2qa.com/how-to-install-sqlite3-on-mac/)
 * [SQLite Documentation/Download](https://www.sqlite.org/about.html)
@@ -475,6 +495,7 @@ flowchart LR
 * [Lazy load images](https://css-tricks.com/the-complete-guide-to-lazy-loading-images/)
 * [Fully CSS Accessible Tested Dropdown Nav](https://moderncss.dev/css-only-accessible-dropdown-navigation-menu/)
 * [Swiper](https://css-tricks.com/simple-swipe-with-vanilla-javascript/)
+* [JS Node ipdata.co](https://ipdata.co/blog/how-to-get-the-ip-address-in-javascript/)
 
 ### Google Analytics 
 * [Custom Reporting](https://www.socialmediaexaminer.com/how-to-create-custom-reports-in-google-analytics/)
