@@ -516,6 +516,33 @@ flowchart LR
  
 </details>
 
+<details><summary>base64convert function</summary>
+ <pre>
+ function base64convert (files) {
+   console.clear()
+   const reader = new FileReader()
+   reader.onload = (e) => {
+     console.log(e.target.result)
+   }
+   reader.readAsDataURL(files[0])
+ } <input type="file" onchange="base64convert(this.files)"> @font-face {
+     font-family: 'myfont';
+     src: url("<<copied base64 string>>");
+ }
+ </pre>
+</details>
+<details><summary>base64 in font-face</summary>
+ <pre>
+  @font-face {
+    font-family: 'gentonabook';
+    src: url(data:application/font-woff2;charset=utf-8;base64, USEBASE64HERE ) format('woff2'),
+         url(data:application/font-woff;charset=utf-8;base64, USEBASE64HERE) format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+ </pre>
+</details>
+
 <a href="https://geology.com/world/world-map.shtml"><img src="https://i.etsystatic.com/5451974/r/il/a9eb3b/2279803383/il_fullxfull.2279803383_gt2h.jpg" alt="Map of World to Use for Worldle" /></a>
 
 <strong><a href="#web-development-resources"><g-emoji class="g-emoji" alias="arrow_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b06.png">⬆</g-emoji> Back to Top</a></strong>
