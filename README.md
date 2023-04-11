@@ -386,7 +386,7 @@ flowchart LR
 * [Image Grid Examples/Thoughts](https://www.canva.com/features/design-grid/)
 * [Color Fundamentals - Differences b/w RGB, CMYK, CMYKOGV, and SPOT Colors](https://www.pantone.com/articles/color-fundamentals/understanding-different-color-spaces)
 * [Colors for the Web: Suggested CSS4 Standards](https://blog.bitsrc.io/hex-vs-rgb-vs-hsl-what-is-the-best-method-to-set-css-color-property-f45d2debeee)
-* 
+* [Heuristic Evaluation and Interaction Design](https://www.interaction-design.org/literature/topics/heuristic-evaluation)
 * [Add Accents to Letters on Windows](https://sites.psu.edu/symbolcodes/windows/codealt/)
 * [Line Readability and Character Count](https://baymard.com/blog/line-length-readability)
 * [Using Êg to get actual height of a line](https://stackoverflow.com/questions/14061228/remove-white-space-above-and-below-large-text-in-an-inline-block-element)
