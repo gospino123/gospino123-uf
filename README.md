@@ -89,6 +89,7 @@
   <p>Web Content Accessibility Guidelines
     <ul>
      <li><a href="https://www.w3.org/TR/WCAG22/">Web Content Accessibility Guidelines (WCAG) 2.2</a></li>
+     <li><a href="https://www.dms.myflorida.com/support/accessibility_statement#:~:text=All%20Florida%20State%20Government%20websites,Wide%20Web%20Consortium%20(W3C).">Florida Accessibility Statement and Section 508</a></li>
     </ul>
   </p>
 <!-- </details> -->
