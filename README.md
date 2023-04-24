@@ -325,6 +325,7 @@ flowchart LR
 * [Chrome Color Contrast Analyzer](https://accessibility.oit.ncsu.edu/it-accessibility-at-nc-state/developers/tools/color-contrast-analyzer-for-chrome/)<br> _Extension with explanation on use_
 * [Color Blindness Filter Checker](https://www.toptal.com/designers/colorfilter/)<br> _Check ADA, CTA effectiveness and Gradient use_
 * [Web Accessibility Compliance Consultants Blog](https://www.accessibility.works/blog/)
+* [Great Color Branding Guide from UCLA](https://brand.ucla.edu/identity/colors)
 
 #### Screen Readers
 * [Windows Narrator Keyboard Shortcuts](https://support.microsoft.com/en-us/windows/appendix-b-narrator-keyboard-commands-and-touch-gestures-8bdab3f4-b3e9-4554-7f28-8b15bd37410a)<br> _Narrator keyboard commands and touch gestures page via Windows Support_
