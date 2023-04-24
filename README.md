@@ -1076,5 +1076,8 @@ Padding/Margin/Layout
 * Talk about time off requests
 * Time Approvals -> Should be completed before EOD Thursdays
 
+## Phones
+* [Cisco IP Phone 7965](https://www.uvm.edu/sites/default/files/Telecommunications-and-Network-Services/7965-CiscoQuickstartGuide-2020.pdf)
+
 <br> 
 <br>
