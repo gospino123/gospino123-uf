@@ -506,6 +506,7 @@ flowchart LR
 ### Google Analytics 
 * [Custom Reporting](https://www.socialmediaexaminer.com/how-to-create-custom-reports-in-google-analytics/)
 * [Tracking Device Orientation](https://analytical42.com/2016/track-device-orientation-changes-google-analytics/)
+* [Google Analytics Alternative: Matomo (100% data ownership)](https://matomo.org/)
 
 ### Practice
 * [Recursion](https://www.w3resource.com/javascript-exercises/javascript-recursion-functions-exercises.php)
