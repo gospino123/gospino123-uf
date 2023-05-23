@@ -89,6 +89,7 @@
   <p>Web Content Accessibility Guidelines
     <ul>
      <li><a href="https://www.w3.org/TR/WCAG22/">Web Content Accessibility Guidelines (WCAG) 2.2</a></li>
+     <li><a href="https://www.dms.myflorida.com/support/accessibility_statement#:~:text=All%20Florida%20State%20Government%20websites,Wide%20Web%20Consortium%20(W3C).">Florida Accessibility Statement and Section 508</a></li>
     </ul>
   </p>
 <!-- </details> -->
@@ -181,6 +182,11 @@
 |Narrator(SR)<br> `Win + Ctrl + Enter`| | | Share Screen Prompt<br> `Alt + S` | |
 
 <strong><a href="#web-development-resources"><g-emoji class="g-emoji" alias="arrow_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b06.png">⬆</g-emoji> Back to Top</a></strong>
+
+### JS Bookmarkets
+* `javascript: document.designMode="on"; void 0;` - Lets everything become editable. Click and type.
+* `javascript: document.querySelectorAll("*").forEach(element => element.style.background="rgb(0 0 0 / 10%)");` - Check bounds and distance b/w elements
+* `javascript: document.querySelector("SELECTOR").click();` - Customizable: Activate event quickly
 
 ## ITSM :chart_with_upwards_trend: Standards
 ### Workflow 🥚:hatching_chick::hatched_chick::baby_chick: Process
@@ -323,10 +329,14 @@ flowchart LR
     * [JSON Color Checker for #07317B Dark Blue on #ECECEC Gray](https://webaim.org/resources/contrastchecker/?fcolor=07317B&bcolor=ECECEC&api)<br> _**EM Gray**_
 * [Chrome Color Contrast Analyzer](https://accessibility.oit.ncsu.edu/it-accessibility-at-nc-state/developers/tools/color-contrast-analyzer-for-chrome/)<br> _Extension with explanation on use_
 * [Color Blindness Filter Checker](https://www.toptal.com/designers/colorfilter/)<br> _Check ADA, CTA effectiveness and Gradient use_
+* [Web Accessibility Compliance Consultants Blog](https://www.accessibility.works/blog/)
+* [Great Color Branding Guide from UCLA](https://brand.ucla.edu/identity/colors)
 
 #### Screen Readers
 * [Windows Narrator Keyboard Shortcuts](https://support.microsoft.com/en-us/windows/appendix-b-narrator-keyboard-commands-and-touch-gestures-8bdab3f4-b3e9-4554-7f28-8b15bd37410a)<br> _Narrator keyboard commands and touch gestures page via Windows Support_
 * [Cross Browser Environments and Screenreaders](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/Accessibility#screenreader_testing)<br> _Considerations for accessibility-first development and screenreaders_
+* [PDF Accessibility from WebAIM](https://webaim.org/techniques/acrobat/acrobat)
+* [Helpful Walkthrough for InDesign Accessibility Tools and Use](https://etsupport.freshdesk.com/support/solutions/articles/4000160733-accessibility-tools-in-adobe-indesign) & [Adobe InDesign Accessibility Documentation](https://www.adobe.com/accessibility/products/indesign.edu.html)
 
 #### Trainings
 * [Access UF Training Sessions](https://training.it.ufl.edu/)<br> _Access some accessibility training through UF_
@@ -383,7 +393,7 @@ flowchart LR
 * [Image Grid Examples/Thoughts](https://www.canva.com/features/design-grid/)
 * [Color Fundamentals - Differences b/w RGB, CMYK, CMYKOGV, and SPOT Colors](https://www.pantone.com/articles/color-fundamentals/understanding-different-color-spaces)
 * [Colors for the Web: Suggested CSS4 Standards](https://blog.bitsrc.io/hex-vs-rgb-vs-hsl-what-is-the-best-method-to-set-css-color-property-f45d2debeee)
-* 
+* [Heuristic Evaluation and Interaction Design](https://www.interaction-design.org/literature/topics/heuristic-evaluation)
 * [Add Accents to Letters on Windows](https://sites.psu.edu/symbolcodes/windows/codealt/)
 * [Line Readability and Character Count](https://baymard.com/blog/line-length-readability)
 * [Using Êg to get actual height of a line](https://stackoverflow.com/questions/14061228/remove-white-space-above-and-below-large-text-in-an-inline-block-element)
@@ -391,6 +401,7 @@ flowchart LR
 * [Lo-fi Wireframe Kit - Figma](https://www.lofiwireframekit.com/?utm_source=An+Event+Apart+Mailing+List&utm_campaign=9010a52ba8-quickclicks-august-23&utm_medium=email&utm_term=0_26aac3d902-9010a52ba8-87358573&mc_cid=9010a52ba8&mc_eid=382b884c5d)
 * [Future: Creative Asset Review Tool](https://govisually.com/)
 * [Text Spacing and Accessibility](https://www.w3.org/WAI/WCAG21/Understanding/text-spacing.html)
+* [Wireframes in XD](https://www.adobe.com/products/xd/learn/design/productivity/how-to-wireframe-xd.html)
 </details>
 
 #### Grace Recommendations
@@ -500,6 +511,8 @@ flowchart LR
 ### Google Analytics 
 * [Custom Reporting](https://www.socialmediaexaminer.com/how-to-create-custom-reports-in-google-analytics/)
 * [Tracking Device Orientation](https://analytical42.com/2016/track-device-orientation-changes-google-analytics/)
+* [Google Analytics Alternative: Matomo (100% data ownership)](https://matomo.org/)
+* [GitLab - DevSecOps Platform: Alternative to GitHub](https://about.gitlab.com/)
 
 ### Practice
 * [Recursion](https://www.w3resource.com/javascript-exercises/javascript-recursion-functions-exercises.php)
@@ -514,6 +527,33 @@ flowchart LR
 * https://vscode.dev/
 * https://replit.com
  
+</details>
+
+<details><summary>base64convert function</summary>
+ <pre>
+ function base64convert (files) {
+   console.clear()
+   const reader = new FileReader()
+   reader.onload = (e) => {
+     console.log(e.target.result)
+   }
+   reader.readAsDataURL(files[0])
+ } <input type="file" onchange="base64convert(this.files)"> @font-face {
+     font-family: 'myfont';
+     src: url("<<copied base64 string>>");
+ }
+ </pre>
+</details>
+<details><summary>base64 in font-face</summary>
+ <pre>
+  @font-face {
+    font-family: 'gentonabook';
+    src: url(data:application/font-woff2;charset=utf-8;base64, USEBASE64HERE ) format('woff2'),
+         url(data:application/font-woff;charset=utf-8;base64, USEBASE64HERE) format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+ </pre>
 </details>
 
 <a href="https://geology.com/world/world-map.shtml"><img src="https://i.etsystatic.com/5451974/r/il/a9eb3b/2279803383/il_fullxfull.2279803383_gt2h.jpg" alt="Map of World to Use for Worldle" /></a>
@@ -1043,6 +1083,9 @@ Padding/Margin/Layout
 * Explain current projects and statuses on those projects
 * Talk about time off requests
 * Time Approvals -> Should be completed before EOD Thursdays
+
+## Phones
+* [Cisco IP Phone 7965](https://www.uvm.edu/sites/default/files/Telecommunications-and-Network-Services/7965-CiscoQuickstartGuide-2020.pdf)
 
 <br> 
 <br>
