@@ -183,6 +183,11 @@
 
 <strong><a href="#web-development-resources"><g-emoji class="g-emoji" alias="arrow_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b06.png">⬆</g-emoji> Back to Top</a></strong>
 
+### JS Bookmarkets
+* `javascript: document.designMode="on"; void 0;` - Lets everything become editable. Click and type.
+* `javascript: document.querySelectorAll("*").forEach(element => element.style.background="rgb(0 0 0 / 10%)");` - Check bounds and distance b/w elements
+* `javascript: document.querySelector("SELECTOR").click();` - Customizable: Activate event quickly
+
 ## ITSM :chart_with_upwards_trend: Standards
 ### Workflow 🥚:hatching_chick::hatched_chick::baby_chick: Process
 ```mermaid
